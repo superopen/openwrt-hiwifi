@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/Kconfig
+END
+cryptodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/cryptodev.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/random.c
+END
+crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/crypto.c
+END
+uio.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/uio.h
+END
+criov.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/criov.c
+END
+rndtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/rndtest.c
+END
+ocf-bench.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ocf-bench.c
+END
+cryptodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/cryptodev.h
+END
+rndtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/rndtest.h
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/Config.in
+END
+cryptosoft.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/cryptosoft.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/Makefile
+END
+ocf-compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ocf-compat.h
+END

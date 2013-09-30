@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/package/wireless-tools/patches
+END
+002-fix-iwconfig-power-argument-parsing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/package/wireless-tools/patches/002-fix-iwconfig-power-argument-parsing.patch
+END
+004-increase_iwlist_buffer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/package/wireless-tools/patches/004-increase_iwlist_buffer.patch
+END
+001-debian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/wireless-tools/patches/001-debian.patch
+END
+003-we_essential_def.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/wireless-tools/patches/003-we_essential_def.patch
+END

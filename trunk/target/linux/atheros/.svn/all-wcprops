@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/atheros
+END
+config-3.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/atheros/config-3.3
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/atheros/Makefile
+END

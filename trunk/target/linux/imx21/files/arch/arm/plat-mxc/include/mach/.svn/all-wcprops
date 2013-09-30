@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/imx21/files/arch/arm/plat-mxc/include/mach
+END
+board-vp6500.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/imx21/files/arch/arm/plat-mxc/include/mach/board-vp6500.h
+END

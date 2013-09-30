@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/cpu/mips
+END
+ifx_asc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/cpu/mips/ifx_asc.h
+END
+ar9-clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/cpu/mips/ar9-clock.c
+END
+danube-clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/cpu/mips/danube-clock.c
+END
+ifx_asc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/cpu/mips/ifx_asc.c
+END

@@ -1,0 +1,1037 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/4/trunk/target/linux/generic/patches-3.3
+END
+950-vm_exports.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/950-vm_exports.patch
+END
+811-pci_disable_usb_common_quirks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/811-pci_disable_usb_common_quirks.patch
+END
+600-netfilter_layer7_2.22.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/600-netfilter_layer7_2.22.patch
+END
+330-mips-add-crash-and-kdump-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/330-mips-add-crash-and-kdump-support.patch
+END
+670-ipv6-allow-rejecting-with-source-address-failed-policy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/670-ipv6-allow-rejecting-with-source-address-failed-policy.patch
+END
+110-fix_mtd_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/110-fix_mtd_include.patch
+END
+653-disable_netlink_trim.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/653-disable_netlink_trim.patch
+END
+210-darwin_scripts_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/210-darwin_scripts_include.patch
+END
+864-gpiommc_configfs_locking.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/864-gpiommc_configfs_locking.patch
+END
+750-hostap_txpower.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/750-hostap_txpower.patch
+END
+862-gpio_spi_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/862-gpio_spi_driver.patch
+END
+334-mips-fix-compiling-failure-of-relocate_kernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/334-mips-fix-compiling-failure-of-relocate_kernel.patch
+END
+921-use_preinit_as_init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/921-use_preinit_as_init.patch
+END
+500-yaffs_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/500-yaffs_support.patch
+END
+253-ssb_b43_default_on.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/253-ssb_b43_default_on.patch
+END
+331-mips-kexec-enhanche-the-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/331-mips-kexec-enhanche-the-support.patch
+END
+304-mips_disable_fpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/304-mips_disable_fpu.patch
+END
+220-module_exports.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/220-module_exports.patch
+END
+870-hifn795x_byteswap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/870-hifn795x_byteswap.patch
+END
+930-crashlog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/930-crashlog.patch
+END
+840-rtc7301.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/840-rtc7301.patch
+END
+601-netfilter_layer7_pktmatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/601-netfilter_layer7_pktmatch.patch
+END
+309-mips_fuse_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/309-mips_fuse_workaround.patch
+END
+070-gpio-add-flags-to-export-GPIOs-when-requesting.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/070-gpio-add-flags-to-export-GPIOs-when-requesting.patch
+END
+726-phy_rtl8366.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/726-phy_rtl8366.patch
+END
+630-packet_socket_type.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/630-packet_socket_type.patch
+END
+430-mtd_myloader_partition_parser.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/430-mtd_myloader_partition_parser.patch
+END
+651-wireless_mesh_header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/651-wireless_mesh_header.patch
+END
+308-mips-show-correct-cpu-name-for-24KEc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/308-mips-show-correct-cpu-name-for-24KEc.patch
+END
+861-04_spi_gpio_implement_spi_delay.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/861-04_spi_gpio_implement_spi_delay.patch
+END
+510-jffs2_make_lzma_available.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/510-jffs2_make_lzma_available.patch
+END
+512-jffs2_eofdetect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/512-jffs2_eofdetect.patch
+END
+479-mtd_m25p80_GD_micron.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/4/trunk/target/linux/generic/patches-3.3/479-mtd_m25p80_GD_micron.patch
+END
+250-netfilter_depends.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/250-netfilter_depends.patch
+END
+865-gpiopwm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/865-gpiopwm.patch
+END
+605-netfilter_conntrack_flush.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/605-netfilter_conntrack_flush.patch
+END
+603-netfilter_layer7_2.6.36_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/603-netfilter_layer7_2.6.36_fix.patch
+END
+710-phy-add-mdio_register_board_info.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/710-phy-add-mdio_register_board_info.patch
+END
+831-ledtrig_netdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/831-ledtrig_netdev.patch
+END
+611-netfilter_match_bypass_default_table.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/611-netfilter_match_bypass_default_table.patch
+END
+440-block2mtd_init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/440-block2mtd_init.patch
+END
+420-redboot_space.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/420-redboot_space.patch
+END
+940-ocf_kbuild_integration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/940-ocf_kbuild_integration.patch
+END
+994-mpcore_wdt_fix_timer_mode_setup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/994-mpcore_wdt_fix_timer_mode_setup.patch
+END
+045-codel-use-u16-field-instead-of-31bits-for-rec_inv_sq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/045-codel-use-u16-field-instead-of-31bits-for-rec_inv_sq.patch
+END
+900-slab_maxsize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/900-slab_maxsize.patch
+END
+641-bridge_always_accept_eap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/641-bridge_always_accept_eap.patch
+END
+476-mtd-m25p80-allow-to-disable-small-sector-erase.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/476-mtd-m25p80-allow-to-disable-small-sector-erase.patch
+END
+400-rootfs_split.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/400-rootfs_split.patch
+END
+473-mtd_m25p80_add_w25q128.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/473-mtd_m25p80_add_w25q128.patch
+END
+301-mips_image_cmdline_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/301-mips_image_cmdline_hack.patch
+END
+470-mtd_m25p80_add_pm25lv_flash_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/470-mtd_m25p80_add_pm25lv_flash_support.patch
+END
+212-x86_reloc_portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/212-x86_reloc_portability.patch
+END
+006-arm_kernel_xz_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/006-arm_kernel_xz_support.patch
+END
+602-netfilter_layer7_match.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/602-netfilter_layer7_match.patch
+END
+541-ubifs-xz-decompression-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/541-ubifs-xz-decompression-support.patch
+END
+303-mips_fix_kexec.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/303-mips_fix_kexec.patch
+END
+130-pppoatm-queue-depth.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/130-pppoatm-queue-depth.patch
+END
+863-gpiommc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/863-gpiommc.patch
+END
+507-yaffs2-3.3_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/507-yaffs2-3.3_fix.patch
+END
+612-netfilter_match_reduce_memory_access.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/612-netfilter_match_reduce_memory_access.patch
+END
+910-kobject_uevent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/910-kobject_uevent.patch
+END
+920-unable_to_open_console.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/920-unable_to_open_console.patch
+END
+460-cfi_cmdset_0002_no_erase_suspend.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/460-cfi_cmdset_0002_no_erase_suspend.patch
+END
+046-fq_codel-qdisc-backlog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/046-fq_codel-qdisc-backlog.patch
+END
+255-lib80211_kconfig_hacks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/255-lib80211_kconfig_hacks.patch
+END
+256-crypto_add_kconfig_prompts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/256-crypto_add_kconfig_prompts.patch
+END
+650-pppoe_header_pad.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/650-pppoe_header_pad.patch
+END
+020-ssb_update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/020-ssb_update.patch
+END
+655-increase_skb_pad.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/655-increase_skb_pad.patch
+END
+642-bridge_port_isolate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/642-bridge_port_isolate.patch
+END
+820-usb_add_usb_find_device_by_name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/820-usb_add_usb_find_device_by_name.patch
+END
+251-sound_kconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/251-sound_kconfig.patch
+END
+051-rng_git_backport-remove_irqf_sample_random.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/051-rng_git_backport-remove_irqf_sample_random.patch
+END
+421-redboot_boardconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/421-redboot_boardconfig.patch
+END
+477-mtd-m25p80-add-support-for-the-EON-EN25Q64-chip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/477-mtd-m25p80-add-support-for-the-EON-EN25Q64-chip.patch
+END
+941-ocf_20120127.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/941-ocf_20120127.patch
+END
+644-bridge_optimize_netfilter_hooks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/644-bridge_optimize_netfilter_hooks.patch
+END
+540-crypto-xz-decompression-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/540-crypto-xz-decompression-support.patch
+END
+202-reduce_module_size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/202-reduce_module_size.patch
+END
+506-yaffs2-3.2_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/506-yaffs2-3.2_fix.patch
+END
+102-ehci_hcd_ignore_oc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/102-ehci_hcd_ignore_oc.patch
+END
+835-gpiodev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/835-gpiodev.patch
+END
+980-update_arm_machtypes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/980-update_arm_machtypes.patch
+END
+257-wireless_ext_kconfig_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/257-wireless_ext_kconfig_hack.patch
+END
+604-netfilter_cisco_794x_iphone.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/604-netfilter_cisco_794x_iphone.patch
+END
+050-rng_git_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/050-rng_git_backport.patch
+END
+258-netfilter_netlink_kconfig_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/258-netfilter_netlink_kconfig_hack.patch
+END
+702-phy_add_aneg_done_function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/702-phy_add_aneg_done_function.patch
+END
+643-bridge_remove_ipv6_dependency.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/643-bridge_remove_ipv6_dependency.patch
+END
+252-mv_cesa_depends.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/252-mv_cesa_depends.patch
+END
+306-mips_mem_functions_performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/306-mips_mem_functions_performance.patch
+END
+450-mtd_plat_nand_chip_fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/450-mtd_plat_nand_chip_fixup.patch
+END
+340-module_alloc_size_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/340-module_alloc_size_check.patch
+END
+475-mtd_cfi_cmdset_0002-add-buffer-write-cmd-timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/475-mtd_cfi_cmdset_0002-add-buffer-write-cmd-timeout.patch
+END
+321-powerpc_crtsavres_prereq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/321-powerpc_crtsavres_prereq.patch
+END
+668-ipv6-fix-handling-of-throw-routes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/668-ipv6-fix-handling-of-throw-routes.patch
+END
+230-openwrt_lzma_options.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/230-openwrt_lzma_options.patch
+END
+613-netfilter_optional_tcp_window_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/613-netfilter_optional_tcp_window_check.patch
+END
+410-mtd_info_move_forward_decl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/410-mtd_info_move_forward_decl.patch
+END
+401-partial_eraseblock_write.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/401-partial_eraseblock_write.patch
+END
+048-spi-Dont-call-prepare-unprepare-transfer-if-not-popu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/048-spi-Dont-call-prepare-unprepare-transfer-if-not-popu.patch
+END
+830-ledtrig_morse.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/830-ledtrig_morse.patch
+END
+620-sched_esfq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/620-sched_esfq.patch
+END
+810-pci_disable_common_quirks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/810-pci_disable_common_quirks.patch
+END
+041-codel-use-Newton-method-instead-of-sqrt-and-divides.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/041-codel-use-Newton-method-instead-of-sqrt-and-divides.patch
+END
+047-spi_message_queue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/047-spi_message_queue.patch
+END
+725-phy_rtl8306.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/725-phy_rtl8306.patch
+END
+960-decompress_unlzo_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/960-decompress_unlzo_fix.patch
+END
+442-block2mtd_probe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/442-block2mtd_probe.patch
+END
+503-yaffs_symlink_bug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/503-yaffs_symlink_bug.patch
+END
+610-netfilter_match_bypass_default_checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/610-netfilter_match_bypass_default_checks.patch
+END
+721-phy_packets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/721-phy_packets.patch
+END
+700-swconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/700-swconfig.patch
+END
+307-mips_oprofile_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/307-mips_oprofile_fix.patch
+END
+720-phy_adm6996.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/720-phy_adm6996.patch
+END
+654-avoid_skb_cow_realloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/654-avoid_skb_cow_realloc.patch
+END
+300-mips_expose_boot_raw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/300-mips_expose_boot_raw.patch
+END
+728-phy-micrel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/728-phy-micrel.patch
+END
+665-ipv6-fix-handling-of-blackhole-and-prohibit-routes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/665-ipv6-fix-handling-of-blackhole-and-prohibit-routes.patch
+END
+310-arm_module_unresolved_weak_sym.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/310-arm_module_unresolved_weak_sym.patch
+END
+335-mips-kexec-cleanup-kexec-tools-parameter-handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/335-mips-kexec-cleanup-kexec-tools-parameter-handling.patch
+END
+320-ppc4xx_optimization.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/320-ppc4xx_optimization.patch
+END
+049-codel-refine-one-condition-to-avoid-a-nul-rec_inv_sqrt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/049-codel-refine-one-condition-to-avoid-a-nul-rec_inv_sqrt.patch
+END
+259-compressor_kconfig_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/259-compressor_kconfig_hack.patch
+END
+511-debloat_lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/511-debloat_lzma.patch
+END
+090-CVE-2013-1763.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/090-CVE-2013-1763.patch
+END
+727-phy-rtl8367.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/727-phy-rtl8367.patch
+END
+850-glamo_headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/850-glamo_headers.patch
+END
+504-yaffs_mutex_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/504-yaffs_mutex_fix.patch
+END
+992-mpcore_wdt_fix_watchdog_counter_loading.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/992-mpcore_wdt_fix_watchdog_counter_loading.patch
+END
+993-mpcore_wdt_fix_wdioc_setoptions_handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/993-mpcore_wdt_fix_wdioc_setoptions_handling.patch
+END
+832-ledtrig_usbdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/832-ledtrig_usbdev.patch
+END
+550-ubifs-symlink-xattr-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/550-ubifs-symlink-xattr-support.patch
+END
+841-rtc_pt7c4338.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/841-rtc_pt7c4338.patch
+END
+332-mips-kexec-init-the-arguments-for-the-new-kernel-image.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/332-mips-kexec-init-the-arguments-for-the-new-kernel-image.patch
+END
+302-mips_use_generic_thread_info_allocator.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/302-mips_use_generic_thread_info_allocator.patch
+END
+080-prot-release-cb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/080-prot-release-cb.patch
+END
+652-atm_header_changes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/652-atm_header_changes.patch
+END
+025-bcma_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/025-bcma_backport.patch
+END
+254-textsearch_kconfig_hacks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/254-textsearch_kconfig_hacks.patch
+END
+100-overlayfs_v12.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/100-overlayfs_v12.patch
+END
+132-solos-dma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/132-solos-dma.patch
+END
+723-phy_ip175c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/723-phy_ip175c.patch
+END
+333-mips-kexec-get-kernel-parameters-from-kexec-tools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/333-mips-kexec-get-kernel-parameters-from-kexec-tools.patch
+END
+520-squashfs_update_xz_comp_opts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/520-squashfs_update_xz_comp_opts.patch
+END
+044-net-codel-fix-build-errors.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/044-net-codel-fix-build-errors.patch
+END
+043-net-codel-Add-missing-include-linux-prefetch.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/043-net-codel-Add-missing-include-linux-prefetch.h.patch
+END
+724-phy_ar8216.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/724-phy_ar8216.patch
+END
+040-Controlled-Delay-AQM.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/040-Controlled-Delay-AQM.patch
+END
+322-ppc4xx-crypto-compile-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/322-ppc4xx-crypto-compile-fix.patch
+END
+729-phy-tantos.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/729-phy-tantos.patch
+END
+201-extra_optimization.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/201-extra_optimization.patch
+END
+443-block2mtd-avoid-recursive-call-of-mtd_writev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/443-block2mtd-avoid-recursive-call-of-mtd_writev.patch
+END
+722-phy_mvswitch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/722-phy_mvswitch.patch
+END
+131-atm-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/131-atm-fixes.patch
+END
+701-phy_extension.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/701-phy_extension.patch
+END
+140-ixp4xx_hss_module_h_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/140-ixp4xx_hss_module_h_include.patch
+END
+478-mtd-partial_eraseblock_unlock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/478-mtd-partial_eraseblock_unlock.patch
+END
+451-mtd_fix_nand_correct_data_return_code.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/451-mtd_fix_nand_correct_data_return_code.patch
+END
+441-block2mtd_refresh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/441-block2mtd_refresh.patch
+END
+200-fix_localversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/200-fix_localversion.patch
+END
+305-mips_module_reloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/305-mips_module_reloc.patch
+END
+660-ipv6-loopback-policy-routing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/660-ipv6-loopback-policy-routing.patch
+END
+640-bridge_no_eap_forward.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/640-bridge_no_eap_forward.patch
+END
+729-phy-rtl8367b.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/729-phy-rtl8367b.patch
+END
+911-kobject_add_broadcast_uevent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/911-kobject_add_broadcast_uevent.patch
+END
+621-sched_act_connmark.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/621-sched_act_connmark.patch
+END
+065-8139cp-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/065-8139cp-fixes.patch
+END
+505-2.6.39_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/505-2.6.39_fix.patch
+END
+211-stddef_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/211-stddef_include.patch
+END
+042-fq_codel-Fair-Queue-Codel-AQM.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/patches-3.3/042-fq_codel-Fair-Queue-Codel-AQM.patch
+END

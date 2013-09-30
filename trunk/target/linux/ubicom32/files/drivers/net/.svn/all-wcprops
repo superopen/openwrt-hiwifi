@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/net
+END
+ubi32-eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/net/ubi32-eth.c
+END
+ubi32-eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/net/ubi32-eth.h
+END

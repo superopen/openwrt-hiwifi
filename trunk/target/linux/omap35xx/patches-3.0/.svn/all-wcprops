@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-3.0
+END
+001-change_partition_table.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-3.0/001-change_partition_table.patch
+END
+002-fix_twl_rtc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-3.0/002-fix_twl_rtc.patch
+END

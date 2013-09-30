@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/package/arptables/patches
+END
+100-always_optimize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/arptables/patches/100-always_optimize.patch
+END

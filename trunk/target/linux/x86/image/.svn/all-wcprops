@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image
+END
+gen_image_generic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/gen_image_generic.sh
+END
+gen_image_olpc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/gen_image_olpc.sh
+END
+gen_image_grub.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/gen_image_grub.sh
+END
+menu.lst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/menu.lst
+END
+grub-early.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/grub-early.cfg
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/Makefile
+END
+grub.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/grub.cfg
+END
+olpc.fth
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/image/olpc.fth
+END

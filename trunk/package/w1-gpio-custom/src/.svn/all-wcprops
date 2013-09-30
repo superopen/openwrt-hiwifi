@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/package/w1-gpio-custom/src
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/w1-gpio-custom/src/Kconfig
+END
+w1-gpio-custom.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/w1-gpio-custom/src/w1-gpio-custom.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/w1-gpio-custom/src/Makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/lib/upgrade
+END
+dir825.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/lib/upgrade/dir825.sh
+END
+twarxx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/lib/upgrade/twarxx.sh
+END
+openmesh.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/lib/upgrade/openmesh.sh
+END
+allnet.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/lib/upgrade/allnet.sh
+END
+platform.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/lib/upgrade/platform.sh
+END

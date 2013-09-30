@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/atheros/base-files/lib/upgrade
+END
+platform.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/atheros/base-files/lib/upgrade/platform.sh
+END

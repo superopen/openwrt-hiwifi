@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/100-uclibc-conf.patch
+END
+820-libgcc_pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/820-libgcc_pic.patch
+END
+993-arm_insn-opinit-RTX_CODE-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/993-arm_insn-opinit-RTX_CODE-fixup.patch
+END
+830-arm_unbreak_armv4t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/830-arm_unbreak_armv4t.patch
+END
+850-use_shared_libgcc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/850-use_shared_libgcc.patch
+END
+200-ppc_include_config_linux_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/200-ppc_include_config_linux_h.patch
+END
+840-armv4_pass_fix-v4bx_to_ld.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/840-armv4_pass_fix-v4bx_to_ld.patch
+END
+810-arm-softfloat-libgcc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/810-arm-softfloat-libgcc.patch
+END
+910-mbsd_multi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/910-mbsd_multi.patch
+END
+995-fa526.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/995-fa526.patch
+END
+305-libmudflap-susv3-legacy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/305-libmudflap-susv3-legacy.patch
+END
+302-c99-snprintf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/302-c99-snprintf.patch
+END
+010-documentation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/010-documentation.patch
+END
+600-ubicom_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/600-ubicom_support.patch
+END
+920-specs_nonfatal_getenv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/920-specs_nonfatal_getenv.patch
+END
+301-missing-execinfo_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/301-missing-execinfo_h.patch
+END
+999-coldfire.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/4.5-linaro/999-coldfire.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/power
+END
+bq27000_battery.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/power/bq27000_battery.c
+END
+hdq.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/power/hdq.c
+END

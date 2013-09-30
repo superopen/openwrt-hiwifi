@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/au1000/au1550
+END
+config-3.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/au1000/au1550/config-3.3
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/au1000/au1550/target.mk
+END

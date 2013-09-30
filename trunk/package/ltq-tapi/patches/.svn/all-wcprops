@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/package/ltq-tapi/patches
+END
+200-linux-37.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/ltq-tapi/patches/200-linux-37.patch
+END
+100-ifxmips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/ltq-tapi/patches/100-ifxmips.patch
+END
+000-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/ltq-tapi/patches/000-portability.patch
+END

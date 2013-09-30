@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/Kconfig
+END
+mach-dir-645.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/mach-dir-645.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/setup.c
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/devices.c
+END
+early_printk.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/early_printk.c
+END
+mach-rt-n56u.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/mach-rt-n56u.c
+END
+devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/devices.h
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/clock.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/irq.c
+END
+mach-tew-691gr.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/mach-tew-691gr.c
+END
+rt3883.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/rt3883.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/Makefile
+END
+mach-tew-692gr.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/mach-tew-692gr.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt3883/common.h
+END

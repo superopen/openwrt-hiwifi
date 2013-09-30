@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/board/n516
+END
+u-boot-nand.lds
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/board/n516/u-boot-nand.lds
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/board/n516/u-boot.lds
+END
+n516.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/board/n516/n516.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/board/n516/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/board/n516/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/board/n516/flash.c
+END

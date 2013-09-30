@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/rt288x/profiles
+END
+asus.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/rt288x/profiles/asus.mk
+END
+00-default.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/rt288x/profiles/00-default.mk
+END
+belkin.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/rt288x/profiles/belkin.mk
+END

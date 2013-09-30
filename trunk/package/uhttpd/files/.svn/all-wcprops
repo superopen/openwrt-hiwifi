@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/package/uhttpd/files
+END
+uhttpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/uhttpd/files/uhttpd.init
+END
+uhttpd.config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/uhttpd/files/uhttpd.config
+END

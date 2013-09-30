@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/generic
+END
+config-default
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/generic/config-default
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/generic/target.mk
+END

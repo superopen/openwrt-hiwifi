@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips
+END
+base-files.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/Makefile
+END
+modules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/modules.mk
+END

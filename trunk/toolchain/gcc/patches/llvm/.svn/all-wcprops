@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm
+END
+205-uclibc-locale-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/205-uclibc-locale-update.patch
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/100-uclibc-conf.patch
+END
+300-libstdc++-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/300-libstdc++-pic.patch
+END
+910-soft-float.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/910-soft-float.patch
+END
+920-soft-float.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/920-soft-float.patch
+END
+951-bug_37014.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/951-bug_37014.patch
+END
+960-apple_no_m32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/960-apple_no_m32.patch
+END
+307-locale_facets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/307-locale_facets.patch
+END
+304-index_macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/304-index_macro.patch
+END
+200-uclibc-locale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/200-uclibc-locale.patch
+END
+961-llvm_mips_compile_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/961-llvm_mips_compile_fix.patch
+END
+303-c99-complex-ugly-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/303-c99-complex-ugly-hack.patch
+END
+952-bug_34762.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/952-bug_34762.patch
+END
+203-uclibc-locale-no__x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/203-uclibc-locale-no__x.patch
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/800-arm-bigendian.patch
+END
+910-mbsd_multi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/910-mbsd_multi.patch
+END
+305-libmudflap-susv3-legacy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/305-libmudflap-susv3-legacy.patch
+END
+302-c99-snprintf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/302-c99-snprintf.patch
+END
+930-eabi_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/930-eabi_fixes.patch
+END
+904-flatten-switch-stmt-00.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/904-flatten-switch-stmt-00.patch
+END
+402-libbackend_dep_gcov-iov.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/402-libbackend_dep_gcov-iov.h.patch
+END
+204-uclibc-locale-wchar_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/204-uclibc-locale-wchar_fix.patch
+END
+306-libstdc++-namespace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/306-libstdc++-namespace.patch
+END
+301-missing-execinfo_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/gcc/patches/llvm/301-missing-execinfo_h.patch
+END

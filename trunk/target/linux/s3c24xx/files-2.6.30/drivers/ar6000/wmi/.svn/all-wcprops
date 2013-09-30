@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/wmi
+END
+wmi_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/wmi/wmi_host.h
+END
+wmi_doc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/wmi/wmi_doc.h
+END
+wmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/wmi/wmi.c
+END

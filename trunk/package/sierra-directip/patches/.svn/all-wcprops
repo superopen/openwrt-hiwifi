@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/sierra-directip/patches
+END
+110-drop_dhcp_requirement.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/package/sierra-directip/patches/110-drop_dhcp_requirement.patch
+END
+100-sierra_net_endian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/sierra-directip/patches/100-sierra_net_endian.patch
+END

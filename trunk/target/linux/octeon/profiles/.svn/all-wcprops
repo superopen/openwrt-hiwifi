@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/octeon/profiles
+END
+000-Generic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/octeon/profiles/000-Generic.mk
+END
+100-Mototech.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/octeon/profiles/100-Mototech.mk
+END

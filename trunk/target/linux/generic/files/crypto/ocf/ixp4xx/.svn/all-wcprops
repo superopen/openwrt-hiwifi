@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ixp4xx
+END
+ixp4xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ixp4xx/ixp4xx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ixp4xx/Makefile
+END

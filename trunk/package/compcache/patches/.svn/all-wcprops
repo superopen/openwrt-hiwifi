@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/package/compcache/patches
+END
+000-provide_lzo_kmod.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/compcache/patches/000-provide_lzo_kmod.patch
+END
+003-kernel-3.x-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/compcache/patches/003-kernel-3.x-compat.patch
+END
+002-kernel-2.6.34-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/compcache/patches/002-kernel-2.6.34-compat.patch
+END
+001-lzo-speed.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/compcache/patches/001-lzo-speed.patch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/image
+END
+router_le.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/image/router_le.mk
+END
+rb1xx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/image/rb1xx.mk
+END
+router_be.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/image/router_be.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/image/Makefile
+END

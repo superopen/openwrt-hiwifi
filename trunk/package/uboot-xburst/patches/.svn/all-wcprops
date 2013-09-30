@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/patches
+END
+001-xburst.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/patches/001-xburst.patch
+END
+005-i2c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/patches/005-i2c.patch
+END
+009-n516.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/patches/009-n516.patch
+END
+010-sakc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/patches/010-sakc.patch
+END

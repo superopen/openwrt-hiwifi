@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/tools/b43-tools/patches
+END
+002-no_libfl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/tools/b43-tools/patches/002-no_libfl.patch
+END
+100-b43-asm-fix-compile-error-undefined-reference-to-yyd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/tools/b43-tools/patches/100-b43-asm-fix-compile-error-undefined-reference-to-yyd.patch
+END
+001-fw-dirname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/tools/b43-tools/patches/001-fw-dirname.patch
+END

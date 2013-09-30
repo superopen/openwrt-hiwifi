@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/linux_oss
+END
+mvOsSata.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/linux_oss/mvOsSata.h
+END
+mvOs.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/linux_oss/mvOs.c
+END
+mvOs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/linux_oss/mvOs.h
+END

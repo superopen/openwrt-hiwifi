@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/package/util-linux/patches
+END
+001-no-printf-alloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/util-linux/patches/001-no-printf-alloc.patch
+END
+000-compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/util-linux/patches/000-compile.patch
+END

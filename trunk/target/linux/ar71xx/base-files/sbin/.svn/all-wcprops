@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/sbin
+END
+setled
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/sbin/setled
+END
+rled
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/sbin/rled
+END
+wget2nand
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/base-files/sbin/wget2nand
+END

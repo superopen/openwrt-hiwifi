@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles
+END
+104-No-WiFi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles/104-No-WiFi.mk
+END
+200-GW6X00.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles/200-GW6X00.mk
+END
+105-Broadcom-brcmsmac.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles/105-Broadcom-brcmsmac.mk
+END
+103-Ralink.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles/103-Ralink.mk
+END
+100-Broadcom.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles/100-Broadcom.mk
+END
+101-Broadcom-wl.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles/101-Broadcom-wl.mk
+END
+102-Atheros.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm63xx/profiles/102-Atheros.mk
+END

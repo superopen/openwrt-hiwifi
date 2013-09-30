@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/cns21xx/base-files/lib/preinit
+END
+05_cns21xx_load_button_drivers
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/cns21xx/base-files/lib/preinit/05_cns21xx_load_button_drivers
+END

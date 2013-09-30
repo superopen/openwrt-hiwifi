@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/base-files/lib/preinit
+END
+45_failsafe_x86
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/base-files/lib/preinit/45_failsafe_x86
+END
+15_essential_fs_x86
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/base-files/lib/preinit/15_essential_fs_x86
+END
+89_move_config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/base-files/lib/preinit/89_move_config
+END

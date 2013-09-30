@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/atheros/base-files/lib/preinit
+END
+15_preinit_iface_atheros
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/atheros/base-files/lib/preinit/15_preinit_iface_atheros
+END

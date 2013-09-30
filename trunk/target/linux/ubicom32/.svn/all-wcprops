@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32
+END
+config-default
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/config-default
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/Makefile
+END

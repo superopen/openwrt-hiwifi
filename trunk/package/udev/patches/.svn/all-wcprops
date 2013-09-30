@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/package/udev/patches
+END
+0001-build-don-t-use-gc-sections.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/udev/patches/0001-build-don-t-use-gc-sections.patch
+END
+0002-udevd-add-lrt-for-message-queue-symbols.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/package/udev/patches/0002-udevd-add-lrt-for-message-queue-symbols.patch
+END
+0003-add_btn_trigger_happy_define.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/udev/patches/0003-add_btn_trigger_happy_define.patch
+END

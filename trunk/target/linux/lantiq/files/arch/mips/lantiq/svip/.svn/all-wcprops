@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/gpio.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/Kconfig
+END
+pms.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/pms.c
+END
+dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/dma.c
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/devices.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/reset.c
+END
+mach-easy336.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/mach-easy336.c
+END
+mach-easy33016.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/mach-easy33016.c
+END
+devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/devices.h
+END
+clk-svip.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/clk-svip.c
+END
+mux.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/mux.c
+END
+switchip_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/switchip_setup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/svip/prom.c
+END

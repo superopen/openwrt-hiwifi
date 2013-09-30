@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3
+END
+0002-Main-bcm2708-linux-port.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0002-Main-bcm2708-linux-port.patch
+END
+0001-Add-dwc_otg-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0001-Add-dwc_otg-driver.patch
+END
+0007-Fix-headers-for-vchiq-vcos-to-be-GPLv2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0007-Fix-headers-for-vchiq-vcos-to-be-GPLv2.patch
+END
+0006-Allow-mac-address-to-be-set-in-smsc95xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0006-Allow-mac-address-to-be-set-in-smsc95xx.patch
+END
+0005-bcm2708-vchiq-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0005-bcm2708-vchiq-driver.patch
+END
+0500-rpi-patches-geaf792a-9efb4705.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0500-rpi-patches-geaf792a-9efb4705.patch
+END
+0003-bcm2708-watchdog-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0003-bcm2708-watchdog-driver.patch
+END
+0510-fix_divdi3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0510-fix_divdi3.patch
+END
+0004-bcm2708-framebuffer-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm2708/patches-3.3/0004-bcm2708-framebuffer-driver.patch
+END

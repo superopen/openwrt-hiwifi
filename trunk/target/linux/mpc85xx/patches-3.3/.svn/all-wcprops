@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mpc85xx/patches-3.3
+END
+100-fix_mpc8568e_mds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mpc85xx/patches-3.3/100-fix_mpc8568e_mds.patch
+END
+110-fix_mpc8548_cds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mpc85xx/patches-3.3/110-fix_mpc8548_cds.patch
+END
+120-mpc8548_cds_i8259_noirq_init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mpc85xx/patches-3.3/120-mpc8548_cds_i8259_noirq_init.patch
+END
+130-mpc8548_cds_disable_i8259_irq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mpc85xx/patches-3.3/130-mpc8548_cds_disable_i8259_irq.patch
+END

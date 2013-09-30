@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/arch/cris/arch-v10/drivers
+END
+i2c_gvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/arch/cris/arch-v10/drivers/i2c_gvc.h
+END
+etraxi2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/arch/cris/arch-v10/drivers/etraxi2c.h
+END
+i2c_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/arch/cris/arch-v10/drivers/i2c_errno.h
+END
+i2c_gvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/arch/cris/arch-v10/drivers/i2c_gvc.c
+END

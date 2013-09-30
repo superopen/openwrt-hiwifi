@@ -1,0 +1,899 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3
+END
+200-spi-ath79-add-delay-between-SCK-changes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/200-spi-ath79-add-delay-between-SCK-changes.patch
+END
+133-MIPS-ath79-use-a-helper-function-for-USB-resource-in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/133-MIPS-ath79-use-a-helper-function-for-USB-resource-in.patch
+END
+460-spi-bitbang-export-spi_bitbang_bufs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/460-spi-bitbang-export-spi_bitbang_bufs.patch
+END
+136-MIPS-ath79-use-correct-fractional-dividers-for-CPU-D.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/136-MIPS-ath79-use-correct-fractional-dividers-for-CPU-D.patch
+END
+212-MIPS-ath79-fix-GPIO-function-selection-for-AR934x-So.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/212-MIPS-ath79-fix-GPIO-function-selection-for-AR934x-So.patch
+END
+146-MIPS-ath79-register-platform-devices-for-the-PCI-con.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/146-MIPS-ath79-register-platform-devices-for-the-PCI-con.patch
+END
+134-MIPS-ath79-add-USB-platform-setup-code-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/134-MIPS-ath79-add-USB-platform-setup-code-for-AR934X.patch
+END
+404-mtd-wrt160nl-trx-parser.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/404-mtd-wrt160nl-trx-parser.patch
+END
+981-MIPS-ath79-turbowireless-machine.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/981-MIPS-ath79-turbowireless-machine.patch
+END
+983-MIPS-ath79-turbowireless-init-bdinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/983-MIPS-ath79-turbowireless-init-bdinfo.patch
+END
+606-MIPS-ath79-pb44-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/606-MIPS-ath79-pb44-fixes.patch
+END
+103-MIPS-ath79-add-a-common-PCI-registration-function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/103-MIPS-ath79-add-a-common-PCI-registration-function.patch
+END
+143-MIPS-pci-ar724x-convert-to-a-platform-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/143-MIPS-pci-ar724x-convert-to-a-platform-driver.patch
+END
+144-MIPS-pci-ar71xx-convert-to-a-platform-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/144-MIPS-pci-ar71xx-convert-to-a-platform-driver.patch
+END
+401-mtd-physmap-add-lock-unlock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/401-mtd-physmap-add-lock-unlock.patch
+END
+121-MIPS-ath79-add-SoC-detection-code-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/121-MIPS-ath79-add-SoC-detection-code-for-AR934X.patch
+END
+166-MIPS-ath79-register-UART-for-the-QCA955X-SoCs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/166-MIPS-ath79-register-UART-for-the-QCA955X-SoCs.patch
+END
+142-MIPS-pci-ar71xx-fix-AR71XX_PCI_MEM_SIZE.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/142-MIPS-pci-ar71xx-fix-AR71XX_PCI_MEM_SIZE.patch
+END
+403-mtd_fix_cfi_cmdset_0002_status_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/403-mtd_fix_cfi_cmdset_0002_status_check.patch
+END
+147-MIPS-ath79-remove-unused-ar7-1x-24-x_pcibios_init-fu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/147-MIPS-ath79-remove-unused-ar7-1x-24-x_pcibios_init-fu.patch
+END
+607-MIPS-ath79-ubnt-xm-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/607-MIPS-ath79-ubnt-xm-fixes.patch
+END
+202-spi-ath79-remove-superfluous-chip-select-code.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/202-spi-ath79-remove-superfluous-chip-select-code.patch
+END
+406-mtd-m25p80-allow-to-specify-max-read-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/406-mtd-m25p80-allow-to-specify-max-read-size.patch
+END
+441-leds-rb750-led-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/441-leds-rb750-led-driver.patch
+END
+520-MIPS-ath79-enable-UART-function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/520-MIPS-ath79-enable-UART-function.patch
+END
+408-mtd-redboot_partition_scan.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/408-mtd-redboot_partition_scan.patch
+END
+613-MIPS-ath79-ubnt-xm-add-unifi-outdoor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/613-MIPS-ath79-ubnt-xm-add-unifi-outdoor.patch
+END
+104-MIPS-ath79-rename-pci-ath724x.c-to-make-it-reflect-t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/104-MIPS-ath79-rename-pci-ath724x.c-to-make-it-reflect-t.patch
+END
+152-MIPS-pci-ar724x-setup-command-register-of-the-PCI-co.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/152-MIPS-pci-ar724x-setup-command-register-of-the-PCI-co.patch
+END
+115-MIPS-ath79-allow-to-use-SoC-specific-PCI-IRQ-maps.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/115-MIPS-ath79-allow-to-use-SoC-specific-PCI-IRQ-maps.patch
+END
+509-MIPS-ath79-process-board-kernel-option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/509-MIPS-ath79-process-board-kernel-option.patch
+END
+129-MIPS-ath79-add-PCI_AR724X-Kconfig-symbol.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/129-MIPS-ath79-add-PCI_AR724X-Kconfig-symbol.patch
+END
+201-spi-ath79-add-missing-HIGH-LOW-SCK-transition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/201-spi-ath79-add-missing-HIGH-LOW-SCK-transition.patch
+END
+137-MIPS-ath79-fix-CPU-DDR-frequency-calculation-for-SRI.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/137-MIPS-ath79-fix-CPU-DDR-frequency-calculation-for-SRI.patch
+END
+650-MIPS-ath79-fix-ar933x-reset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/650-MIPS-ath79-fix-ar933x-reset.patch
+END
+461-spi-add-type-field-to-spi_transfer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/461-spi-add-type-field-to-spi_transfer.patch
+END
+116-MIPS-ath79-remove-ar724x_pci_add_data-function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/116-MIPS-ath79-remove-ar724x_pci_add_data-function.patch
+END
+504-MIPS-ath79-add-ath79_device_reset_get.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/504-MIPS-ath79-add-ath79_device_reset_get.patch
+END
+450-gpio-nxp-74hc153-gpio-chip-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/450-gpio-nxp-74hc153-gpio-chip-driver.patch
+END
+150-MIPS-pci-ar724x-remove-static-PCI-resources.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/150-MIPS-pci-ar724x-remove-static-PCI-resources.patch
+END
+154-MIPS-pci-ar71xx-remove-static-PCI-controller-resourc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/154-MIPS-pci-ar71xx-remove-static-PCI-controller-resourc.patch
+END
+109-MIPS-ath79-add-a-workaround-for-a-PCI-controller-bug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/109-MIPS-ath79-add-a-workaround-for-a-PCI-controller-bug.patch
+END
+090-ipv6-enable-forwarding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/090-ipv6-enable-forwarding.patch
+END
+433-spi-rb4xx-cpld-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/433-spi-rb4xx-cpld-driver.patch
+END
+112-MIPS-ath79-get-rid-of-some-ifdefs-in-mach-ubnt-xm.c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/112-MIPS-ath79-get-rid-of-some-ifdefs-in-mach-ubnt-xm.c.patch
+END
+620-MIPS-ath79-OTP-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/620-MIPS-ath79-OTP-support.patch
+END
+001-USB-EHCI-Add-a-generic-platform-device-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/001-USB-EHCI-Add-a-generic-platform-device-driver.patch
+END
+118-MIPS-ath79-update-copyright-headers-of-PCI-related-f.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/118-MIPS-ath79-update-copyright-headers-of-PCI-related-f.patch
+END
+203-spi-ath79-use-gpio_request_one.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/203-spi-ath79-use-gpio_request_one.patch
+END
+614-MIPS-ath79-MR600-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/614-MIPS-ath79-MR600-support.patch
+END
+470-MIPS-ath79-swizzle-pci-address-for-ar71xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/470-MIPS-ath79-swizzle-pci-address-for-ar71xx.patch
+END
+125-MIPS-ath79-add-IRQ-handling-code-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/125-MIPS-ath79-add-IRQ-handling-code-for-AR934X.patch
+END
+000-USB-OHCI-Add-a-generic-platform-device-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/000-USB-OHCI-Add-a-generic-platform-device-driver.patch
+END
+435-spi-vsc7385_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/435-spi-vsc7385_driver.patch
+END
+204-spi-ath79-avoid-multiple-initialization-of-the-SPI-c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/204-spi-ath79-avoid-multiple-initialization-of-the-SPI-c.patch
+END
+507-MIPS-ath79-prom-add-myloader-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/507-MIPS-ath79-prom-add-myloader-support.patch
+END
+440-leds-wndr3700-usb-led-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/440-leds-wndr3700-usb-led-driver.patch
+END
+210-MIPS-ath79-simplify-misc-irq-handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/210-MIPS-ath79-simplify-misc-irq-handling.patch
+END
+422-dsa-trailer-tag-validation-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/422-dsa-trailer-tag-validation-fix.patch
+END
+621-MIPS-ath79-add-ath79_wmac_disable_25ghz-helpers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/621-MIPS-ath79-add-ath79_wmac_disable_25ghz-helpers.patch
+END
+407-mtd-m25p80-allow-to-pass-probe-types-via-platform-data.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/407-mtd-m25p80-allow-to-pass-probe-types-via-platform-data.patch
+END
+608-MIPS-ath79-ubnt-xm-add-more-boards.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/608-MIPS-ath79-ubnt-xm-add-more-boards.patch
+END
+170-MIPS-ath79-add-PCI-controller-registration-code-for-.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/170-MIPS-ath79-add-PCI-controller-registration-code-for-.patch
+END
+901-mdio_bitbang_ignore_ta_value.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/901-mdio_bitbang_ignore_ta_value.patch
+END
+206-spi-ath79-make-chipselect-logic-more-flexible.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/206-spi-ath79-make-chipselect-logic-more-flexible.patch
+END
+510-MIPS-ath79-init-gpio-pin-of-wmac-device.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/510-MIPS-ath79-init-gpio-pin-of-wmac-device.patch
+END
+135-MIPS-ath79-register-USB-host-controller-on-the-DB120.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/135-MIPS-ath79-register-USB-host-controller-on-the-DB120.patch
+END
+409-mtd-rb4xx_nand_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/409-mtd-rb4xx_nand_driver.patch
+END
+127-MIPS-ath79-register-UART-device-for-AR934X-SoCs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/127-MIPS-ath79-register-UART-device-for-AR934X-SoCs.patch
+END
+132-MIPS-ath79-use-correct-IRQ-number-for-the-OHCI-contr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/132-MIPS-ath79-use-correct-IRQ-number-for-the-OHCI-contr.patch
+END
+102-MIPS-ath79-make-ath724x_pcibios_init-visible-for-ext.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/102-MIPS-ath79-make-ath724x_pcibios_init-visible-for-ext.patch
+END
+119-MIPS-ath79-add-early_printk-support-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/119-MIPS-ath79-add-early_printk-support-for-AR934X.patch
+END
+430-drivers-link-spi-before-mtd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/430-drivers-link-spi-before-mtd.patch
+END
+413-mtd-ar934x-nand-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/413-mtd-ar934x-nand-driver.patch
+END
+615-MIPS-ath79-RB435G-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/615-MIPS-ath79-RB435G-support.patch
+END
+604-MIPS-ath79-ap81-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/604-MIPS-ath79-ap81-fixes.patch
+END
+605-MIPS-ath79-db120-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/605-MIPS-ath79-db120-fixes.patch
+END
+500-MIPS-fw-myloader.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/500-MIPS-fw-myloader.patch
+END
+130-MIPS-ath79-add-PCI-registration-code-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/130-MIPS-ath79-add-PCI-registration-code-for-AR934X.patch
+END
+163-MIPS-ath79-add-IRQ-handling-code-for-the-QCA955X-SoC.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/163-MIPS-ath79-add-IRQ-handling-code-for-the-QCA955X-SoC.patch
+END
+511-MIPS-ath79-add-ath79_set_usb_power_gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/511-MIPS-ath79-add-ath79_set_usb_power_gpio.patch
+END
+101-MIPS-ath79-rename-pci-ath724x.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/101-MIPS-ath79-rename-pci-ath724x.h.patch
+END
+165-MIPS-ath79-add-QCA955X-specific-glue-to-ath79_device.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/165-MIPS-ath79-add-QCA955X-specific-glue-to-ath79_device.patch
+END
+211-ar933x_uart-improve-serial-clock-calculation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/211-ar933x_uart-improve-serial-clock-calculation.patch
+END
+462-mtd-m25p80-set-spi-transfer-type.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/462-mtd-m25p80-set-spi-transfer-type.patch
+END
+161-MIPS-ath79-add-SoC-detection-code-for-the-QCA9558-So.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/161-MIPS-ath79-add-SoC-detection-code-for-the-QCA9558-So.patch
+END
+612-MIPS-ath79-TL-WA7510N-v1-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/612-MIPS-ath79-TL-WA7510N-v1-support.patch
+END
+310-lib-add-rle-decompression.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/310-lib-add-rle-decompression.patch
+END
+601-MIPS-ath79-add-more-register-defines.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/601-MIPS-ath79-add-more-register-defines.patch
+END
+169-MIPS-ath79-allow-to-specify-bus-number-in-PCI-IRQ-ma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/169-MIPS-ath79-allow-to-specify-bus-number-in-PCI-IRQ-ma.patch
+END
+162-MIPS-ath79-add-clock-setup-for-the-QCA955X-SoCs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/162-MIPS-ath79-add-clock-setup-for-the-QCA955X-SoCs.patch
+END
+171-MIPS-ath79-add-support-for-the-Qualcomm-Atheros-AP13.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/171-MIPS-ath79-add-support-for-the-Qualcomm-Atheros-AP13.patch
+END
+611-MIPS-ath79-CAP4200AG-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/611-MIPS-ath79-CAP4200AG-support.patch
+END
+145-MIPS-ath79-move-global-PCI-defines-into-a-common-hea.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/145-MIPS-ath79-move-global-PCI-defines-into-a-common-hea.patch
+END
+131-MIPS-ath79-add-initial-support-for-the-Atheros-DB120.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/131-MIPS-ath79-add-initial-support-for-the-Atheros-DB120.patch
+END
+117-MIPS-ath79-register-PCI-controller-on-the-PB44-board.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/117-MIPS-ath79-register-PCI-controller-on-the-PB44-board.patch
+END
+480-ar913x_wmac_external_reset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/480-ar913x_wmac_external_reset.patch
+END
+508-MIPS-ath79-prom-image-command-line-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/508-MIPS-ath79-prom-image-command-line-hack.patch
+END
+420-net-ar71xx_mac_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/420-net-ar71xx_mac_driver.patch
+END
+141-MIPS-pci-ar724x-use-correct-value-for-AR724X_PCI_MEM.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/141-MIPS-pci-ar724x-use-correct-value-for-AR724X_PCI_MEM.patch
+END
+153-MIPS-pci-ar71xx-use-dynamically-allocated-PCI-contro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/153-MIPS-pci-ar71xx-use-dynamically-allocated-PCI-contro.patch
+END
+168-MIPS-ath79-add-WMAC-registration-code-for-the-QCA955.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/168-MIPS-ath79-add-WMAC-registration-code-for-the-QCA955.patch
+END
+630-MIPS-ath79-enable-dsp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/630-MIPS-ath79-enable-dsp.patch
+END
+411-mtd-cfi_cmdset_0002-force-word-write.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/411-mtd-cfi_cmdset_0002-force-word-write.patch
+END
+123-MIPS-ath79-add-GPIO-support-code-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/123-MIPS-ath79-add-GPIO-support-code-for-AR934X.patch
+END
+502-MIPS-ath79-export-ath79_gpio_base.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/502-MIPS-ath79-export-ath79_gpio_base.patch
+END
+432-spi-rb4xx-spi-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/432-spi-rb4xx-spi-driver.patch
+END
+113-MIPS-ath79-allow-to-use-board-specific-pci_plat_dev_.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/113-MIPS-ath79-allow-to-use-board-specific-pci_plat_dev_.patch
+END
+410-mtd-rb750-nand-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/410-mtd-rb750-nand-driver.patch
+END
+126-MIPS-ath79-add-AR934X-specific-glue-to-ath79_device_.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/126-MIPS-ath79-add-AR934X-specific-glue-to-ath79_device_.patch
+END
+122-MIPS-ath79-add-clock-initialization-code-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/122-MIPS-ath79-add-clock-initialization-code-for-AR934X.patch
+END
+148-MIPS-avoid-possible-resource-conflict-in-register_pc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/148-MIPS-avoid-possible-resource-conflict-in-register_pc.patch
+END
+108-MIPS-ath79-fix-broken-ar724x_pci_-read-write-functio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/108-MIPS-ath79-fix-broken-ar724x_pci_-read-write-functio.patch
+END
+111-MIPS-ath79-add-PCI-IRQ-handling-code-for-AR724X-SoCs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/111-MIPS-ath79-add-PCI-IRQ-handling-code-for-AR724X-SoCs.patch
+END
+431-spi-add-various-flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/431-spi-add-various-flags.patch
+END
+140-MIPS-pci-ar724x-avoid-data-bus-error-due-to-a-missin.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/140-MIPS-pci-ar724x-avoid-data-bus-error-due-to-a-missin.patch
+END
+114-MIPS-ath79-add-support-for-the-PCI-host-controller-o.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/114-MIPS-ath79-add-support-for-the-PCI-host-controller-o.patch
+END
+902-unaligned_access_hacks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/902-unaligned_access_hacks.patch
+END
+124-MIPS-ath79-rework-IP2-IP3-interrupt-handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/124-MIPS-ath79-rework-IP2-IP3-interrupt-handling.patch
+END
+106-MIPS-ath79-use-io-accessor-macros-in-pci-ar724x.c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/106-MIPS-ath79-use-io-accessor-macros-in-pci-ar724x.c.patch
+END
+505-MIPS-ath79-add-ath79_gpio_function_select.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/505-MIPS-ath79-add-ath79_gpio_function_select.patch
+END
+110-MIPS-ath79-fix-a-wrong-IRQ-number.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/110-MIPS-ath79-fix-a-wrong-IRQ-number.patch
+END
+423-dsa-add-88e6063-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/423-dsa-add-88e6063-driver.patch
+END
+149-MIPS-pci-ar724x-use-dynamically-allocated-PCI-contro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/149-MIPS-pci-ar724x-use-dynamically-allocated-PCI-contro.patch
+END
+128-MIPS-ath79-add-WMAC-registration-code-for-AR934X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/128-MIPS-ath79-add-WMAC-registration-code-for-AR934X.patch
+END
+105-MIPS-ath79-replace-ath724x-to-ar724x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/105-MIPS-ath79-replace-ath724x-to-ar724x.patch
+END
+506-MIPS-ath79-prom-parse-redboot-args.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/506-MIPS-ath79-prom-parse-redboot-args.patch
+END
+434-spi-ap83_spi_controller.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/434-spi-ap83_spi_controller.patch
+END
+167-MIPS-ath79-add-USB-controller-registration-code-for-.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/167-MIPS-ath79-add-USB-controller-registration-code-for-.patch
+END
+402-mtd-SST39VF6401B-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/402-mtd-SST39VF6401B-support.patch
+END
+501-MIPS-ath79-add-mac-argument-to-ath79_register_wmac.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/501-MIPS-ath79-add-mac-argument-to-ath79_register_wmac.patch
+END
+521-MIPS-ath79-enable-UART-for-early_serial.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/521-MIPS-ath79-enable-UART-for-early_serial.patch
+END
+151-MIPS-pci-ar724x-use-per-controller-IRQ-base.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/151-MIPS-pci-ar724x-use-per-controller-IRQ-base.patch
+END
+002-USB-use-generic-platform-driver-on-ath79.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/002-USB-use-generic-platform-driver-on-ath79.patch
+END
+609-MIPS-ath79-ap136-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/609-MIPS-ath79-ap136-fixes.patch
+END
+463-spi-ath79-add-fast-flash-read.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/463-spi-ath79-add-fast-flash-read.patch
+END
+107-MIPS-ath79-remove-superfluous-alignment-checks-from-.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/107-MIPS-ath79-remove-superfluous-alignment-checks-from-.patch
+END
+610-MIPS-ath79-openwrt-machines.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/610-MIPS-ath79-openwrt-machines.patch
+END
+300-ehcpi-platform-remove-ehci_update_device.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/300-ehcpi-platform-remove-ehci_update_device.patch
+END
+503-MIPS-ath79-add-flash-acquire-release.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/503-MIPS-ath79-add-flash-acquire-release.patch
+END
+160-MIPS-ath79-add-early-printk-support-for-the-QCA955X-.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/160-MIPS-ath79-add-early-printk-support-for-the-QCA955X-.patch
+END
+205-spi-ath79-add-shutdown-handler.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/205-spi-ath79-add-shutdown-handler.patch
+END
+412-mtd-m25p80-zero-partition-parser-data.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/412-mtd-m25p80-zero-partition-parser-data.patch
+END
+164-MIPS-ath79-add-GPIO-setup-code-for-the-QCA955X-SoCs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/164-MIPS-ath79-add-GPIO-setup-code-for-the-QCA955X-SoCs.patch
+END
+603-MIPS-ath79-ap121-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/603-MIPS-ath79-ap121-fixes.patch
+END
+405-mtd-tp-link-partition-parser.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/405-mtd-tp-link-partition-parser.patch
+END
+120-MIPS-ath79-sort-case-statements-in-ath79_detect_sys_.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/120-MIPS-ath79-sort-case-statements-in-ath79_detect_sys_.patch
+END
+100-MIPS-ath79-separate-common-PCI-code.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/100-MIPS-ath79-separate-common-PCI-code.patch
+END
+602-MIPS-ath79-add-openwrt-stuff.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/patches-3.3/602-MIPS-ath79-add-openwrt-stuff.patch
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/pci
+END
+fixup-lantiq-pcie.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/pci/fixup-lantiq-pcie.c
+END
+fixup-lantiq.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/pci/fixup-lantiq.c
+END
+pcie-lantiq-phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/pci/pcie-lantiq-phy.c
+END
+pcie-lantiq.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/pci/pcie-lantiq.c
+END
+pcie-lantiq.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/pci/pcie-lantiq.h
+END
+pcie-lantiq-msi.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/pci/pcie-lantiq-msi.c
+END

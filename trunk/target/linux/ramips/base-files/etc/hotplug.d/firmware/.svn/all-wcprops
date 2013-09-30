@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/etc/hotplug.d/firmware
+END
+10-rt2x00-eeprom
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/etc/hotplug.d/firmware/10-rt2x00-eeprom
+END

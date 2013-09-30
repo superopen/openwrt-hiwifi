@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/include/asm/mach-ath79
+END
+rb4xx_cpld.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/include/asm/mach-ath79/rb4xx_cpld.h
+END
+ag71xx_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/include/asm/mach-ath79/ag71xx_platform.h
+END
+mach-rb750.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/include/asm/mach-ath79/mach-rb750.h
+END

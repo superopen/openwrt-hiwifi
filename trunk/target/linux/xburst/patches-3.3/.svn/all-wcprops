@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3
+END
+0010-cpufreq_stats-Support-runtime-changes-to-frequency-t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0010-cpufreq_stats-Support-runtime-changes-to-frequency-t.patch
+END
+0009-dev-mem-Add-kernel-config-option-to-omit-this-device.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0009-dev-mem-Add-kernel-config-option-to-omit-this-device.patch
+END
+0019-Framebuffer-notifier-Call-notifier-callbacks-prior-t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0019-Framebuffer-notifier-Call-notifier-callbacks-prior-t.patch
+END
+0018-ASoC-jz4740-Convert-qi_lb60-to-use-snd_soc_register_.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0018-ASoC-jz4740-Convert-qi_lb60-to-use-snd_soc_register_.patch
+END
+0017-MIPS-JZ4740-qi_lb60-Look-for-NAND-chip-in-bank-1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0017-MIPS-JZ4740-qi_lb60-Look-for-NAND-chip-in-bank-1.patch
+END
+0005-NAND-Optimize-reading-the-eec-data-for-the-JZ4740.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0005-NAND-Optimize-reading-the-eec-data-for-the-JZ4740.patch
+END
+0001-ubi-Read-only-the-vid-header-instead-of-the-whole-pa.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0001-ubi-Read-only-the-vid-header-instead-of-the-whole-pa.patch
+END
+0013-MMC-JZ4740-Added-support-for-CPU-frequency-changing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0013-MMC-JZ4740-Added-support-for-CPU-frequency-changing.patch
+END
+0012-MIPS-JZ4740-Add-cpufreq-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0012-MIPS-JZ4740-Add-cpufreq-support.patch
+END
+0016-ASoC-JZ4740-Support-buffer-size-that-is-not-a-multip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0016-ASoC-JZ4740-Support-buffer-size-that-is-not-a-multip.patch
+END
+0014-MIPS-JZ4740-reset-Initialize-hibernate-wakeup-counte.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0014-MIPS-JZ4740-reset-Initialize-hibernate-wakeup-counte.patch
+END
+0004-NAND-Add-support-for-subpage-reads-for-NAND_ECC_HW_O.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0004-NAND-Add-support-for-subpage-reads-for-NAND_ECC_HW_O.patch
+END
+0020-qi_lb60-NAND-add-data-partition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0020-qi_lb60-NAND-add-data-partition.patch
+END
+0011-MIPS-JZ4740-Added-setting-of-PLL-rate-and-main-divid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0011-MIPS-JZ4740-Added-setting-of-PLL-rate-and-main-divid.patch
+END
+0006-MTD-NAND-JZ4740-Multi-bank-support-with-autodetectio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0006-MTD-NAND-JZ4740-Multi-bank-support-with-autodetectio.patch
+END
+0003-NAND-Optimize-NAND_ECC_HW_OOB_FIRST-read.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0003-NAND-Optimize-NAND_ECC_HW_OOB_FIRST-read.patch
+END
+0007-Add-ili8960-lcd-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0007-Add-ili8960-lcd-driver.patch
+END
+0002-Add-jz4740-udc-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0002-Add-jz4740-udc-driver.patch
+END
+0015-ASoC-JZ4740-Replaced-comma-operators-with-semicolons.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0015-ASoC-JZ4740-Replaced-comma-operators-with-semicolons.patch
+END
+0021-rtc-jz4740-fix-hwclock-give-time-out.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0021-rtc-jz4740-fix-hwclock-give-time-out.patch
+END
+0008-qi_lb60-Don-t-use-3-wire-spi-mode-for-the-display-fo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/xburst/patches-3.3/0008-qi_lb60-Don-t-use-3-wire-spi-mode-for-the-display-fo.patch
+END

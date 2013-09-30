@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/tools/pkg-config/patches
+END
+100-disable_compat_cmd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/tools/pkg-config/patches/100-disable_compat_cmd.patch
+END

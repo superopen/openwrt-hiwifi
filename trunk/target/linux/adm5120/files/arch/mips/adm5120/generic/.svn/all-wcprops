@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/generic
+END
+eb-214a.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/generic/eb-214a.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/generic/Makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/tools/mkimage/patches
+END
+030-allow-to-use-different-magic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/tools/mkimage/patches/030-allow-to-use-different-magic.patch
+END
+010-freebsd-ulong-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/tools/mkimage/patches/010-freebsd-ulong-fix.patch
+END
+040-include_order.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/tools/mkimage/patches/040-include_order.patch
+END

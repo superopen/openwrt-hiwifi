@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches
+END
+110-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/110-portability.patch
+END
+133-error-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/133-error-fix.patch
+END
+131-fix_lib_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/131-fix_lib_compile.patch
+END
+136-mkfs.ubifs-xz-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/136-mkfs.ubifs-xz-support.patch
+END
+134-freebsd_loff_t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/134-freebsd_loff_t.patch
+END
+120-cygwin_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/120-cygwin_fixes.patch
+END
+130-lzma_jffs2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/130-lzma_jffs2.patch
+END
+135-mkubifs_optional_lzo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/tools/mtd-utils/patches/135-mkubifs_optional_lzo.patch
+END

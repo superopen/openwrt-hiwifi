@@ -1,0 +1,12 @@
+For HC6361 board, the defconfig is configs/HC6361_defconfig
+How to build firmware for HC6361 board
+#./scripts/feeds update
+#make package/symlinks
+#make HC6361_defconfig
+if you want to your specfic image, run "make menuconfig" to choose pkg.
+#make
+
+After make successfully, you will get the image file openwrt-ar71xx-generic-tw150v1-squashfs-sysupgrade.bin in bin DIR.
+
+Congratulations! You got your specific image now.
+

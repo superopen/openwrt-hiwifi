@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/files/arch/arm/mach-orion5x
+END
+dt2-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/files/arch/arm/mach-orion5x/dt2-common.h
+END
+dt2-setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/files/arch/arm/mach-orion5x/dt2-setup.c
+END

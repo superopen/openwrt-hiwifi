@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/mm
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/mm/init.c
+END
+ocm-alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/mm/ocm-alloc.c
+END
+kmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/mm/kmap.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/mm/memory.c
+END
+fault.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/mm/fault.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/mm/Makefile
+END

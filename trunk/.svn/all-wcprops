@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/hiwifi/!svn/ver/4/trunk
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/hiwifi/!svn/ver/3/trunk/rules.mk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/hiwifi/!svn/ver/3/trunk/LICENSE
+END
+BSDmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/hiwifi/!svn/ver/3/trunk/BSDmakefile
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/hiwifi/!svn/ver/3/trunk/Config.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/hiwifi/!svn/ver/3/trunk/README
+END
+feeds.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/feeds.conf.default
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/hiwifi/!svn/ver/3/trunk/Makefile
+END
+How_To_Build
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/hiwifi/!svn/ver/3/trunk/How_To_Build
+END

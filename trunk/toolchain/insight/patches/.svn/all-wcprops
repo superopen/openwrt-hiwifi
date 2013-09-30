@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/insight/patches
+END
+600-fix-compile-flag-mismatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/insight/patches/600-fix-compile-flag-mismatch.patch
+END

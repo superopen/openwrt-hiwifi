@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/Kconfig
+END
+dwc_otg_hcd_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_hcd_intr.c
+END
+dwc_otg_ifx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_ifx.h
+END
+dwc_otg_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_driver.c
+END
+dwc_otg_hcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_hcd.c
+END
+dwc_otg_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_driver.h
+END
+dwc_otg_hcd_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_hcd_queue.c
+END
+dwc_otg_hcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_hcd.h
+END
+dwc_otg_cil_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_cil_intr.c
+END
+dwc_otg_plat.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_plat.h
+END
+dwc_otg_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_regs.h
+END
+dwc_otg_cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_cil.c
+END
+dwc_otg_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_attr.c
+END
+dwc_otg_cil.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_cil.h
+END
+dwc_otg_attr.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_attr.h
+END
+dwc_otg_cil_ifx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_cil_ifx.h
+END
+dwc_otg_ifx.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/dwc_otg_ifx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/dwc_otg/Makefile
+END

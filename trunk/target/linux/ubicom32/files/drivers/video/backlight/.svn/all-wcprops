@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/video/backlight
+END
+ubicom32bl.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/video/backlight/ubicom32bl.c
+END
+ubicom32lcdpower.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/video/backlight/ubicom32lcdpower.c
+END
+ubicom32lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/video/backlight/ubicom32lcd.c
+END
+ubicom32lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/video/backlight/ubicom32lcd.h
+END

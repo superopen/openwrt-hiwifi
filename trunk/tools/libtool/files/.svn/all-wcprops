@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/files
+END
+libtool-v2.2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/files/libtool-v2.2.patch
+END
+libtool-v1.5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/files/libtool-v1.5.patch
+END
+libtool-v2.4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/files/libtool-v2.4.patch
+END

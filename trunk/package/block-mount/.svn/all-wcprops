@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/Makefile
+END

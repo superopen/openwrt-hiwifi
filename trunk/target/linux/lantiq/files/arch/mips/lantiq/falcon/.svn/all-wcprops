@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/gpio.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/Kconfig
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/devices.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/reset.c
+END
+dev-leds-easy98000-cpld.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/dev-leds-easy98000-cpld.c
+END
+sysctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/sysctrl.c
+END
+addon-easy98000.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/addon-easy98000.c
+END
+devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/devices.h
+END
+dev-leds-easy98000-cpld.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/dev-leds-easy98000-cpld.h
+END
+mach-95C3AM1.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/mach-95C3AM1.c
+END
+mach-easy98000.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/mach-easy98000.c
+END
+mach-easy98020.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/mach-easy98020.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/falcon/prom.c
+END

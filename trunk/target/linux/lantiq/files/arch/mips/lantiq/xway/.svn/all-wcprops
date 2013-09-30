@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway
+END
+mach-arv.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-arv.c
+END
+mach-gigasx76x.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-gigasx76x.h
+END
+dev-dwc_otg.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-dwc_otg.c
+END
+mach-p2601hnfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-p2601hnfx.c
+END
+sysctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/sysctrl.c
+END
+mach-fritz_vr9.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-fritz_vr9.c
+END
+dev-wifi-rt2x00.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-wifi-rt2x00.c
+END
+dev-dwc_otg.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-dwc_otg.h
+END
+clk.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/clk.c
+END
+dev-wifi-rt2x00.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-wifi-rt2x00.h
+END
+mach-wbmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-wbmr.c
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/prom.c
+END
+pci-ath-fixup.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/pci-ath-fixup.c
+END
+mach-fritz_ar9.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-fritz_ar9.c
+END
+gptu.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/gptu.c
+END
+nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/nand.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/timer.c
+END
+dev-ifxhcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-ifxhcd.c
+END
+pci-ath-fixup.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/pci-ath-fixup.h
+END
+dev-ifxhcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-ifxhcd.h
+END
+dev-wifi-athxk.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-wifi-athxk.c
+END
+mach-netgear.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-netgear.c
+END
+dev-wifi-athxk.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/dev-wifi-athxk.h
+END
+mach-h201l.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-h201l.c
+END
+mach-gigasx76x.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-gigasx76x.c
+END
+mach-bthomehubv2b.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/xway/mach-bthomehubv2b.c
+END

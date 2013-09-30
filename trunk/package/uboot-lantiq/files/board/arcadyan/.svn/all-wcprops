@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan
+END
+athrs26_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/athrs26_phy.h
+END
+ddr_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/ddr_settings.h
+END
+arcadyan_bootstrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/arcadyan_bootstrap.c
+END
+u-boot-bootstrap.lds
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/u-boot-bootstrap.lds
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/u-boot.lds
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/board.c
+END
+ddr_settings_psc_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/ddr_settings_psc_32.h
+END
+pmuenable.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/pmuenable.S
+END
+athrs26_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/athrs26_phy.c
+END
+lowlevel_bootstrap_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/lowlevel_bootstrap_init.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/Makefile
+END
+ddr_settings_psc_64.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/ddr_settings_psc_64.h
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/board/arcadyan/lowlevel_init.S
+END

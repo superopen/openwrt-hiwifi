@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/base-files/etc/init.d
+END
+wmacfixup
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/base-files/etc/init.d/wmacfixup
+END
+netconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/base-files/etc/init.d/netconfig
+END

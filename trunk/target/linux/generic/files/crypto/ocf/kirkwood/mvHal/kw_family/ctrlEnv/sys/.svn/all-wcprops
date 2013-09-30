@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys
+END
+mvSysPex.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysPex.c
+END
+mvSysGbe.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysGbe.c
+END
+mvCpuIfRegs.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvCpuIfRegs.h
+END
+mvSysSata.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysSata.h
+END
+mvSysUsb.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysUsb.h
+END
+mvSysAudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysAudio.c
+END
+mvSysPex.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysPex.h
+END
+mvSysGbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysGbe.h
+END
+mvSysSdmmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysSdmmc.c
+END
+mvSysAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysAudio.h
+END
+mvCpuIf.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvCpuIf.c
+END
+mvSysSdmmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysSdmmc.h
+END
+mvSysXor.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysXor.c
+END
+mvSysCesa.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysCesa.c
+END
+mvCpuIfInit.S
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvCpuIfInit.S
+END
+mvAhbToMbusRegs.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvAhbToMbusRegs.h
+END
+mvCpuIf.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvCpuIf.h
+END
+mvSysXor.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysXor.h
+END
+mvSysCesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysCesa.h
+END
+mvSysDram.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysDram.c
+END
+mvSysTdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysTdm.c
+END
+mvAhbToMbus.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvAhbToMbus.c
+END
+mvSysTs.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysTs.c
+END
+mvSysDram.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysDram.h
+END
+mvSysSata.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysSata.c
+END
+mvSysTdm.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysTdm.h
+END
+mvSysUsb.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysUsb.c
+END
+mvAhbToMbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvAhbToMbus.h
+END
+mvSysTs.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/ctrlEnv/sys/mvSysTs.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579
+END
+icp_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579/icp_common.c
+END
+icp_sym.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579/icp_sym.c
+END
+icp_asym.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579/icp_asym.c
+END
+linux_2.6_kernel_space.mk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579/linux_2.6_kernel_space.mk
+END
+icp_ocf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579/icp_ocf.h
+END
+environment.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579/environment.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ep80579/Makefile
+END

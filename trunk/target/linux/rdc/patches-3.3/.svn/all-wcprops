@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3
+END
+009-rdc321x_select_embedded.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/009-rdc321x_select_embedded.patch
+END
+160-kexec-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/160-kexec-fix.patch
+END
+011-tune_lzma_options.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/011-tune_lzma_options.patch
+END
+012-export_erase_write.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/012-export_erase_write.patch
+END
+120-panic_on_unrecovered_nmi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/120-panic_on_unrecovered_nmi.patch
+END
+006-yenta_mistery.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/006-yenta_mistery.patch
+END
+010-rdc_cpu_ident.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/010-rdc_cpu_ident.patch
+END
+100-rdc_boards.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/100-rdc_boards.patch
+END
+150-pit-tick-rate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/patches-3.3/150-pit-tick-rate.patch
+END

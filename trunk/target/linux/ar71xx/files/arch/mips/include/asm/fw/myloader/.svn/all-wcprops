@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/include/asm/fw/myloader
+END
+myloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/include/asm/fw/myloader/myloader.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/etc
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/etc/inittab
+END
+diag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/etc/diag.sh
+END

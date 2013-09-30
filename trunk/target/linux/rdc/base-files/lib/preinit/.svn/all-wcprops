@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/base-files/lib/preinit
+END
+05_set_ether_mac_rdc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rdc/base-files/lib/preinit/05_set_ether_mac_rdc
+END

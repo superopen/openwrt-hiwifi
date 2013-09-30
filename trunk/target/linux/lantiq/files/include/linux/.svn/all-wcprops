@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/include/linux
+END
+svip_nat_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/include/linux/svip_nat_io.h
+END
+svip_nat.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/include/linux/svip_nat.h
+END

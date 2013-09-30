@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/hiwifi/!svn/ver/3/trunk/include
+END
+shell.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hiwifi/!svn/ver/3/trunk/include/shell.sh
+END
+package-dumpinfo.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/include/package-dumpinfo.mk
+END
+host.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/hiwifi/!svn/ver/3/trunk/include/host.mk
+END
+ltqtapi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/include/ltqtapi.mk
+END
+cmake.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hiwifi/!svn/ver/3/trunk/include/cmake.mk
+END
+kernel.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/include/kernel.mk
+END
+image.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hiwifi/!svn/ver/3/trunk/include/image.mk
+END
+version.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/include/version.mk
+END
+debug.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hiwifi/!svn/ver/3/trunk/include/debug.mk
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/include/subdir.mk
+END
+package.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/include/package.mk
+END
+netfilter.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/include/netfilter.mk
+END
+nls.mk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/hiwifi/!svn/ver/3/trunk/include/nls.mk
+END
+quilt.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hiwifi/!svn/ver/3/trunk/include/quilt.mk
+END
+prereq.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/include/prereq.mk
+END
+package-defaults.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/include/package-defaults.mk
+END
+kernel-version.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/include/kernel-version.mk
+END
+verbose.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/include/verbose.mk
+END
+host-build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/include/host-build.mk
+END
+toolchain-build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/include/toolchain-build.mk
+END
+kernel-build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/include/kernel-build.mk
+END
+unpack.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/include/unpack.mk
+END
+depends.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/include/depends.mk
+END
+package-ipkg.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/include/package-ipkg.mk
+END
+scan.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/hiwifi/!svn/ver/3/trunk/include/scan.mk
+END
+scons.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hiwifi/!svn/ver/3/trunk/include/scons.mk
+END
+kernel-defaults.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/include/kernel-defaults.mk
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/include/target.mk
+END
+uclibc++.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/include/uclibc++.mk
+END
+autotools.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/include/autotools.mk
+END
+toplevel.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/include/toplevel.mk
+END
+prereq-build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/include/prereq-build.mk
+END
+package-version-override.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/include/package-version-override.mk
+END
+package-bin.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/hiwifi/!svn/ver/3/trunk/include/package-bin.mk
+END
+download.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/include/download.mk
+END

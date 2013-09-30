@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/sflash
+END
+mvSFlash.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/sflash/mvSFlash.c
+END
+mvSFlashSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/sflash/mvSFlashSpec.h
+END
+mvSFlash.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/sflash/mvSFlash.h
+END
+mvCompVer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/sflash/mvCompVer.txt
+END

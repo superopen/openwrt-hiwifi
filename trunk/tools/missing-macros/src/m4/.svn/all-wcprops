@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4
+END
+intmax.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/intmax.m4
+END
+mfx_acc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/mfx_acc.m4
+END
+va_copy.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/va_copy.m4
+END
+lib-link.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/lib-link.m4
+END
+as-ac-expand.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/as-ac-expand.m4
+END
+lib-prefix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/lib-prefix.m4
+END
+glibc2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/glibc2.m4
+END
+lib-ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/lib-ld.m4
+END
+wint_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/wint_t.m4
+END
+as-unaligned-access.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/as-unaligned-access.m4
+END
+inttypes-pri.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/inttypes-pri.m4
+END
+fake-gtk-doc-check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/fake-gtk-doc-check.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/progtest.m4
+END
+fake-intltool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/fake-intltool.m4
+END
+uintmax_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/uintmax_t.m4
+END
+mfx_cppflags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/mfx_cppflags.m4
+END
+esd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/esd.m4
+END
+mfx_limits.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/mfx_limits.m4
+END
+stdint_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/stdint_h.m4
+END
+intdiv0.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/intdiv0.m4
+END
+as-compiler-flag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/as-compiler-flag.m4
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/glibc21.m4
+END
+xmms.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/xmms.m4
+END
+inttypes_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/inttypes_h.m4
+END
+as-version.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/as-version.m4
+END
+dnet.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/dnet.m4
+END
+xaw.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/tools/missing-macros/src/m4/xaw.m4
+END

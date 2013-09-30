@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux
+END
+rtl8367.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/rtl8367.h
+END
+gpio_buttons.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/gpio_buttons.h
+END
+gpio_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/gpio_dev.h
+END
+myloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/myloader.h
+END
+ath5k_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/ath5k_platform.h
+END
+switch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/switch.h
+END
+glamo-engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/glamo-engine.h
+END
+rt2x00_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/rt2x00_platform.h
+END
+ath9k_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/ath9k_platform.h
+END
+routerboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/routerboot.h
+END
+ar8216_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/ar8216_platform.h
+END
+glamofb.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/glamofb.h
+END
+rtl8366.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/include/linux/rtl8366.h
+END

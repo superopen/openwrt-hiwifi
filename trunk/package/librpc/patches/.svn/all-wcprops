@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/hiwifi/!svn/ver/3/trunk/package/librpc/patches
+END
+100-compat_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/librpc/patches/100-compat_fix.patch
+END

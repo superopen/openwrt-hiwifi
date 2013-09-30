@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/Kconfig
+END
+yaffs_tagscompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_tagscompat.h
+END
+yaffs_mtdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_mtdif.h
+END
+yaffs_tagsvalidity.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_tagsvalidity.h
+END
+yaffs_vfs_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_vfs_glue.c
+END
+devextras.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/devextras.h
+END
+yaffs_nameval.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_nameval.c
+END
+yaffs_packedtags1.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_packedtags1.c
+END
+yaffs_nameval.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_nameval.h
+END
+yaffs_packedtags2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_packedtags2.c
+END
+yaffs_yaffs1.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_yaffs1.c
+END
+yaffs_ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_ecc.c
+END
+yaffs_yaffs2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_yaffs2.c
+END
+yaffs_packedtags1.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_packedtags1.h
+END
+yaffs_packedtags2.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_packedtags2.h
+END
+yaffs_yaffs1.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_yaffs1.h
+END
+yaffs_linux_allocator.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_linux_allocator.c
+END
+yaffs_ecc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_ecc.h
+END
+yaffs_yaffs2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_yaffs2.h
+END
+yportenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yportenv.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/Makefile
+END
+yaffs_verify.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_verify.c
+END
+yaffsinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffsinterface.h
+END
+yaffs_qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_qsort.c
+END
+yaffs_verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_verify.h
+END
+yaffs_getblockinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_getblockinfo.h
+END
+yaffs_bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_bitmap.c
+END
+yaffs_qsort.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_qsort.h
+END
+yaffs_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_nand.c
+END
+yaffs_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_list.h
+END
+yaffs_allocator.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_allocator.c
+END
+yaffs_bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_bitmap.h
+END
+yaffs_guts.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_guts.c
+END
+yaffs_mtdif1.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_mtdif1.c
+END
+yaffs_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_nand.h
+END
+yaffs_mtdif2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_mtdif2.c
+END
+yaffs_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_allocator.h
+END
+yaffs_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_guts.h
+END
+moduleconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/moduleconfig.h
+END
+yaffs_mtdif1.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_mtdif1.h
+END
+NOTE.openwrt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/NOTE.openwrt
+END
+yaffs_mtdif2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_mtdif2.h
+END
+yaffs_checkptrw.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_checkptrw.c
+END
+yaffs_checkptrw.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_checkptrw.h
+END
+yaffs_tagscompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_tagscompat.c
+END
+yaffs_mtdif.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_mtdif.c
+END
+yaffs_trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_trace.h
+END
+yaffs_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_linux.h
+END
+yaffs_tagsvalidity.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_tagsvalidity.c
+END
+yaffs_nandemul2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/fs/yaffs2/yaffs_nandemul2k.h
+END

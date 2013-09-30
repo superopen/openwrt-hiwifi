@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/package/iw/patches
+END
+100-rx_rate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/iw/patches/100-rx_rate.patch
+END
+110-per_chain_signal_strength.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/iw/patches/110-per_chain_signal_strength.patch
+END
+130-antenna_gain.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/iw/patches/130-antenna_gain.patch
+END
+001-nl80211_h_sync.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/iw/patches/001-nl80211_h_sync.patch
+END
+120-tdls_peer_indentation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/iw/patches/120-tdls_peer_indentation.patch
+END

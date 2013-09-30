@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3
+END
+0016-falcon-VPE-softdog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0016-falcon-VPE-softdog.patch
+END
+0006-mtd-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0006-mtd-support.patch
+END
+0002-xway-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0002-xway-support.patch
+END
+0018-cache-split.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0018-cache-split.patch
+END
+0021-owrt-cmdline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0021-owrt-cmdline.patch
+END
+0022-owrt-dm9000-polling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0022-owrt-dm9000-polling.patch
+END
+0014-import-compat-headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0014-import-compat-headers.patch
+END
+0025-svip-cp1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0025-svip-cp1.patch
+END
+0007-usb-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0007-usb-support.patch
+END
+0010-watchdog-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0010-watchdog-support.patch
+END
+0023-owrt-gpio-export.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0023-owrt-gpio-export.patch
+END
+0020-owrt-atm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0020-owrt-atm.patch
+END
+0008-spi-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0008-spi-support.patch
+END
+0001-falcon-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0001-falcon-support.patch
+END
+0019-owrt-mtd-split.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0019-owrt-mtd-split.patch
+END
+0017-udp-in-kernel-redirect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0017-udp-in-kernel-redirect.patch
+END
+0013-machtype-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0013-machtype-support.patch
+END
+0003-svip-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0003-svip-hack.patch
+END
+0011-i2c-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0011-i2c-support.patch
+END
+0005-pci-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0005-pci-support.patch
+END
+0024-fritzbox-ram.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0024-fritzbox-ram.patch
+END
+0004-lantiq-core-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0004-lantiq-core-support.patch
+END
+0015-VPE-extensions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0015-VPE-extensions.patch
+END
+0012-tty-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0012-tty-support.patch
+END
+0009-ethernet-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/patches-3.3/0009-ethernet-support.patch
+END

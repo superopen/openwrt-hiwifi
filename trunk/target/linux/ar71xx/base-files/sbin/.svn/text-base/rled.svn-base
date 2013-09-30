@@ -1,0 +1,26 @@
+#!/bin/sh
+
+. /lib/ar71xx.sh
+
+bdname=$(ar71xx_board_name)
+
+led_set_attr() {
+	[ -f "/sys/class/leds/$1/$2" ] && echo "$3" > "/sys/class/leds/$1/$2"
+}
+
+rled_set_timer() {
+	led_set_attr $rled "brightness" "255"
+	led_set_attr $rled "trigger" "timer"
+	led_set_attr $rled "delay_on" "$1"
+	led_set_attr $rled "delay_off" "$2"
+}
+
+
+case "$bdname" in
+tw150v1)
+	rled="tw150v1:green:system"
+	rled_set_timer 100 100
+	rled="tw150v1:green:internet"
+	rled_set_timer 100 100
+	;;
+esac

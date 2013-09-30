@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/pxcab/base-files/lib/preinit
+END
+45_failsafe_pxcab
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/pxcab/base-files/lib/preinit/45_failsafe_pxcab
+END
+15_essential_fs_pxcab
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/pxcab/base-files/lib/preinit/15_essential_fs_pxcab
+END

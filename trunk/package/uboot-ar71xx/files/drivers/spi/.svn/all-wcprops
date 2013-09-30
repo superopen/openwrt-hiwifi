@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/spi
+END
+ar71xx_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/spi/ar71xx_spi.c
+END

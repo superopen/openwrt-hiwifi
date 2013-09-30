@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/drivers/usb/host
+END
+hc-crisv10.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/drivers/usb/host/hc-crisv10.c
+END
+hc-crisv10.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/drivers/usb/host/hc-crisv10.h
+END
+hc-cris-dbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/files/drivers/usb/host/hc-cris-dbg.h
+END

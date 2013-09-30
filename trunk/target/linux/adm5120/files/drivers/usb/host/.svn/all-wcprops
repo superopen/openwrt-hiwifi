@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host
+END
+adm5120.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120.h
+END
+adm5120-drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120-drv.c
+END
+adm5120-dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120-dbg.c
+END
+adm5120-pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120-pm.c
+END
+adm5120-hcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120-hcd.c
+END
+adm5120-hub.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120-hub.c
+END
+adm5120-mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120-mem.c
+END
+adm5120-q.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/drivers/usb/host/adm5120-q.c
+END

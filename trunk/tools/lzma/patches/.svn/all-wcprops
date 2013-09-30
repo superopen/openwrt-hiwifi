@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/tools/lzma/patches
+END
+002-lzmp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/tools/lzma/patches/002-lzmp.patch
+END
+003-compile_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/tools/lzma/patches/003-compile_fixes.patch
+END
+100-static_library.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/tools/lzma/patches/100-static_library.patch
+END
+001-large_files.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/tools/lzma/patches/001-large_files.patch
+END

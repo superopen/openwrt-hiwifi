@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches
+END
+007-amp_timer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/007-amp_timer.patch
+END
+016-ioport_update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/016-ioport_update.patch
+END
+015-dma_ops.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/015-dma_ops.patch
+END
+012-greth_amba_vendor_device.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/012-greth_amba_vendor_device.patch
+END
+003-smp_cpu_stuck_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/003-smp_cpu_stuck_fix.patch
+END
+018-greth_compat_mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/018-greth_compat_mode.patch
+END
+027-sparc_v8_assembler.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/027-sparc_v8_assembler.patch
+END
+019-greth_fix_open_close.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/019-greth_fix_open_close.patch
+END
+014-timer_irqctrl_amba_vendor_device.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/014-timer_irqctrl_amba_vendor_device.patch
+END
+009-remove_second_timer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/009-remove_second_timer.patch
+END
+001-find_irq_and_timer_via_of.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/001-find_irq_and_timer_via_of.patch
+END
+025-greth_bootloader_disable_device_node.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/025-greth_bootloader_disable_device_node.patch
+END
+010-apbuart_ampopts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/010-apbuart_ampopts.patch
+END
+026-greth_gbit_mac_set_ee_when_edcl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/026-greth_gbit_mac_set_ee_when_edcl.patch
+END
+005-avoid_openprom_duplicates.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/005-avoid_openprom_duplicates.patch
+END
+021-greth_fix_memory_leak.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/021-greth_fix_memory_leak.patch
+END
+022-greth_avoid_bad_speed_duplex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/022-greth_avoid_bad_speed_duplex.patch
+END
+002-sparc_uimage_target.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/002-sparc_uimage_target.patch
+END
+023-greth_handle_frame_error_interrupts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/023-greth_handle_frame_error_interrupts.patch
+END
+024-greth_resolve_smp_and_other_issues.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/024-greth_resolve_smp_and_other_issues.patch
+END
+020-greth_optimize_gbit_tx_descriptor_handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/020-greth_optimize_gbit_tx_descriptor_handling.patch
+END
+013-apbuart_amba_vendor_device.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/013-apbuart_amba_vendor_device.patch
+END
+011-greth_fix_unhandled_irq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/011-greth_fix_unhandled_irq.patch
+END
+006-amp_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/006-amp_support.patch
+END
+008-hz_specific_timer_init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/008-hz_specific_timer_init.patch
+END
+004-extended_irq_controller.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/004-extended_irq_controller.patch
+END
+017-greth_no_gbit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/leon/patches/017-greth_no_gbit.patch
+END

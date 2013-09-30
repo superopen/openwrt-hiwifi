@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common
+END
+mvDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvDebug.h
+END
+mvCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvCommon.h
+END
+mv802_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mv802_3.h
+END
+mvDeviceId.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvDeviceId.h
+END
+mvStack.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvStack.c
+END
+mvDebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvDebug.c
+END
+mvHalVer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvHalVer.h
+END
+mvCommon.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvCommon.c
+END
+mvCompVer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvCompVer.txt
+END
+mvTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvTypes.h
+END
+mvStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/common/mvStack.h
+END

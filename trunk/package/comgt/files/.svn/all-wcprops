@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files
+END
+3g.usb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/3g.usb
+END
+3g.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/3g.sh
+END
+getstrength.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/getstrength.gcom
+END
+setmode.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/setmode.gcom
+END
+getimsi.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/getimsi.gcom
+END
+getcnum.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/getcnum.gcom
+END
+setpin.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/setpin.gcom
+END
+3g.chat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/3g.chat
+END
+getcardinfo.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/getcardinfo.gcom
+END
+evdo.chat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/evdo.chat
+END
+getcarrier.gcom
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/comgt/files/getcarrier.gcom
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/Kconfig
+END
+ifxhcd_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxhcd_intr.c
+END
+ifxusb_ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_ctl.c
+END
+ifxhcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxhcd.c
+END
+ifxhcd_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxhcd_queue.c
+END
+ifxhcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxhcd.h
+END
+ifxusb_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_version.h
+END
+ifxusb_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_driver.c
+END
+TagHistory
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/TagHistory
+END
+ifxusb_cif.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_cif.c
+END
+ifxusb_cif_d.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_cif_d.c
+END
+ifxusb_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_regs.h
+END
+ifxusb_plat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_plat.h
+END
+ifxusb_cif.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_cif.h
+END
+ifxusb_cif_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxusb_cif_h.c
+END
+ifxhcd_es.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/ifxhcd_es.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/usb/ifxhcd/Makefile
+END

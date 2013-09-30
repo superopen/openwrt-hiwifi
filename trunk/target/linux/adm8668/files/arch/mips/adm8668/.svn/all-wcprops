@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668
+END
+net_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/net_core.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/serial.c
+END
+net_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/net_intr.c
+END
+Platform
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/Platform
+END
+proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/proc.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/platform.c
+END
+u-boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/u-boot.h
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/irq.c
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/net.h
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/files/arch/mips/adm8668/prom.c
+END

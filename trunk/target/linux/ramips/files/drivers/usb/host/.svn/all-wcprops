@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/drivers/usb/host
+END
+ehci-rt3883.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/drivers/usb/host/ehci-rt3883.c
+END
+ohci-rt3883.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/drivers/usb/host/ohci-rt3883.c
+END

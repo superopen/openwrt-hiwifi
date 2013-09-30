@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/at91/9260/profiles
+END
+001-flexibity-xwrt.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/at91/9260/profiles/001-flexibity-xwrt.mk
+END
+000-flexibity-minimal.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/at91/9260/profiles/000-flexibity-minimal.mk
+END
+002-flexibity-luci.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/at91/9260/profiles/002-flexibity-luci.mk
+END

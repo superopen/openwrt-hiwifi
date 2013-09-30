@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches
+END
+045-Add-high-resolution-kernel-timer-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/045-Add-high-resolution-kernel-timer-support.patch
+END
+004-MCF54418-support-in-Linux-2.6.38.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/004-MCF54418-support-in-Linux-2.6.38.patch
+END
+031-Add-watchdog-driver-support-for-MCF5445x-and-MCF547x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/031-Add-watchdog-driver-support-for-MCF5445x-and-MCF547x.patch
+END
+026-Add-RTC-driver-support-for-MCF5445x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/026-Add-RTC-driver-support-for-MCF5445x.patch
+END
+046-Convert-rtc-drivers-to-use-the-alarm_irq_enable-meth.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/046-Convert-rtc-drivers-to-use-the-alarm_irq_enable-meth.patch
+END
+019-Fix-the-format-field-for-the-Coldfire-exception-fram.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/019-Fix-the-format-field-for-the-Coldfire-exception-fram.patch
+END
+002-MCF54451-and-MCF54455-support-in-Linux-2.6.38.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/002-MCF54451-and-MCF54455-support-in-Linux-2.6.38.patch
+END
+048-Fix-i2c-driver-bug-when-reinserting-as-module.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/048-Fix-i2c-driver-bug-when-reinserting-as-module.patch
+END
+037-Add-ColdFire-MCF54455-PATA-interface-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/037-Add-ColdFire-MCF54455-PATA-interface-support.patch
+END
+038-Add-PCI-Framebuffer-support-for-Silicon-Motion-s-Lyn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/038-Add-PCI-Framebuffer-support-for-Silicon-Motion-s-Lyn.patch
+END
+049-Update-FEC-driver-for-MCF5445x-and-MCF54418.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/049-Update-FEC-driver-for-MCF5445x-and-MCF54418.patch
+END
+050-Update-the-DMA-map-function-for-CF-platform.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/050-Update-the-DMA-map-function-for-CF-platform.patch
+END
+027-Add-RTC-driver-support-on-MCF5441x-platform.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/027-Add-RTC-driver-support-on-MCF5441x-platform.patch
+END
+013-Add-MCD-DMA-driver-for-MCF547x-MCF548x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/013-Add-MCD-DMA-driver-for-MCF547x-MCF548x.patch
+END
+006-Add-FEC-driver-support-for-MCF5445x-MCF5441x-MCF547x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/006-Add-FEC-driver-support-for-MCF5445x-MCF5441x-MCF547x.patch
+END
+032-Change-some-jffs2-warning-to-debug-info.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/032-Change-some-jffs2-warning-to-debug-info.patch
+END
+003-MCF547x-and-MCF548x-support-in-Linux-2.6.38.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/003-MCF547x-and-MCF548x-support-in-Linux-2.6.38.patch
+END
+030-Add-SPI-device-configuration-for-FXS-and-FXO-on-MCF5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/030-Add-SPI-device-configuration-for-FXS-and-FXO-on-MCF5.patch
+END
+010-Add-SRAM-char-device-driver-support-for-MCF5445x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/010-Add-SRAM-char-device-driver-support-for-MCF5445x.patch
+END
+200-fec_select_phylib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/200-fec_select_phylib.patch
+END
+018-Add-SSD1289-TFT-LCD-framebuffer-driver-on-TWR-MCF544.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/018-Add-SSD1289-TFT-LCD-framebuffer-driver-on-TWR-MCF544.patch
+END
+005-Add-serial-driver-and-irda-driver-support-for-MCF544.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/005-Add-serial-driver-and-irda-driver-support-for-MCF544.patch
+END
+051-Update-SD-MMC-over-SPI-driver-for-MCF54451-and-MCF54.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/051-Update-SD-MMC-over-SPI-driver-for-MCF54451-and-MCF54.patch
+END
+012-Add-vDSO-support-for-Coldfire-platform.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/012-Add-vDSO-support-for-Coldfire-platform.patch
+END
+102-kernel-2.6.38-Fix-SD-MMC-SDIO-over-SPI-driver-bug-when-reinserting.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/102-kernel-2.6.38-Fix-SD-MMC-SDIO-over-SPI-driver-bug-when-reinserting.patch
+END
+008-Add-DSPI-driver-support-for-MCF5445x-MCF5441x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/008-Add-DSPI-driver-support-for-MCF5445x-MCF5441x.patch
+END
+017-Add-cpu-dma-sync-function-for-coldfire-platform.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/017-Add-cpu-dma-sync-function-for-coldfire-platform.patch
+END
+022-Redefine-I-O-read-and-write-functions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/022-Redefine-I-O-read-and-write-functions.patch
+END
+007-Add-eDMA-support-for-MCF5445x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/007-Add-eDMA-support-for-MCF5445x.patch
+END
+103-kernel-2.6.38-Fix-i2c-driver-could-not-work-as-module.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/103-kernel-2.6.38-Fix-i2c-driver-could-not-work-as-module.patch
+END
+034-Enable-the-NFC-driver-for-soft_ecc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/034-Enable-the-NFC-driver-for-soft_ecc.patch
+END
+052-Update-the-default-configurations-for-ColdFire-V4-bo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/052-Update-the-default-configurations-for-ColdFire-V4-bo.patch
+END
+036-Add-FlexCAN-support-on-ColdFire-M548X-M54418-platfor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/036-Add-FlexCAN-support-on-ColdFire-M548X-M54418-platfor.patch
+END
+039-Add-PCI-bus-driver-for-M54455EVB-and-M547X_8X.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/039-Add-PCI-bus-driver-for-M54455EVB-and-M547X_8X.patch
+END
+044-Fix-Max3353-otg-toggle-bug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/044-Fix-Max3353-otg-toggle-bug.patch
+END
+015-Add-driver-to-support-ten-UART-devices-on-MCF5441x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/015-Add-driver-to-support-ten-UART-devices-on-MCF5441x.patch
+END
+041-Fix-CAU-driver-bug-for-SHA1-digest-algorithm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/041-Fix-CAU-driver-bug-for-SHA1-digest-algorithm.patch
+END
+016-Add-nand-driver-support-for-M54418TWR-board.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/016-Add-nand-driver-support-for-M54418TWR-board.patch
+END
+047-Fix-DSPI-compile-error-for-MCF547x-MCF548x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/047-Fix-DSPI-compile-error-for-MCF547x-MCF548x.patch
+END
+024-Add-SEC-1.1-support-for-MCF547x-and-MCF548x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/024-Add-SEC-1.1-support-for-MCF547x-and-MCF548x.patch
+END
+025-Add-I2C-driver-for-MCF5445x-MCF547x-MCF548x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/025-Add-I2C-driver-for-MCF5445x-MCF547x-MCF548x.patch
+END
+021-Add-ethernet-switch-driver-for-MCF54418.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/021-Add-ethernet-switch-driver-for-MCF54418.patch
+END
+043-workaround-for-zero-page-used-on-ColdFire-platform.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/043-workaround-for-zero-page-used-on-ColdFire-platform.patch
+END
+100-kernel-2.6.38-Fix-FEC-driver-bugs-for-MCF547x-MCF548x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/100-kernel-2.6.38-Fix-FEC-driver-bugs-for-MCF547x-MCF548x.patch
+END
+042-Fix-NEED_MULTIPLE_NODES-unmet-direct-dependencies-wa.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/042-Fix-NEED_MULTIPLE_NODES-unmet-direct-dependencies-wa.patch
+END
+020-Add-dual-FEC-1588-timer-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/020-Add-dual-FEC-1588-timer-support.patch
+END
+011-Add-CAU-driver-for-MCF5445x-and-MCF5441x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/011-Add-CAU-driver-for-MCF5445x-and-MCF5441x.patch
+END
+040-Add-USB-support-for-MCF5445x-and-MCF54418.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/040-Add-USB-support-for-MCF5445x-and-MCF54418.patch
+END
+009-Add-ALSA-driver-for-MCF5445x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/009-Add-ALSA-driver-for-MCF5445x.patch
+END
+033-Fix-structure-fsl_ssd1289_data-definition-bug-for-SS.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/033-Fix-structure-fsl_ssd1289_data-definition-bug-for-SS.patch
+END
+101-kernel-2.6.38-Fix-LCD-framebuffer-driver-data-swap-bug-for-MCF5441.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/101-kernel-2.6.38-Fix-LCD-framebuffer-driver-data-swap-bug-for-MCF5441.patch
+END
+029-Add-eSDHC-driver-for-MCF5441x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/029-Add-eSDHC-driver-for-MCF5441x.patch
+END
+028-Add-SD-MMC-SDIO-over-SPI-support-for-MCF54451-and-MC.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/028-Add-SD-MMC-SDIO-over-SPI-support-for-MCF54451-and-MC.patch
+END
+001-Coldfire-architecture-support-in-Linux-2.6.38.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/001-Coldfire-architecture-support-in-Linux-2.6.38.patch
+END
+014-Add-CFV4E-FPU-support-for-MCF547x-MCF548x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/014-Add-CFV4E-FPU-support-for-MCF547x-MCF548x.patch
+END
+023-Replace-readl-and-writel-for-FEC-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/coldfire/patches/023-Replace-readl-and-writel-for-FEC-driver.patch
+END

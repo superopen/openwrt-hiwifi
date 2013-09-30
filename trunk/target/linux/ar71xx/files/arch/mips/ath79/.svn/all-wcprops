@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79
+END
+mach-dir-615-c1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-dir-615-c1.c
+END
+mach-whr-hp-g300n.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-whr-hp-g300n.c
+END
+mach-tew-712br.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tew-712br.c
+END
+dev-eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-eth.h
+END
+routerboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/routerboot.c
+END
+mach-rb750.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-rb750.c
+END
+mach-all0315n.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-all0315n.c
+END
+mach-tl-wa901nd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wa901nd.c
+END
+mach-tl-wr2543n.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr2543n.c
+END
+routerboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/routerboot.h
+END
+mach-wpe72.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wpe72.c
+END
+mach-all0258n.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-all0258n.c
+END
+mach-wnr2000.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wnr2000.c
+END
+mach-tl-wr703n.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr703n.c
+END
+mach-wrt400n.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wrt400n.c
+END
+mach-ew-dorin.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-ew-dorin.c
+END
+mach-tw150v1.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tw150v1.c
+END
+mach-tew-673gru.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tew-673gru.c
+END
+mach-dir-825-b1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-dir-825-b1.c
+END
+bdinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/bdinfo.c
+END
+mach-ja76pf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-ja76pf.c
+END
+mach-wrt160nl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wrt160nl.c
+END
+mach-tl-mr3020.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-mr3020.c
+END
+dev-ap9x-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-ap9x-pci.c
+END
+bdinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/bdinfo.h
+END
+dev-ap9x-pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-ap9x-pci.h
+END
+mach-rb4xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-rb4xx.c
+END
+mach-wzr-hp-ag300h.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wzr-hp-ag300h.c
+END
+mach-tl-wr841n-v8.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr841n-v8.c
+END
+mach-tew-632brp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tew-632brp.c
+END
+mach-wzr-hp-g450h.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wzr-hp-g450h.c
+END
+mach-nbg460n.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-nbg460n.c
+END
+mach-cap4200ag.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-cap4200ag.c
+END
+mach-tl-wa901nd-v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wa901nd-v2.c
+END
+mach-ap113.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-ap113.c
+END
+mach-rw2458n.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-rw2458n.c
+END
+mach-eap7660d.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-eap7660d.c
+END
+mach-tl-wr1043nd.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr1043nd.c
+END
+mach-hornet-ub.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-hornet-ub.c
+END
+mach-ubnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-ubnt.c
+END
+mach-tl-wr741nd-v4.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr741nd-v4.c
+END
+mach-ap83.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-ap83.c
+END
+mach-pb92.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-pb92.c
+END
+mach-mzk-w04nu.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-mzk-w04nu.c
+END
+mach-om2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-om2p.c
+END
+dev-dsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-dsa.c
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/nvram.c
+END
+mach-alfa-ap96.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-alfa-ap96.c
+END
+mach-dir-600-a1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-dir-600-a1.c
+END
+dev-dsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-dsa.h
+END
+nvram.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/nvram.h
+END
+mach-jwap003.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-jwap003.c
+END
+mach-wzr-hp-g300nh.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wzr-hp-g300nh.c
+END
+mach-zcn-1523h.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-zcn-1523h.c
+END
+dev-m25p80.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-m25p80.c
+END
+mach-mr600.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-mr600.c
+END
+dev-m25p80.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-m25p80.h
+END
+mach-wzr-hp-g300nh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wzr-hp-g300nh2.c
+END
+mach-rb2011.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-rb2011.c
+END
+mach-pb42.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-pb42.c
+END
+mach-tl-mr3x20.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-mr3x20.c
+END
+dev-nfc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-nfc.c
+END
+pci-ath9k-fixup.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/pci-ath9k-fixup.c
+END
+mach-wlae-ag300n.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wlae-ag300n.c
+END
+mach-tl-wr1041n-v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr1041n-v2.c
+END
+mach-mzk-w300nh.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-mzk-w300nh.c
+END
+mach-ap96.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-ap96.c
+END
+mach-tl-wr841n.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr841n.c
+END
+mach-tl-wdr4300.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wdr4300.c
+END
+dev-nfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-nfc.h
+END
+mach-aw-nr580.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-aw-nr580.c
+END
+pci-ath9k-fixup.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/pci-ath9k-fixup.h
+END
+mach-tl-mr11u.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-mr11u.c
+END
+mach-wp543.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wp543.c
+END
+mach-tl-wr741nd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr741nd.c
+END
+mach-wndr3700.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-wndr3700.c
+END
+mach-tl-wr941nd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-tl-wr941nd.c
+END
+mach-alfa-nx.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/mach-alfa-nx.c
+END
+dev-eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/arch/mips/ath79/dev-eth.c
+END

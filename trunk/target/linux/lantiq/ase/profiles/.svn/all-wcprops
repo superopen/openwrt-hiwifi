@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/ase/profiles
+END
+000-generic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/ase/profiles/000-generic.mk
+END
+001-lantiq.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/ase/profiles/001-lantiq.mk
+END

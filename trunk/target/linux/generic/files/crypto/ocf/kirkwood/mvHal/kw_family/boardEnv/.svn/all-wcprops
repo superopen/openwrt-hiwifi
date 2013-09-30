@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/boardEnv
+END
+mvBoardEnvSpec.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/boardEnv/mvBoardEnvSpec.c
+END
+mvBoardEnvLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/boardEnv/mvBoardEnvLib.h
+END
+mvBoardEnvSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/boardEnv/mvBoardEnvSpec.h
+END
+mvBoardEnvLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/kw_family/boardEnv/mvBoardEnvLib.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/profiles
+END
+100-generic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/profiles/100-generic.mk
+END
+101-vhdl-nofb.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/etrax/profiles/101-vhdl-nofb.mk
+END

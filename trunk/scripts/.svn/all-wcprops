@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/hiwifi/!svn/ver/3/trunk/scripts
+END
+deptest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/scripts/deptest.sh
+END
+config.rpath
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/scripts/config.rpath
+END
+update-package-md5sum
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/scripts/update-package-md5sum
+END
+clean-package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/scripts/clean-package.sh
+END
+env
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/hiwifi/!svn/ver/3/trunk/scripts/env
+END
+metadata.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/scripts/metadata.pl
+END
+make-ipkg-dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/scripts/make-ipkg-dir.sh
+END
+kconfig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/scripts/kconfig.pl
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/scripts/config.guess
+END
+metadata.pm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/scripts/metadata.pm
+END
+om-fwupgradecfg-gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/scripts/om-fwupgradecfg-gen.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/scripts/config.sub
+END
+brcmImage.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/scripts/brcmImage.pl
+END
+strip-kmod.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/scripts/strip-kmod.sh
+END
+getver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/scripts/getver.sh
+END
+pad_image
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/scripts/pad_image
+END
+diffconfig.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/scripts/diffconfig.sh
+END
+combined-image.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/scripts/combined-image.sh
+END
+download.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/hiwifi/!svn/ver/3/trunk/scripts/download.pl
+END
+patch-specs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/hiwifi/!svn/ver/3/trunk/scripts/patch-specs.sh
+END
+ipkg-make-index.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/scripts/ipkg-make-index.sh
+END
+remote-gdb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/scripts/remote-gdb
+END
+patch-kernel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/scripts/patch-kernel.sh
+END
+feeds
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/hiwifi/!svn/ver/3/trunk/scripts/feeds
+END
+ext-toolchain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/scripts/ext-toolchain.sh
+END
+slugimage.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/scripts/slugimage.pl
+END
+ipkg
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/hiwifi/!svn/ver/3/trunk/scripts/ipkg
+END
+bundle-libraries.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/scripts/bundle-libraries.sh
+END
+rstrip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/scripts/rstrip.sh
+END
+symlink-tree.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/scripts/symlink-tree.sh
+END
+dl_cleanup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/scripts/dl_cleanup.py
+END
+relink-lib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/scripts/relink-lib.sh
+END
+abs2rel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/scripts/abs2rel.pl
+END
+gen-dependencies.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/scripts/gen-dependencies.sh
+END
+arm-magic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/scripts/arm-magic.sh
+END
+combined-ext-image.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/scripts/combined-ext-image.sh
+END
+md5sum
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/hiwifi/!svn/ver/3/trunk/scripts/md5sum
+END
+timestamp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/scripts/timestamp.pl
+END

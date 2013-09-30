@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3
+END
+105-usb_dwc_otg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/105-usb_dwc_otg.patch
+END
+106-rt3883-pci-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/106-rt3883-pci-support.patch
+END
+104-ramips-watchdog-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/104-ramips-watchdog-driver.patch
+END
+201-rt3883-ohci-glue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/201-rt3883-ohci-glue.patch
+END
+010-mtd_fix_cfi_cmdset_0002_erase_status_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/010-mtd_fix_cfi_cmdset_0002_erase_status_check.patch
+END
+100-mips-ralink-core.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/100-mips-ralink-core.patch
+END
+200-rt3883-ehci-glue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/200-rt3883-ehci-glue.patch
+END
+001-mips-add-cp0-compare-irq-function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/001-mips-add-cp0-compare-irq-function.patch
+END
+101-rt288x_serial_driver_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/101-rt288x_serial_driver_hack.patch
+END
+011-mtd-cfi_cmdset_0002-force-word-write.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/011-mtd-cfi_cmdset_0002-force-word-write.patch
+END
+102-rt288x-pci-driver-hook.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/102-rt288x-pci-driver-hook.patch
+END
+103-ethernet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/103-ethernet.patch
+END
+105-ramips-spi-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/patches-3.3/105-ramips-spi-driver.patch
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3
+END
+110-pronghorn_series_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/110-pronghorn_series_support.patch
+END
+600-skb_avoid_dmabounce.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/600-skb_avoid_dmabounce.patch
+END
+312-ixp4xx_pata_optimization.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/312-ixp4xx_pata_optimization.patch
+END
+900-ixp4xx-crypto-include-module.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/900-ixp4xx-crypto-include-module.h.patch
+END
+170-ixdpg425_mac_plat_info.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/170-ixdpg425_mac_plat_info.patch
+END
+120-compex_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/120-compex_support.patch
+END
+203-npe_driver_mask_phy_features.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/203-npe_driver_mask_phy_features.patch
+END
+311-gtwx5717_mac_plat_info.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/311-gtwx5717_mac_plat_info.patch
+END
+207-npe_driver_multiphy_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/207-npe_driver_multiphy_support.patch
+END
+116-sidewinder_fis_location.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/116-sidewinder_fis_location.patch
+END
+205-npe_driver_separate_phy_functions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/205-npe_driver_separate_phy_functions.patch
+END
+115-sidewinder_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/115-sidewinder_support.patch
+END
+160-delayed_uart_io.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/160-delayed_uart_io.patch
+END
+151-lanready_ap1000_mac_plat_info.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/151-lanready_ap1000_mac_plat_info.patch
+END
+175-avila_hss_audio_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/175-avila_hss_audio_support.patch
+END
+190-cambria_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/190-cambria_support.patch
+END
+131-wrt300nv2_mac_plat_info.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/131-wrt300nv2_mac_plat_info.patch
+END
+201-npe_driver_print_license_location.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/201-npe_driver_print_license_location.patch
+END
+105-wg302v1_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/105-wg302v1_support.patch
+END
+520-tw2662_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/520-tw2662_support.patch
+END
+180-tw5334_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/180-tw5334_support.patch
+END
+132-wrt300nv2_mac_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/132-wrt300nv2_mac_fix.patch
+END
+150-lanready_ap1000_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/150-lanready_ap1000_support.patch
+END
+500-usr8200_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/500-usr8200_support.patch
+END
+130-wrt300nv2_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/130-wrt300nv2_support.patch
+END
+111-pronghorn_swap_uarts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/111-pronghorn_swap_uarts.patch
+END
+300-avila_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/300-avila_support.patch
+END
+162-wg302v1_mem_fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/162-wg302v1_mem_fixup.patch
+END
+090-increase_entropy_pools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/090-increase_entropy_pools.patch
+END
+206-npe_driver_add_update_link_function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/206-npe_driver_add_update_link_function.patch
+END
+020-gateworks_i2c_pld.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/020-gateworks_i2c_pld.patch
+END
+310-gtwx5717_spi_bus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/310-gtwx5717_spi_bus.patch
+END
+295-latch_led_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/295-latch_led_driver.patch
+END
+100-wg302v2_gateway7001_mac_plat_info.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/100-wg302v2_gateway7001_mac_plat_info.patch
+END
+402-ixp4xx_gpiolib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/402-ixp4xx_gpiolib.patch
+END
+304-ixp4xx_eth_jumboframe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/304-ixp4xx_eth_jumboframe.patch
+END
+185-mi424wr_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ixp4xx/patches-3.3/185-mi424wr_support.patch
+END

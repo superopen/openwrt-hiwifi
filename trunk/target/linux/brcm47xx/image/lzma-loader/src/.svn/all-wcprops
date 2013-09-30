@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/head.S
+END
+decompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/decompress.c
+END
+LzmaDecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/LzmaDecode.c
+END
+decompress.lds.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/decompress.lds.in
+END
+loader.lds.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/loader.lds.in
+END
+LzmaDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/LzmaDecode.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/image/lzma-loader/src/README
+END

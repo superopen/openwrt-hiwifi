@@ -1,0 +1,22 @@
+--- a/arch/mips/ath79/setup.c
++++ a/arch/mips/ath79/setup.c
+@@ -28,6 +28,7 @@
+ #include "common.h"
+ #include "dev-common.h"
+ #include "machtypes.h"
++#include "bdinfo.h"
+ 
+ #define ATH79_SYS_TYPE_LEN	64
+ 
+@@ -233,6 +234,11 @@
+ 	ath79_register_uart();
+ 	ath79_register_wdt();
+ 
++	if (parse_bdinfo((u8 *) KSEG1ADDR(0x1f010180), 0xfe80) != 0)
++	{
++		panic("unable to parse fac txt data");
++	}
++
+ 	mips_machine_setup();
+ 
+ 	return 0;

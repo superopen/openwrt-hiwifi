@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/hif
+END
+hif.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/hif/hif.c
+END
+hif_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/hif/hif_internal.h
+END
+hif2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/s3c24xx/files-2.6.30/drivers/ar6000/hif/hif2.c
+END

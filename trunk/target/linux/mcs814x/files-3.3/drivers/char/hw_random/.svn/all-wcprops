@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/drivers/char/hw_random
+END
+mcs814x-rng.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/drivers/char/hw_random/mcs814x-rng.c
+END

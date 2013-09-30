@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/mtd/devices
+END
+ubi32-nand-spi-er.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/mtd/devices/ubi32-nand-spi-er.c
+END
+nand-spi-er.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/mtd/devices/nand-spi-er.c
+END
+ubi32-m25p80.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/mtd/devices/ubi32-m25p80.c
+END

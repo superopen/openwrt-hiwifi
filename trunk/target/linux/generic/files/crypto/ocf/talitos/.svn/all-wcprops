@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/talitos
+END
+talitos.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/talitos/talitos.c
+END
+talitos_soft.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/talitos/talitos_soft.h
+END
+talitos_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/talitos/talitos_dev.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/talitos/Makefile
+END

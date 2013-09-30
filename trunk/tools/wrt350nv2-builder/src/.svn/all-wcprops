@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src
+END
+wrt350nv2-builder.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src/wrt350nv2-builder.c
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src/ioapi.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src/md5.c
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src/crypt.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src/ioapi.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src/md5.h
+END
+upgrade.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/tools/wrt350nv2-builder/src/upgrade.h
+END

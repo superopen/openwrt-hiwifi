@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches
+END
+200-darwin_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/200-darwin_fixes.patch
+END
+040-automake-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/040-automake-compat.patch
+END
+002-strip_note_gnu_build_id.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/002-strip_note_gnu_build_id.patch
+END
+110-remove_configure_errors.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/110-remove_configure_errors.patch
+END
+010-fixes-1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/010-fixes-1.patch
+END
+100-add_configure_macros.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/100-add_configure_macros.patch
+END
+210-remove_inline_asm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/210-remove_inline_asm.patch
+END
+020-ext4_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/020-ext4_support.patch
+END
+030-add-stage2-ldscripts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/grub/patches/030-add-stage2-ldscripts.patch
+END

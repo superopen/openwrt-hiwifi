@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/net/ethernet
+END
+svip_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/net/ethernet/svip_eth.c
+END
+svip_virtual_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/net/ethernet/svip_virtual_eth.c
+END
+lantiq_vrx200.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/drivers/net/ethernet/lantiq_vrx200.c
+END

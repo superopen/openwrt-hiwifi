@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/Kconfig
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/setup.c
+END
+early_printk.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/early_printk.c
+END
+rt305x.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/rt305x.c
+END
+mach-ur-336un.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-ur-336un.c
+END
+mach-wr6202.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-wr6202.c
+END
+mach-all0256n.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-all0256n.c
+END
+mach-wr512-3gn.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-wr512-3gn.c
+END
+mach-psr-680w.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-psr-680w.c
+END
+mach-bc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-bc2.c
+END
+mach-wcr150gn.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-wcr150gn.c
+END
+mach-freestation5.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-freestation5.c
+END
+mach-rt-g32-revb.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-rt-g32-revb.c
+END
+mach-wl351.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-wl351.c
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/devices.c
+END
+mach-argus-atp52b.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-argus-atp52b.c
+END
+mach-all5002.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-all5002.c
+END
+devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/devices.h
+END
+mach-carambola.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-carambola.c
+END
+mach-w502u.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-w502u.c
+END
+mach-wl341v3.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-wl341v3.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/irq.c
+END
+mach-whr-g300n.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-whr-g300n.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/Makefile
+END
+mach-mofi3500-3gn.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-mofi3500-3gn.c
+END
+mach-fonera20n.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-fonera20n.c
+END
+mach-dap-1350.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-dap-1350.c
+END
+mach-sl-r7205.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-sl-r7205.c
+END
+mach-v22rw-2x2.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-v22rw-2x2.c
+END
+mach-dir-615-h1.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-dir-615-h1.c
+END
+mach-wl-330n3g.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-wl-330n3g.c
+END
+mach-esr-9753.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-esr-9753.c
+END
+mach-nbg-419n.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-nbg-419n.c
+END
+mach-rt-n10-plus.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-rt-n10-plus.c
+END
+mach-omni-emb.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-omni-emb.c
+END
+mach-wl-330n.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-wl-330n.c
+END
+mach-pwh2004.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-pwh2004.c
+END
+mach-dir-300-revb.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-dir-300-revb.c
+END
+mach-3g-6200n.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-3g-6200n.c
+END
+mach-hw550-3g.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-hw550-3g.c
+END
+mach-xdx-rn502j.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-xdx-rn502j.c
+END
+mach-nw718.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-nw718.c
+END
+mach-f5d8235-v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-f5d8235-v2.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/clock.c
+END
+mach-w306r-v20.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/mach-w306r-v20.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt305x/common.h
+END

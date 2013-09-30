@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches
+END
+004-host_cpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/004-host_cpu.patch
+END
+060-add-find-command.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/060-add-find-command.patch
+END
+011-old-config-location.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/011-old-config-location.patch
+END
+012-strip-trailing-conffiles-whitespace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/012-strip-trailing-conffiles-whitespace.patch
+END
+020-avoid_getline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/020-avoid_getline.patch
+END
+040-wrap-descriptions-only-on-ttys.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/040-wrap-descriptions-only-on-ttys.patch
+END
+050-add-case-insensitive-flag.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/050-add-case-insensitive-flag.patch
+END
+007-force_static.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/007-force_static.patch
+END
+030-fix-double-free.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/030-fix-double-free.patch
+END
+001-ship-pkg-m4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/001-ship-pkg-m4.patch
+END
+009-remove-upgrade-all.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/009-remove-upgrade-all.patch
+END
+070-use_gzipped_pkg_list.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/070-use_gzipped_pkg_list.patch
+END
+002-no-shave.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/002-no-shave.patch
+END
+014-errors-to-stderr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/opkg/patches/014-errors-to-stderr.patch
+END

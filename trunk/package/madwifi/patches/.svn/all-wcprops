@@ -1,0 +1,947 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches
+END
+365-turbo_channelsearch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/365-turbo_channelsearch.patch
+END
+360-sta_nodes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/360-sta_nodes.patch
+END
+323-dfs_optional.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/323-dfs_optional.patch
+END
+357-bgscan_thresh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/357-bgscan_thresh.patch
+END
+420-diversity_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/420-diversity_fix.patch
+END
+381-ibss_modes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/381-ibss_modes.patch
+END
+345-minstrel_sampling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/345-minstrel_sampling.patch
+END
+369-mlme_assoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/369-mlme_assoc.patch
+END
+372-queue_vif.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/372-queue_vif.patch
+END
+452-minstrel_no_timer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/452-minstrel_no_timer.patch
+END
+430-use_netdev_priv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/430-use_netdev_priv.patch
+END
+123-ccmp_checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/123-ccmp_checks.patch
+END
+126-rxerr_frames.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/126-rxerr_frames.patch
+END
+344-minstrel_failcnt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/344-minstrel_failcnt.patch
+END
+334-input.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/334-input.patch
+END
+448-beacon_handling_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/448-beacon_handling_fixes.patch
+END
+385-antenna_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/385-antenna_fix.patch
+END
+407-new_athinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/407-new_athinfo.patch
+END
+367-roaming.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/367-roaming.patch
+END
+300-napi_polling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/300-napi_polling.patch
+END
+463-fix_txrate_display.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/463-fix_txrate_display.patch
+END
+421-channel_handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/421-channel_handling.patch
+END
+380-noderef_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/380-noderef_hack.patch
+END
+389-autochannel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/389-autochannel.patch
+END
+473-mutex_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/473-mutex_fix.patch
+END
+352-ani_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/352-ani_fix.patch
+END
+358-ignore_broken_bssid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/358-ignore_broken_bssid.patch
+END
+366-bstuck_thresh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/366-bstuck_thresh.patch
+END
+102-multicall_binary.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/102-multicall_binary.patch
+END
+377-disable_vlan_code.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/377-disable_vlan_code.patch
+END
+312-erpupdate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/312-erpupdate.patch
+END
+368-sta_ie_preserve.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/368-sta_ie_preserve.patch
+END
+450-calibration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/450-calibration.patch
+END
+388-apsta_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/388-apsta_fix.patch
+END
+434-name-alloc-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/434-name-alloc-fix.patch
+END
+393-mbss_vap_auth.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/393-mbss_vap_auth.patch
+END
+457-idletime.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/457-idletime.patch
+END
+330-beaconcal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/330-beaconcal.patch
+END
+432-netdev_ops.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/432-netdev_ops.patch
+END
+470-mac_addresss_from_ath5k_platform_data.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/470-mac_addresss_from_ath5k_platform_data.patch
+END
+459-2.6.33_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/459-2.6.33_compile.patch
+END
+433-backport_remove_irq_none.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/433-backport_remove_irq_none.patch
+END
+375-atim_tsf_update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/375-atim_tsf_update.patch
+END
+460-pci_softled_disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/460-pci_softled_disable.patch
+END
+331-memory_alloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/331-memory_alloc.patch
+END
+351-scanlist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/351-scanlist.patch
+END
+361-bmiss_handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/361-bmiss_handling.patch
+END
+349-reset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/349-reset.patch
+END
+446-single_module.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/446-single_module.patch
+END
+475-2.6.39-compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/475-2.6.39-compile.patch
+END
+113-no_ibss_pwrsave.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/113-no_ibss_pwrsave.patch
+END
+449-fix_txbuf_leak.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/449-fix_txbuf_leak.patch
+END
+350-wisoc_softled.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/350-wisoc_softled.patch
+END
+419-skb_unmap_crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/419-skb_unmap_crash.patch
+END
+370-wdsvap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/370-wdsvap.patch
+END
+111-minstrel_crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/111-minstrel_crash.patch
+END
+414-txpower.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/414-txpower.patch
+END
+453-procps.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/453-procps.patch
+END
+404-linux24_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/404-linux24_fix.patch
+END
+455-beacon_watchdog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/455-beacon_watchdog.patch
+END
+324-alignment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/324-alignment.patch
+END
+348-ackcts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/348-ackcts.patch
+END
+472-remove_11n_devids.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/472-remove_11n_devids.patch
+END
+105-ratectl_attach.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/105-ratectl_attach.patch
+END
+417-beacon_txpower.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/417-beacon_txpower.patch
+END
+383-ibss_hostap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/383-ibss_hostap.patch
+END
+431-compile_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/431-compile_fixes.patch
+END
+435-ibss_neighbor_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/435-ibss_neighbor_fix.patch
+END
+394-probereq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/394-probereq.patch
+END
+461-rx_stats_count_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/461-rx_stats_count_fix.patch
+END
+465-mc_list-2.6.35.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/465-mc_list-2.6.35.patch
+END
+402-changeset_r3603.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/402-changeset_r3603.patch
+END
+437-sysctl_cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/437-sysctl_cleanup.patch
+END
+440-wme_cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/440-wme_cleanup.patch
+END
+340-maxrate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/340-maxrate.patch
+END
+122-replayfail_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/122-replayfail_workaround.patch
+END
+444-beacon_update_war.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/444-beacon_update_war.patch
+END
+474_fix_ssid_scan_length.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/474_fix_ssid_scan_length.patch
+END
+413-rxorn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/413-rxorn.patch
+END
+310-noise_get.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/310-noise_get.patch
+END
+333-apscan_mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/333-apscan_mode.patch
+END
+438-poweroffset_sysctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/438-poweroffset_sysctl.patch
+END
+391-vap_auth.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/391-vap_auth.patch
+END
+423-phyerr_handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/423-phyerr_handling.patch
+END
+471-netdev_ops_mac_mtu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/471-netdev_ops_mac_mtu.patch
+END
+443-tx_drop_counter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/443-tx_drop_counter.patch
+END
+396-napi_ff_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/396-napi_ff_fix.patch
+END
+355-eap_auth_disassoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/355-eap_auth_disassoc.patch
+END
+374-nbtt_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/374-nbtt_fix.patch
+END
+406-monitor_r3711.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/406-monitor_r3711.patch
+END
+201-debug_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/201-debug_fix.patch
+END
+327-queue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/327-queue.patch
+END
+410-ar231x_2.6.28.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/410-ar231x_2.6.28.patch
+END
+454-cca.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/454-cca.patch
+END
+386-acl_crashfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/386-acl_crashfix.patch
+END
+458-ibss_wpa_none.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/458-ibss_wpa_none.patch
+END
+395-ath_ff_unmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/395-ath_ff_unmap.patch
+END
+451-ibss_race_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/451-ibss_race_fix.patch
+END
+363-fix_turbo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/363-fix_turbo.patch
+END
+408-changeset_r3337.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/408-changeset_r3337.patch
+END
+436-injection_checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/436-injection_checks.patch
+END
+439-wlanconfig_stack_usage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/439-wlanconfig_stack_usage.patch
+END
+104-autocreate_none.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/104-autocreate_none.patch
+END
+347-tuning.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/347-tuning.patch
+END
+462-fix_ap_scan.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/462-fix_ap_scan.patch
+END
+356-hidden_ssid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/356-hidden_ssid.patch
+END
+464-0dbm_txpower_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/464-0dbm_txpower_fix.patch
+END
+325-channel_spam.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/325-channel_spam.patch
+END
+359-disable_reassoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/359-disable_reassoc.patch
+END
+425-rc_rexmit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/425-rc_rexmit.patch
+END
+403-changeset_r3605.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/403-changeset_r3605.patch
+END
+382-relax_bintval.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/382-relax_bintval.patch
+END
+341-minrate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/341-minrate.patch
+END
+354-lantiq_eeprom.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/354-lantiq_eeprom.patch
+END
+124-linux24_compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/124-linux24_compat.patch
+END
+427-ignore_eeprom_ff.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/427-ignore_eeprom_ff.patch
+END
+477-3.2_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/477-3.2_fixes.patch
+END
+106-get_arch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/106-get_arch.patch
+END
+445-fix_ps_sta_count.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/445-fix_ps_sta_count.patch
+END
+332-reset_beacons.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/332-reset_beacons.patch
+END
+378-adhoc_crash_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/378-adhoc_crash_fix.patch
+END
+343-txqueue_races.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/343-txqueue_races.patch
+END
+441-fix_ibss_node_handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/441-fix_ibss_node_handling.patch
+END
+379-invalid_rate_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/379-invalid_rate_fix.patch
+END
+478-remove_vlan_code.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/478-remove_vlan_code.patch
+END
+346-protmode_trig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/346-protmode_trig.patch
+END
+387-maxassoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/387-maxassoc.patch
+END
+426-header_len.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/426-header_len.patch
+END
+456-rfsilent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/456-rfsilent.patch
+END
+353-devid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/353-devid.patch
+END
+447-sta_reconnect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/447-sta_reconnect.patch
+END
+409-wext_compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/409-wext_compat.patch
+END
+390-frame_type.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/390-frame_type.patch
+END
+317-bmask.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/317-bmask.patch
+END
+342-performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/342-performance.patch
+END
+400-new_hal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/400-new_hal.patch
+END
+373-sanity_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/373-sanity_check.patch
+END
+200-no_debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/200-no_debug.patch
+END
+476-3.0_detection_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/476-3.0_detection_fix.patch
+END
+384-hwdetect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/384-hwdetect.patch
+END
+466-2.6.38_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/466-2.6.38_compile.patch
+END
+442-ibss_rx_filter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/442-ibss_rx_filter.patch
+END
+405-retransmit_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/405-retransmit_check.patch
+END
+364-memory_alloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/364-memory_alloc.patch
+END
+305-pureg_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/305-pureg_fix.patch
+END
+424-timing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/424-timing.patch
+END
+401-changeset_r3602.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/401-changeset_r3602.patch
+END
+415-chan_switch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/415-chan_switch.patch
+END
+422-confchange_reset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/422-confchange_reset.patch
+END
+309-micfail_detect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/309-micfail_detect.patch
+END
+416-wprobe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/416-wprobe.patch
+END
+362-rssithr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/362-rssithr.patch
+END
+412-fragmentation_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/412-fragmentation_fix.patch
+END
+392-remove_wds_nodetracking.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/392-remove_wds_nodetracking.patch
+END
+411-autochannel_multi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/411-autochannel_multi.patch
+END
+202-debug_variables.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/202-debug_variables.patch
+END
+311-bssid_alloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/madwifi/patches/311-bssid_alloc.patch
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/kernel-headers/patches-3.3.5
+END
+100-ext2_fs_header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/kernel-headers/patches-3.3.5/100-ext2_fs_header.patch
+END

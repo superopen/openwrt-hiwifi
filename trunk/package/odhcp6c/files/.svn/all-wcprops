@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/package/odhcp6c/files
+END
+dhcpv6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/odhcp6c/files/dhcpv6.sh
+END
+dhcpv6.script
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/odhcp6c/files/dhcpv6.script
+END

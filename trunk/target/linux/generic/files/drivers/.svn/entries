@@ -1,0 +1,46 @@
+10
+
+dir
+4
+https://code.hiwifi.com/svn/hiwifi/trunk/target/linux/generic/files/drivers
+https://code.hiwifi.com/svn/hiwifi
+
+
+
+2013-08-31T16:52:02.175858Z
+3
+sudo_router
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92febfcd-a4b0-4a44-9a7f-5341b7505815
+
+input
+dir
+
+pwm
+dir
+
+mtd
+dir
+
+net
+dir
+
+leds
+dir
+
+char
+dir
+

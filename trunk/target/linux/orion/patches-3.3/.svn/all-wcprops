@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/patches-3.3
+END
+300-dns323_partition_map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/patches-3.3/300-dns323_partition_map.patch
+END
+400-fix-section-mismatch-warnings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/patches-3.3/400-fix-section-mismatch-warnings.patch
+END
+a01-dt2-fixes-for-3.3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/patches-3.3/a01-dt2-fixes-for-3.3.patch
+END
+200-dt2_board_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/patches-3.3/200-dt2_board_support.patch
+END
+100-wrt350nv2_openwrt_partition_map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/patches-3.3/100-wrt350nv2_openwrt_partition_map.patch
+END
+101-wnr854t_partition_map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/orion/patches-3.3/101-wnr854t_partition_map.patch
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches
+END
+030-cfi-addr-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/030-cfi-addr-fixup.patch
+END
+200-httpd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/200-httpd.patch
+END
+300-arcadyan.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/300-arcadyan.patch
+END
+010-fix-mips-flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/010-fix-mips-flags.patch
+END
+050-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/050-portability.patch
+END
+400-lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/400-lzma.patch
+END
+500-gigasx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/500-gigasx.patch
+END
+000-build-infos.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/000-build-infos.patch
+END
+040-compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/040-compile.patch
+END
+020-mips-enhancements.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/020-mips-enhancements.patch
+END
+100-ifx_targets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/patches/100-ifx_targets.patch
+END

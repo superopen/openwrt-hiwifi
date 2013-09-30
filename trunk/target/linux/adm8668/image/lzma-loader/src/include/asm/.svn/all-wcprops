@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/image/lzma-loader/src/include/asm
+END
+global_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/image/lzma-loader/src/include/asm/global_data.h
+END
+u-boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm8668/image/lzma-loader/src/include/asm/u-boot.h
+END

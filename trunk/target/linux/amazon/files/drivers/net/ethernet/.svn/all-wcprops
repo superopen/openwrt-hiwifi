@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/files/drivers/net/ethernet
+END
+amazon_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/files/drivers/net/ethernet/amazon_sw.c
+END
+admmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/files/drivers/net/ethernet/admmod.c
+END

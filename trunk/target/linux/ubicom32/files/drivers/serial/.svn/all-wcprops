@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/serial
+END
+ubi32_mailbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/serial/ubi32_mailbox.c
+END
+ubi32_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/serial/ubi32_serdes.c
+END
+ubi32_uarttio.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/drivers/serial/ubi32_uarttio.c
+END

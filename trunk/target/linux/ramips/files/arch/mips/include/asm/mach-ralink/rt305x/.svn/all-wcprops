@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/include/asm/mach-ralink/rt305x
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/include/asm/mach-ralink/rt305x/irq.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/include/asm/mach-ralink/rt305x/cpu-feature-overrides.h
+END

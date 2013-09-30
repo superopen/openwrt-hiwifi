@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches
+END
+010-remove_STT_GNU_IFUNC.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/010-remove_STT_GNU_IFUNC.patch
+END
+007-gc_sections.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/007-gc_sections.patch
+END
+011-remove_multiarch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/011-remove_multiarch.patch
+END
+003-no_copy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/003-no_copy.patch
+END
+008-uclibc_libgcc_link.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/008-uclibc_libgcc_link.patch
+END
+002-disable_symbol_checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/002-disable_symbol_checks.patch
+END
+005-duplicate_syms.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/005-duplicate_syms.patch
+END
+006-uclibc_init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/006-uclibc_init.patch
+END
+004-libpthread_link.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/004-libpthread_link.patch
+END
+009-uclibc_libpthread_symbols.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/tools/mklibs/patches/009-uclibc_libpthread_symbols.patch
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx
+END
+ag71xx_ar7240.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx_ar7240.c
+END
+ag71xx_debugfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx_debugfs.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/Kconfig
+END
+ag71xx_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx_phy.c
+END
+ag71xx_ar8216.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx_ar8216.c
+END
+ag71xx_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx_main.c
+END
+ag71xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx.h
+END
+ag71xx_mdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx_mdio.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/Makefile
+END
+ag71xx_ethtool.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/net/ethernet/atheros/ag71xx/ag71xx_ethtool.c
+END

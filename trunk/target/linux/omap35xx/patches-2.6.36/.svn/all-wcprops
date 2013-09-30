@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.36
+END
+004-nand_subpage_align.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.36/004-nand_subpage_align.patch
+END
+005-add_cti_usbids.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.36/005-add_cti_usbids.patch
+END
+003-change_partition_table.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.36/003-change_partition_table.patch
+END
+002-omap-nand-remove-hardware-ECC-as-default.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.36/002-omap-nand-remove-hardware-ECC-as-default.patch
+END
+001-expose_omap3_die_id.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.36/001-expose_omap3_die_id.patch
+END

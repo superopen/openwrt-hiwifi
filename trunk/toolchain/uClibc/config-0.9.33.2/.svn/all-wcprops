@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2
+END
+powerpc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/powerpc
+END
+arm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/arm
+END
+mips64
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/mips64
+END
+ubicom32
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/ubicom32
+END
+m68k
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/m68k
+END
+debug
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/debug
+END
+armeb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/armeb
+END
+powerpc.e500
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/powerpc.e500
+END
+common
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/common
+END
+mipsel
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/mipsel
+END
+i386
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/i386
+END
+mipsel.cobalt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/mipsel.cobalt
+END
+i686
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/i686
+END
+avr32
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/avr32
+END
+x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/x86_64
+END
+cris
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/cris
+END
+mips64el
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/mips64el
+END
+sparc.leon
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/sparc.leon
+END
+mips
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/mips
+END
+sparc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/config-0.9.33.2/sparc
+END

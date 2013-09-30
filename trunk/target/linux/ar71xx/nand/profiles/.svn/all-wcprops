@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/nand/profiles
+END
+02-ath5k.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/nand/profiles/02-ath5k.mk
+END
+01-minimal.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/nand/profiles/01-minimal.mk
+END

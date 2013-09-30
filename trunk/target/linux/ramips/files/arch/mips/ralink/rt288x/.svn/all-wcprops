@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/Kconfig
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/setup.c
+END
+mach-wzr-agl300nh.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/mach-wzr-agl300nh.c
+END
+early_printk.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/early_printk.c
+END
+mach-wli-tx4-ag300n.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/mach-wli-tx4-ag300n.c
+END
+mach-v11st-fe.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/mach-v11st-fe.c
+END
+rt288x.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/rt288x.c
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/devices.c
+END
+devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/devices.h
+END
+mach-f5d8235-v1.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/mach-f5d8235-v1.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/irq.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/clock.c
+END
+mach-rt-n15.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/mach-rt-n15.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/files/arch/mips/ralink/rt288x/common.h
+END

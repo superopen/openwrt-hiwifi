@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/tools/squashfs4/patches
+END
+160-expose_lzma_xz_options.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/tools/squashfs4/patches/160-expose_lzma_xz_options.patch
+END
+150-freebsd_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/tools/squashfs4/patches/150-freebsd_fixes.patch
+END
+110-allow_static_liblzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/tools/squashfs4/patches/110-allow_static_liblzma.patch
+END
+120-cygwin_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/tools/squashfs4/patches/120-cygwin_fixes.patch
+END
+170-add_support_for_LZMA_MAGIC_to_unsqashfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/tools/squashfs4/patches/170-add_support_for_LZMA_MAGIC_to_unsqashfs.patch
+END
+100-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/tools/squashfs4/patches/100-portability.patch
+END

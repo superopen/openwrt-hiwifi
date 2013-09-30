@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/package/ltq-ifxos/patches
+END
+120-fix_smp_lock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/ltq-ifxos/patches/120-fix_smp_lock.patch
+END
+100-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/ltq-ifxos/patches/100-portability.patch
+END

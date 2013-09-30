@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot
+END
+30_no_fo_pivot
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/30_no_fo_pivot
+END
+10_determine_parts
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/10_determine_parts
+END
+99_10_with_fo_cleanup
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/99_10_with_fo_cleanup
+END
+99_10_no_fo_cleanup
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/99_10_no_fo_cleanup
+END
+30_reset_copy_rom
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/30_reset_copy_rom
+END
+20_no_fo_mount_jffs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/20_no_fo_mount_jffs
+END
+40_no_fo_copy_ramoverlay
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/40_no_fo_copy_ramoverlay
+END
+20_reset_clear_jffs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/20_reset_clear_jffs
+END
+30_is_rootfs_mounted
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/30_is_rootfs_mounted
+END
+50_pivot
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/50_pivot
+END
+05_firstboot_skip
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/05_firstboot_skip
+END
+10_no_fo_clear_overlay
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/10_no_fo_clear_overlay
+END
+20_has_mini_fo
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/20_has_mini_fo
+END
+10_reset_has_mini_fo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/10_reset_has_mini_fo
+END
+40_copy_ramoverlay
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/firstboot/40_copy_ramoverlay
+END

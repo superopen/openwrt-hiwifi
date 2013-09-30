@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel
+END
+devtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/devtree.c
+END
+timer_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/timer_device.c
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/smp.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/setup.c
+END
+timer_broadcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/timer_broadcast.c
+END
+syscalltable.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/syscalltable.S
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/process.c
+END
+processor.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/processor.c
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/semaphore.c
+END
+uaccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/uaccess.c
+END
+flat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/flat.c
+END
+os_node.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/os_node.c
+END
+asm-offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/asm-offsets.c
+END
+ubicom32_context_switch.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/ubicom32_context_switch.S
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/Makefile
+END
+unaligned_trap.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/unaligned_trap.c
+END
+ubicom32_syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/ubicom32_syscall.S
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/time.c
+END
+dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/dma.c
+END
+vmlinux.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/vmlinux.lds.S
+END
+ldsr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/ldsr.c
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/thread.c
+END
+ubicom32_ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/ubicom32_ksyms.c
+END
+topology.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/topology.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/signal.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/ptrace.c
+END
+sys_ubicom32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/sys_ubicom32.c
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/head.S
+END
+stacktrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/stacktrace.c
+END
+init_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/init_task.c
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/module.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/traps.c
+END
+timer_tick.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/kernel/timer_tick.c
+END

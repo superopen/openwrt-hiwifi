@@ -1,0 +1,60 @@
+--- a/arch/mips/ath79/Makefile
++++ b/arch/mips/ath79/Makefile
+@@ -9,6 +9,8 @@
+ # by the Free Software Foundation.
+ 
+ obj-y	:= prom.o setup.o irq.o common.o clock.o gpio.o
++
++obj-y					+= bdinfo.o
+ 
+ obj-$(CONFIG_EARLY_PRINTK)		+= early_printk.o
+ obj-$(CONFIG_PCI)			+= pci.o
+@@ -104,4 +106,5 @@
+ obj-$(CONFIG_ATH79_MACH_WZR_HP_AG300H)	+= mach-wzr-hp-ag300h.o
+ obj-$(CONFIG_ATH79_MACH_WZR_HP_G450H)	+= mach-wzr-hp-g450h.o
+ obj-$(CONFIG_ATH79_MACH_ZCN_1523H)	+= mach-zcn-1523h.o
++obj-$(CONFIG_ATH79_MACH_TW150V1) += mach-tw150v1.o
+ 
+
+--- a/arch/mips/ath79/machtypes.h
++++ b/arch/mips/ath79/machtypes.h
+@@ -115,6 +115,7 @@
+ 	ATH79_MACH_WZR_HP_G300NH,	/* Buffalo WZR-HP-G300NH */
+ 	ATH79_MACH_WZR_HP_G300NH2,	/* Buffalo WZR-HP-G300NH2 */
+ 	ATH79_MACH_WZR_HP_G450H,	/* Buffalo WZR-HP-G450H */
++	ATH79_MACH_TW150V1,         /* Hiwifi Wireless AR9331 New Board */
+ 	ATH79_MACH_ZCN_1523H_2,		/* Zcomax ZCN-1523H-2-xx */
+ 	ATH79_MACH_ZCN_1523H_5,		/* Zcomax ZCN-1523H-5-xx */
+ };
+
+ #endif /* _ATH79_MACHTYPE_H */
+--- a/arch/mips/ath79/Kconfig
++++ b/arch/mips/ath79/Kconfig
+@@ -219,6 +219,16 @@
+ 	select ATH79_DEV_LEDS_GPIO
+ 	select ATH79_DEV_M25P80
+ 	select ATH79_DEV_USB
++
++config ATH79_MACH_TW150V1
++	bool "Hiwifi Wireless TW150V1 Board (AR9331) support"
++	select SOC_AR933X
++	select ATH79_DEV_ETH
++	select ATH79_DEV_GPIO_BUTTONS
++	select ATH79_DEV_LEDS_GPIO
++	select ATH79_DEV_M25P80
++	select ATH79_DEV_USB
++	select ATH79_DEV_WMAC
+ 
+ config ATH79_MACH_WP543
+ 	bool "Compex WP543/WPJ543 board support"
+--- a/drivers/usb/host/Kconfig
++++ b/drivers/usb/host/Kconfig
+@@ -219,7 +219,7 @@
+
+ config USB_EHCI_ATH79
+ 	bool "EHCI support for AR7XXX/AR9XXX SoCs (DEPRECATED)"
+-	depends on USB_EHCI_HCD && (SOC_AR71XX || SOC_AR724X || SOC_AR913X || SOC_AR933X)
++	depends on USB_EHCI_HCD && (SOC_AR71XX || SOC_AR724X || SOC_AR913X || SOC_AR933X || SOC_AR934X)
+ 	select USB_EHCI_ROOT_HUB_TT
+ 	select USB_EHCI_HCD_PLATFORM
+ 	default y

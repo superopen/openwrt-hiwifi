@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3
+END
+520-MIPS-BCM47XX-fix-time-for-WL520G-and-other-200-MHz-C.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/520-MIPS-BCM47XX-fix-time-for-WL520G-and-other-200-MHz-C.patch
+END
+160-kmap_coherent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/160-kmap_coherent.patch
+END
+812-disable_wgt634u_crap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/812-disable_wgt634u_crap.patch
+END
+192-MIPS-BCM47XX-improve-memory-size-detection.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/192-MIPS-BCM47XX-improve-memory-size-detection.patch
+END
+193-MIPS-BCM47xx-read-out-full-board-data.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/193-MIPS-BCM47xx-read-out-full-board-data.patch
+END
+300-fork_cacheflush.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/300-fork_cacheflush.patch
+END
+026-mtd-bcm47xx-add-parallel-flash-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/026-mtd-bcm47xx-add-parallel-flash-driver.patch
+END
+920-cache-wround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/920-cache-wround.patch
+END
+186-USB-EHCI-bcma-fix-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/186-USB-EHCI-bcma-fix-driver.patch
+END
+006-MIPS-bcm47xx-refactor-fetching-board-data.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/006-MIPS-bcm47xx-refactor-fetching-board-data.patch
+END
+185-USB-OHCI-remove-old-SSB-OHCI-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/185-USB-OHCI-remove-old-SSB-OHCI-driver.patch
+END
+003-MIPS-BCM47XX-move-and-extend-sprom-parsing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/003-MIPS-BCM47XX-move-and-extend-sprom-parsing.patch
+END
+021-bcma-add-serial-flash-support-to-bcma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/021-bcma-add-serial-flash-support-to-bcma.patch
+END
+181-USB-EHCI-Add-a-generic-platform-device-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/181-USB-EHCI-Add-a-generic-platform-device-driver.patch
+END
+028-bcm47xx-register-flash-drivers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/028-bcm47xx-register-flash-drivers.patch
+END
+024-brcm47xx-add-common-interface-for-sflash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/024-brcm47xx-add-common-interface-for-sflash.patch
+END
+502-bcm47xx-rewrite-gpio-handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/502-bcm47xx-rewrite-gpio-handling.patch
+END
+999-wl_exports.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/999-wl_exports.patch
+END
+119-fix-boot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/119-fix-boot.patch
+END
+025-mtd-bcm47xx-add-bcm47xx-part-parser.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/025-mtd-bcm47xx-add-bcm47xx-part-parser.patch
+END
+700-ssb-gigabit-ethernet-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/700-ssb-gigabit-ethernet-driver.patch
+END
+180-USB-OHCI-Add-a-generic-platform-device-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/180-USB-OHCI-Add-a-generic-platform-device-driver.patch
+END
+044-bcma-add-PCIe-host-controller.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/044-bcma-add-PCIe-host-controller.patch
+END
+400-arch-bcm47xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/400-arch-bcm47xx.patch
+END
+310-no_highpage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/310-no_highpage.patch
+END
+900-bcm47xx_wdt-noprescale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/900-bcm47xx_wdt-noprescale.patch
+END
+114-MIPS-BCM47xx-Setup-and-register-serial-early.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/114-MIPS-BCM47xx-Setup-and-register-serial-early.patch
+END
+002-MIPS-BCM47XX-fix-signature-of-nvram_parse_macaddr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/002-MIPS-BCM47XX-fix-signature-of-nvram_parse_macaddr.patch
+END
+191-MIPS-BCM47XX-ignore-last-memory-page.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/191-MIPS-BCM47XX-ignore-last-memory-page.patch
+END
+007-bcma-add-boardinfo-struct.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/007-bcma-add-boardinfo-struct.patch
+END
+211-b44_timeout_spam.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/211-b44_timeout_spam.patch
+END
+170-fix-74k-cpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/170-fix-74k-cpu.patch
+END
+940-bcm47xx-yenta.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/940-bcm47xx-yenta.patch
+END
+194-MIPS-BCM47XX-read-sprom-without-prefix-if-no-ieee802.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/194-MIPS-BCM47XX-read-sprom-without-prefix-if-no-ieee802.patch
+END
+150-cpu_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/150-cpu_fixes.patch
+END
+030-bcm47xx-bcma-nandflash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/030-bcm47xx-bcma-nandflash.patch
+END
+500-ssb-add-function-to-return-number-of-gpio-lines.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/500-ssb-add-function-to-return-number-of-gpio-lines.patch
+END
+010-MIPS-BCM47xx-Fix-BCMA_DRIVER_PCI_HOSTMODE.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/010-MIPS-BCM47xx-Fix-BCMA_DRIVER_PCI_HOSTMODE.patch
+END
+976-ssb_increase_pci_delay.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/976-ssb_increase_pci_delay.patch
+END
+116-MIPS-BCM47xx-Remove-CFE-console.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/116-MIPS-BCM47xx-Remove-CFE-console.patch
+END
+820-wgt634u-nvram-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/820-wgt634u-nvram-fix.patch
+END
+980-wnr834b_no_cardbus_invariant.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/980-wnr834b_no_cardbus_invariant.patch
+END
+184-USB-Add-driver-for-the-ssb-bus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/184-USB-Add-driver-for-the-ssb-bus.patch
+END
+022-ssb-move-flash-to-chipcommon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/022-ssb-move-flash-to-chipcommon.patch
+END
+023-ssb-add-serial-flash-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/023-ssb-add-serial-flash-support.patch
+END
+020-bcma-move-parallel-flash-into-a-union.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/020-bcma-move-parallel-flash-into-a-union.patch
+END
+610-pci_ide_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/610-pci_ide_fix.patch
+END
+001-MIPS-BCM47XX-return-number-of-written-bytes-in-nvram.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/001-MIPS-BCM47XX-return-number-of-written-bytes-in-nvram.patch
+END
+187-USB-EHCI-platform-remove-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/187-USB-EHCI-platform-remove-update.patch
+END
+280-activate_ssb_support_in_usb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/280-activate_ssb_support_in_usb.patch
+END
+183-USB-Add-driver-for-the-bcma-bus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/183-USB-Add-driver-for-the-bcma-bus.patch
+END
+027-mtd-bcm47xx-add-serial-flash-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/027-mtd-bcm47xx-add-serial-flash-driver.patch
+END
+029-bcm47xx-read-nvram-from-sflash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/029-bcm47xx-read-nvram-from-sflash.patch
+END
+008-MIPS-bcm47xx-read-baordrev-without-prefix-from-sprom.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/008-MIPS-bcm47xx-read-baordrev-without-prefix-from-sprom.patch
+END
+004-MIPS-BCM47XX-provide-sprom-to-bcma-bus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/004-MIPS-BCM47XX-provide-sprom-to-bcma-bus.patch
+END
+195-MIPS-BCM47xx-sprom-read-values-without-prefix-as-fal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/195-MIPS-BCM47xx-sprom-read-values-without-prefix-as-fal.patch
+END
+210-b44_phy_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/210-b44_phy_fix.patch
+END
+005-ssb-remove-rev-from-boardinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/005-ssb-remove-rev-from-boardinfo.patch
+END
+009-bcma_reorder_sprom_fill.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/009-bcma_reorder_sprom_fill.patch
+END
+501-bcma-add-gpio-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/brcm47xx/patches-3.3/501-bcma-add-gpio-driver.patch
+END

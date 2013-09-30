@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/drivers/serial
+END
+ifx_asc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/drivers/serial/ifx_asc.h
+END
+ifx_asc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/drivers/serial/ifx_asc.c
+END

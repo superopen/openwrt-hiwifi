@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq
+END
+dev-gpio-leds.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/dev-gpio-leds.c
+END
+dev-gpio-buttons.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/lantiq/dev-gpio-buttons.c
+END

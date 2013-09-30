@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches
+END
+100-bash-location.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/100-bash-location.patch
+END
+110-linux_3.2_compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/110-linux_3.2_compat.patch
+END
+002-layer7_2.22.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/002-layer7_2.22.patch
+END
+200-configurable_builtin.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/200-configurable_builtin.patch
+END
+020-iptables-disable-modprobe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/020-iptables-disable-modprobe.patch
+END
+009-table-alignment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/009-table-alignment.patch
+END
+030-no-libnfnetlink.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/030-no-libnfnetlink.patch
+END
+011-recent-add-reap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/011-recent-add-reap.patch
+END
+010-multiport-linux-2.4-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/patches/010-multiport-linux-2.4-compat.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rb532/patches-3.3
+END
+002-rb532_nand_fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rb532/patches-3.3/002-rb532_nand_fixup.patch
+END
+001-cmdline_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/rb532/patches-3.3/001-cmdline_hack.patch
+END

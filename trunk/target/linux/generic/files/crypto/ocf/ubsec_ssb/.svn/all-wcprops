@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ubsec_ssb
+END
+ubsecvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ubsec_ssb/ubsecvar.h
+END
+bsdqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ubsec_ssb/bsdqueue.h
+END
+ubsecreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ubsec_ssb/ubsecreg.h
+END
+ubsec_ssb.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ubsec_ssb/ubsec_ssb.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/ubsec_ssb/Makefile
+END

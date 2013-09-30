@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/lib/preinit
+END
+03_preinit_do_ramips.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/lib/preinit/03_preinit_do_ramips.sh
+END
+06_set_iface_mac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/lib/preinit/06_set_iface_mac
+END
+05_ramips_load-input_drivers
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ramips/base-files/lib/preinit/05_ramips_load-input_drivers
+END

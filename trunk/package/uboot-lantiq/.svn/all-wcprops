@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq
+END
+arcadyan_psc166_64.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/arcadyan_psc166_64.conf
+END
+easy50812.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/easy50812.conf
+END
+easy50712_DDR166M.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/easy50712_DDR166M.conf
+END
+arcadyan_psc166_32.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/arcadyan_psc166_32.conf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/Makefile
+END
+gct
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/gct
+END

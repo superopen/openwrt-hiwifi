@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/geos/base-files/etc/hotplug.d/button
+END
+50-reboot
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/geos/base-files/etc/hotplug.d/button/50-reboot
+END

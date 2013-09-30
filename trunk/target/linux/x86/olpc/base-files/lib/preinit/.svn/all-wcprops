@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/olpc/base-files/lib/preinit
+END
+45_failsafe_x86
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/olpc/base-files/lib/preinit/45_failsafe_x86
+END
+15_essential_fs_x86
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/x86/olpc/base-files/lib/preinit/15_essential_fs_x86
+END

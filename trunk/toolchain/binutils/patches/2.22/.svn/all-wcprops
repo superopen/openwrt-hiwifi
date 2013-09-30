@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/binutils/patches/2.22
+END
+300-012_check_ldrunpath_length.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/binutils/patches/2.22/300-012_check_ldrunpath_length.patch
+END
+999-ppc-textrels.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/binutils/patches/2.22/999-ppc-textrels.patch
+END
+112-arm-uclibc-gas-needs-libm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/binutils/patches/2.22/112-arm-uclibc-gas-needs-libm.patch
+END
+400-fix_arm_gc_sections.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/binutils/patches/2.22/400-fix_arm_gc_sections.patch
+END
+300-001_ld_makefile_patch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/binutils/patches/2.22/300-001_ld_makefile_patch.patch
+END
+120-sh-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/binutils/patches/2.22/120-sh-conf.patch
+END

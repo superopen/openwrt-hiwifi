@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7
+END
+bittorrent.pat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/bittorrent.pat
+END
+edonkey.pat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/edonkey.pat
+END
+ssl.pat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/ssl.pat
+END
+ntp.pat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/ntp.pat
+END
+ident.pat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/ident.pat
+END
+msnmessenger.pat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/msnmessenger.pat
+END
+aim.pat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/aim.pat
+END
+gnutella.pat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/gnutella.pat
+END
+irc.pat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/irc.pat
+END
+http.pat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/http.pat
+END
+pop3.pat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/pop3.pat
+END
+fasttrack.pat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/fasttrack.pat
+END
+smtp.pat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/smtp.pat
+END
+jabber.pat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/jabber.pat
+END
+vnc.pat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/vnc.pat
+END
+ftp.pat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/iptables/files/l7/ftp.pat
+END

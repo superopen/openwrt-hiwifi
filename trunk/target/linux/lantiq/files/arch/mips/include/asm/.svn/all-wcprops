@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/include/asm
+END
+clkdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/lantiq/files/arch/mips/include/asm/clkdev.h
+END

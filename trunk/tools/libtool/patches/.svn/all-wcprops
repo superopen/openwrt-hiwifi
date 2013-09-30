@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches
+END
+110-dont-use-target-dir-for-relinking.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches/110-dont-use-target-dir-for-relinking.patch
+END
+120-strip-unsafe-dirs-for-relinking.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches/120-strip-unsafe-dirs-for-relinking.patch
+END
+001-fix-func_append.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches/001-fix-func_append.patch
+END
+150-trailingslash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches/150-trailingslash.patch
+END
+000-relocatable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches/000-relocatable.patch
+END
+100-libdir-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches/100-libdir-fixes.patch
+END
+200-openwrt-branding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/tools/libtool/patches/200-openwrt-branding.patch
+END

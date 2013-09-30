@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/package/libpcap/patches
+END
+201-space_optimization.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/libpcap/patches/201-space_optimization.patch
+END
+103-makefile_flex_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/libpcap/patches/103-makefile_flex_workaround.patch
+END
+102-makefile_disable_manpages.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/libpcap/patches/102-makefile_disable_manpages.patch
+END
+202-protocol_api.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/libpcap/patches/202-protocol_api.patch
+END
+100-debian_shared_lib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/libpcap/patches/100-debian_shared_lib.patch
+END
+203-undef_iw_mode_monitor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/libpcap/patches/203-undef_iw_mode_monitor.patch
+END

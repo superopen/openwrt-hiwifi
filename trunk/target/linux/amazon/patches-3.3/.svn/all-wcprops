@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3
+END
+130-mtd_drivers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/130-mtd_drivers.patch
+END
+000-mips-bad-intctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/000-mips-bad-intctl.patch
+END
+100-board.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/100-board.patch
+END
+140-net_drivers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/140-net_drivers.patch
+END
+017-wdt-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/017-wdt-driver.patch
+END
+150-serial_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/150-serial_driver.patch
+END
+160-cfi-swap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/160-cfi-swap.patch
+END
+010-mips_clocksource_init_war.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/amazon/patches-3.3/010-mips_clocksource_init_war.patch
+END

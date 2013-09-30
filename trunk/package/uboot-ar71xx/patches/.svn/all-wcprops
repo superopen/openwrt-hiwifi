@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches
+END
+002-ar71xx-spi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches/002-ar71xx-spi.patch
+END
+010-enet-ag71xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches/010-enet-ag71xx.patch
+END
+021-darwin_compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches/021-darwin_compat.patch
+END
+001-ar71xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches/001-ar71xx.patch
+END
+020-freebsd-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches/020-freebsd-compat.patch
+END
+011-switch-rtl8366sr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches/011-switch-rtl8366sr.patch
+END
+022-getline_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/patches/022-getline_backport.patch
+END

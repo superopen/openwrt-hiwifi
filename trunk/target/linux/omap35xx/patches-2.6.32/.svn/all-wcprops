@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.32
+END
+004-compile_fix_dispc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.32/004-compile_fix_dispc.patch
+END
+003-enable_dss2_beagleboard.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.32/003-enable_dss2_beagleboard.patch
+END
+001-DSS2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.32/001-DSS2.patch
+END
+002-OMAP.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/patches-2.6.32/002-OMAP.patch
+END

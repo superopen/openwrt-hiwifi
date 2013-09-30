@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches
+END
+100-fix_nvram_two_devices.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/100-fix_nvram_two_devices.patch
+END
+007-use-glue-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/007-use-glue-driver.patch
+END
+008-fix_virtual_interfaces.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/008-fix_virtual_interfaces.patch
+END
+910-fallback-sprom.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/910-fallback-sprom.patch
+END
+006-generic-dma-api.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/006-generic-dma-api.patch
+END
+009-fix_compile_3_2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/009-fix_compile_3_2.patch
+END
+004-remove-pcmcia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/004-remove-pcmcia.patch
+END
+005-fix-mem-leak-on-unload.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/005-fix-mem-leak-on-unload.patch
+END
+003-compat-2.6.35.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/003-compat-2.6.35.patch
+END
+010-remove_irqf_samble_random.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/010-remove_irqf_samble_random.patch
+END
+110-add_number_to_dev_name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/110-add_number_to_dev_name.patch
+END
+912-pci-bus-nvram-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/broadcom-wl/patches/912-pci-bus-nvram-hack.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/hiwifi/!svn/ver/3/trunk/tools/ppl/patches
+END
+002-replace-pkglib_DATA.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/tools/ppl/patches/002-replace-pkglib_DATA.patch
+END
+001-gmp_5_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/tools/ppl/patches/001-gmp_5_fix.patch
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x
+END
+Makefile.boot
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/Makefile.boot
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/Kconfig
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/timer.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/common.c
+END
+board-mcs8140-dt.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/board-mcs8140-dt.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/clock.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/irq.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/mcs814x/files-3.3/arch/arm/mach-mcs814x/common.h
+END

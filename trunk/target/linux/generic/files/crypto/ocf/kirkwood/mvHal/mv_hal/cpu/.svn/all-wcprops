@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/cpu
+END
+mvCpuL2Cntrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/cpu/mvCpuL2Cntrs.c
+END
+mvCpuCntrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/cpu/mvCpuCntrs.c
+END
+mvCpuL2Cntrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/cpu/mvCpuL2Cntrs.h
+END
+mvCpuCntrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/generic/files/crypto/ocf/kirkwood/mvHal/mv_hal/cpu/mvCpuCntrs.h
+END

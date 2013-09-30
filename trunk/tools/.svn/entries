@@ -1,0 +1,206 @@
+10
+
+dir
+4
+https://code.hiwifi.com/svn/hiwifi/trunk/tools
+https://code.hiwifi.com/svn/hiwifi
+
+
+
+2013-08-31T16:52:02.175858Z
+3
+sudo_router
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92febfcd-a4b0-4a44-9a7f-5341b7505815
+
+mpc
+dir
+
+m4
+dir
+
+cmake
+dir
+
+squashfs4
+dir
+
+mtd-utils
+dir
+
+pkg-config
+dir
+
+scons
+dir
+
+yaffs2
+dir
+
+mm-macros
+dir
+
+missing-macros
+dir
+
+ppl
+dir
+
+squashfs
+dir
+
+flex
+dir
+
+quilt
+dir
+
+xorg-macros
+dir
+
+lzma
+dir
+
+mpfr
+dir
+
+genext2fs
+dir
+
+ccache
+dir
+
+xfce-macros
+dir
+
+patch-cmdline
+dir
+
+bison
+dir
+
+e2fsprogs
+dir
+
+sed
+dir
+
+sdcc
+dir
+
+upx
+dir
+
+mtools
+dir
+
+Makefile
+file
+
+
+
+
+2013-09-30T05:01:19.000000Z
+15f29d84351fb4449355bdee83fc0338
+2013-08-31T16:52:02.175858Z
+3
+sudo_router
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5082
+
+autoconf
+dir
+
+wrt350nv2-builder
+dir
+
+lzma-old
+dir
+
+mklibs
+dir
+
+gmp
+dir
+
+include
+dir
+
+sstrip
+dir
+
+b43-tools
+dir
+
+ipkg-utils
+dir
+
+libelf
+dir
+
+flock
+dir
+
+padjffs2
+dir
+
+dosfstools
+dir
+
+upslug2
+dir
+
+xz
+dir
+
+cloog
+dir
+
+libtool
+dir
+
+automake
+dir
+
+qemu
+dir
+
+mkimage
+dir
+
+firmware-utils
+dir
+

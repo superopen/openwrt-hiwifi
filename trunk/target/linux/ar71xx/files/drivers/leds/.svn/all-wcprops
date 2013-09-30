@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/leds
+END
+leds-wndr3700-usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/leds/leds-wndr3700-usb.c
+END
+leds-rb750.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar71xx/files/drivers/leds/leds-rb750.c
+END

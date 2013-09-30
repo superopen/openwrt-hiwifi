@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/include/asm/mach-adm5120/prom
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/include/asm/mach-adm5120/prom/generic.h
+END
+myloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/include/asm/mach-adm5120/prom/myloader.h
+END
+cfe.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/include/asm/mach-adm5120/prom/cfe.h
+END
+zynos.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/include/asm/mach-adm5120/prom/zynos.h
+END
+routerboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/include/asm/mach-adm5120/prom/routerboot.h
+END
+admboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/include/asm/mach-adm5120/prom/admboot.h
+END

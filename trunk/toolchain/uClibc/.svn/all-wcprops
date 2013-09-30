@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc
+END
+Config.version
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/Config.version
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/Makefile
+END
+common.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/toolchain/uClibc/common.mk
+END

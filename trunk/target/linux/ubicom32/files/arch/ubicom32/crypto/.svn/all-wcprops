@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto
+END
+des_ubicom32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/des_ubicom32.c
+END
+sha1_ubicom32.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/sha1_ubicom32.c
+END
+sha1_ubicom32_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/sha1_ubicom32_asm.S
+END
+crypto_des.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/crypto_des.h
+END
+des_check_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/des_check_key.c
+END
+crypto_ubicom32.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/crypto_ubicom32.c
+END
+crypto_ubicom32.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/crypto_ubicom32.h
+END
+md5_ubicom32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/md5_ubicom32.c
+END
+md5_ubicom32_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/md5_ubicom32_asm.S
+END
+aes_ubicom32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/aes_ubicom32.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ubicom32/files/arch/ubicom32/crypto/Makefile
+END

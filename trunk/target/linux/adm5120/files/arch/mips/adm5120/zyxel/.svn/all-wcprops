@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/zyxel
+END
+p-33x.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/zyxel/p-33x.h
+END
+p-334wt.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/zyxel/p-334wt.c
+END
+p-335.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/zyxel/p-335.c
+END
+p-33x.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/zyxel/p-33x.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/files/arch/mips/adm5120/zyxel/Makefile
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3
+END
+200-free-mem-below-kernel-offset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/200-free-mem-below-kernel-offset.patch
+END
+920-ar7part.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/920-ar7part.patch
+END
+120-gpio_chrdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/120-gpio_chrdev.patch
+END
+110-flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/110-flash.patch
+END
+500-serial_kludge.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/500-serial_kludge.patch
+END
+160-vlynq_try_remote_first.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/160-vlynq_try_remote_first.patch
+END
+925-actiontec_leds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/925-actiontec_leds.patch
+END
+950-cpmac_titan.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/950-cpmac_titan.patch
+END
+972-cpmac_fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/ar7/patches-3.3/972-cpmac_fixup.patch
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/gumstix/base-files/lib/preinit
+END
+95_ttyS1_noecho
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/omap35xx/gumstix/base-files/lib/preinit/95_ttyS1_noecho
+END

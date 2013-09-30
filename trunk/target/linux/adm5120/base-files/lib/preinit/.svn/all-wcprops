@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/base-files/lib/preinit
+END
+05_preinit_do_adm5120.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/base-files/lib/preinit/05_preinit_do_adm5120.sh
+END
+05_set_preinit_iface_adm5120
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/base-files/lib/preinit/05_set_preinit_iface_adm5120
+END
+05_reset_button_adm5120
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/base-files/lib/preinit/05_reset_button_adm5120
+END

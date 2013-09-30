@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/package/mmc_over_gpio/files
+END
+mmc_over_gpio.init
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/mmc_over_gpio/files/mmc_over_gpio.init
+END
+mmc_over_gpio.config
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/mmc_over_gpio/files/mmc_over_gpio.config
+END

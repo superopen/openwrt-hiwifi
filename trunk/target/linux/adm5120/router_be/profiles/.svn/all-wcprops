@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/router_be/profiles
+END
+010-Generic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/router_be/profiles/010-Generic.mk
+END
+200-ZyXEL.mk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/target/linux/adm5120/router_be/profiles/200-ZyXEL.mk
+END
