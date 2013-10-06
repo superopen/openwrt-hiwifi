@@ -141,6 +141,10 @@ ifeq ($(CONFIG_TARGET),subtarget)
   LINUX_RECONFIG_LIST = $(wildcard $(GENERIC_LINUX_CONFIG) $(LINUX_TARGET_CONFIG) $(LINUX_SUBTARGET_CONFIG))
   LINUX_RECONFIG_TARGET = $(LINUX_SUBTARGET_CONFIG)
 endif
+ifeq ($(CONFIG_TARGET),subtarget_platform)
+  LINUX_RECONFIG_LIST = $(wildcard $(GENERIC_LINUX_CONFIG) $(LINUX_SUBTARGET_CONFIG) $(LINUX_TARGET_CONFIG))
+  LINUX_RECONFIG_TARGET = $(LINUX_TARGET_CONFIG)
+endif
 ifeq ($(CONFIG_TARGET),env)
   LINUX_RECONFIG_LIST = $(LINUX_KCONFIG_LIST)
   LINUX_RECONFIG_TARGET = $(TOPDIR)/env/kernel-config
@@ -163,7 +167,7 @@ ifeq ($(DUMP),1)
     .SILENT: $(TMP_CONFIG)
     .PRECIOUS: $(TMP_CONFIG)
 
-    ifneq ($(CONFIG_GENERIC_GPIO),)
+    ifneq ($(CONFIG_GENERIC_GPIO)$(CONFIG_GPIOLIB),)
       FEATURES += gpio
     endif
     ifneq ($(CONFIG_PCI),)
@@ -186,6 +190,7 @@ ifeq ($(DUMP),1)
     ifneq ($(CONFIG_RTC_CLASS),)
       FEATURES += rtc
     endif
+    FEATURES += $(foreach v,v4 v5 v6 v7,$(if $(findstring -march=arm$(v),$(CFLAGS)),arm_$(v)))
 
     # remove duplicates
     FEATURES:=$(sort $(FEATURES))

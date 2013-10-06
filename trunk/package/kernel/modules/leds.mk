@@ -28,7 +28,7 @@ define KernelPackage/ledtrig-heartbeat
   SUBMENU:=$(LEDS_MENU)
   TITLE:=LED Heartbeat Trigger
   KCONFIG:=CONFIG_LEDS_TRIGGER_HEARTBEAT
-  FILES:=$(LINUX_DIR)/drivers/leds/ledtrig-heartbeat.ko
+  FILES:=$(LINUX_DIR)/drivers/leds/$(if $(call kernel_patchver_ge,3,10),trigger/)ledtrig-heartbeat.ko
   AUTOLOAD:=$(call AutoLoad,50,ledtrig-heartbeat)
 endef
 
@@ -43,7 +43,7 @@ define KernelPackage/ledtrig-gpio
   SUBMENU:=$(LEDS_MENU)
   TITLE:=LED GPIO Trigger
   KCONFIG:=CONFIG_LEDS_TRIGGER_GPIO
-  FILES:=$(LINUX_DIR)/drivers/leds/ledtrig-gpio.ko
+  FILES:=$(LINUX_DIR)/drivers/leds/$(if $(call kernel_patchver_ge,3,10),trigger/)ledtrig-gpio.ko
   AUTOLOAD:=$(call AutoLoad,50,ledtrig-gpio)
 endef
 
@@ -58,7 +58,7 @@ define KernelPackage/ledtrig-morse
   SUBMENU:=$(LEDS_MENU)
   TITLE:=LED Morse Trigger
   KCONFIG:=CONFIG_LEDS_TRIGGER_MORSE
-  FILES:=$(LINUX_DIR)/drivers/leds/ledtrig-morse.ko
+  FILES:=$(LINUX_DIR)/drivers/leds/$(if $(call kernel_patchver_ge,3,10),trigger/)ledtrig-morse.ko
   AUTOLOAD:=$(call AutoLoad,50,ledtrig-morse)
 endef
 
@@ -110,7 +110,7 @@ define KernelPackage/ledtrig-usbdev
   TITLE:=LED USB device Trigger
   DEPENDS:=@USB_SUPPORT +kmod-usb-core
   KCONFIG:=CONFIG_LEDS_TRIGGER_USBDEV
-  FILES:=$(LINUX_DIR)/drivers/leds/ledtrig-usbdev.ko
+  FILES:=$(LINUX_DIR)/drivers/leds/$(if $(call kernel_patchver_ge,3,10),trigger/)ledtrig-usbdev.ko
   AUTOLOAD:=$(call AutoLoad,50,ledtrig-usbdev)
 endef
 
@@ -125,7 +125,7 @@ define KernelPackage/ledtrig-default-on
   SUBMENU:=$(LEDS_MENU)
   TITLE:=LED Default ON Trigger
   KCONFIG:=CONFIG_LEDS_TRIGGER_DEFAULT_ON
-  FILES:=$(LINUX_DIR)/drivers/leds/ledtrig-default-on.ko
+  FILES:=$(LINUX_DIR)/drivers/leds/$(if $(call kernel_patchver_ge,3,10),trigger/)ledtrig-default-on.ko
   AUTOLOAD:=$(call AutoLoad,50,ledtrig-default-on)
 endef
 
@@ -140,7 +140,7 @@ define KernelPackage/ledtrig-timer
   SUBMENU:=$(LEDS_MENU)
   TITLE:=LED Timer Trigger
   KCONFIG:=CONFIG_LEDS_TRIGGER_TIMER
-  FILES:=$(LINUX_DIR)/drivers/leds/ledtrig-timer.ko
+  FILES:=$(LINUX_DIR)/drivers/leds/$(if $(call kernel_patchver_ge,3,10),trigger/)ledtrig-timer.ko
   AUTOLOAD:=$(call AutoLoad,50,ledtrig-timer)
 endef
 

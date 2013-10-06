@@ -10,23 +10,24 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=swconfig
 PKG_RELEASE:=10
 
+PKG_MAINTAINER:=Felix Fietkau <nbd@openwrt.org>
+
 include $(INCLUDE_DIR)/package.mk
 include $(INCLUDE_DIR)/kernel.mk
 
 define Package/swconfig
   SECTION:=base
   CATEGORY:=Base system
-  DEPENDS:=@!TARGET_brcm47xx +libuci +libnl-tiny
+  DEPENDS:=@(!TARGET_brcm47xx||LINUX_3_10) +libuci +libnl-tiny
   TITLE:=Switch configuration utility
 endef
 
 TARGET_CPPFLAGS := \
 	-D_GNU_SOURCE \
 	-I$(STAGING_DIR)/usr/include/libnl-tiny \
-	-I$(LINUX_DIR)/include \
-	-I$(LINUX_DIR)/arch/$(LINUX_KARCH)/include \
 	-I$(PKG_BUILD_DIR) \
-	$(TARGET_CPPFLAGS)
+	$(TARGET_CPPFLAGS) \
+	-I$(LINUX_DIR)/user_headers/include
 
 define Build/Prepare
 	mkdir -p $(PKG_BUILD_DIR)

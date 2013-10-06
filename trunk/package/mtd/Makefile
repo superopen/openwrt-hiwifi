@@ -9,10 +9,13 @@ include $(TOPDIR)/rules.mk
 include $(INCLUDE_DIR)/kernel.mk
 
 PKG_NAME:=mtd
-PKG_RELEASE:=18.1
+PKG_RELEASE:=20
 
 PKG_BUILD_DIR := $(KERNEL_BUILD_DIR)/$(PKG_NAME)
 STAMP_PREPARED := $(STAMP_PREPARED)_$(call confvar,CONFIG_MTD_REDBOOT_PARTS)
+
+PKG_LICENSE:=GPLv2 GPLv2+
+PKG_LICENSE_FILES:=
 
 include $(INCLUDE_DIR)/package.mk
 
@@ -23,7 +26,7 @@ define Package/mtd
 endef
 
 define Package/mtd/description
- This package contains an utility useful to upgrade from other firmware or
+ This package contains an utility useful to upgrade from other firmware or 
  older OpenWrt releases.
 endef
 
@@ -35,7 +38,7 @@ endef
 target=$(firstword $(subst -, ,$(BOARD)))
 
 MAKE_FLAGS += TARGET="$(target)"
-TARGET_CFLAGS := -I$(LINUX_DIR)/include $(TARGET_CFLAGS) -Dtarget_$(target)=1 -Wall
+TARGET_CFLAGS := $(TARGET_CFLAGS) -Dtarget_$(target)=1 -Wall
 
 ifdef CONFIG_MTD_REDBOOT_PARTS
   MAKE_FLAGS += FIS_SUPPORT=1

@@ -1,0 +1,48 @@
+--- a/arch/mips/ath79/Makefile
++++ b/arch/mips/ath79/Makefile
+@@ -12,6 +12,8 @@
+ 
+ obj-$(CONFIG_EARLY_PRINTK)		+= early_printk.o
+ obj-$(CONFIG_PCI)			+= pci.o
++
++obj-y						+= bdinfo.o
+ 
+ #
+ # Devices
+@@ -38,6 +40,7 @@
+ #
+ # Machines
+ #
++obj-$(CONFIG_ATH79_MACH_TW150V1)	+= mach-tw150v1.o
+ obj-$(CONFIG_ATH79_MACH_ALFA_AP96)	+= mach-alfa-ap96.o
+ obj-$(CONFIG_ATH79_MACH_ALFA_NX)	+= mach-alfa-nx.o
+ obj-$(CONFIG_ATH79_MACH_ALL0258N)	+= mach-all0258n.o
+--- a/arch/mips/ath79/machtypes.h
++++ b/arch/mips/ath79/machtypes.h
+@@ -144,6 +144,7 @@
+ 	ATH79_MACH_WZR_HP_G450H,	/* Buffalo WZR-HP-G450H */
+ 	ATH79_MACH_ZCN_1523H_2,		/* Zcomax ZCN-1523H-2-xx */
+ 	ATH79_MACH_ZCN_1523H_5,		/* Zcomax ZCN-1523H-5-xx */
++	ATH79_MACH_TW150V1,			/* Hiwifi Wireless board */
+ };
+ 
+ #endif /* _ATH79_MACHTYPE_H */
+--- a/arch/mips/ath79/Kconfig
++++ b/arch/mips/ath79/Kconfig
+@@ -806,6 +806,16 @@
+ 	select ATH79_DEV_USB
+ 	select ATH79_DEV_WMAC
+ 
++config ATH79_MACH_TW150V1
++	bool "Hiwifi Wireless HC6361 board"
++	select SOC_AR933X
++	select ATH79_DEV_ETH
++	select ATH79_DEV_GPIO_BUTTONS
++	select ATH79_DEV_LEDS_GPIO
++	select ATH79_DEV_M25P80
++	select ATH79_DEV_USB
++	select ATH79_DEV_WMAC
++
+ endmenu
+ 
+ config SOC_AR71XX
