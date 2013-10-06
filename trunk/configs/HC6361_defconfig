@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # OpenWrt version: Attitude Adjustment (r1)
-# Fri Aug 30 14:55:35 2013
+# Sun Oct  6 14:13:27 2013
 #
 CONFIG_HAVE_DOT_CONFIG=y
 # CONFIG_TARGET_ppc40x is not set
@@ -383,7 +383,7 @@ CONFIG_HAS_SUBTARGETS=y
 CONFIG_TARGET_BOARD="ar71xx"
 CONFIG_TARGET_ARCH_PACKAGES="ar71xx"
 CONFIG_DEFAULT_TARGET_OPTIMIZATION="-Os -pipe -mips32r2 -mtune=mips32r2 -fno-caller-saves"
-CONFIG_LINUX_3_3=y
+CONFIG_LINUX_3_10=y
 CONFIG_DEFAULT_base-files=y
 CONFIG_DEFAULT_busybox=y
 CONFIG_DEFAULT_dnsmasq=y
@@ -1377,7 +1377,6 @@ CONFIG_PACKAGE_uci=y
 #
 # Firewall
 #
-# CONFIG_PACKAGE_ip6tables is not set
 # CONFIG_PACKAGE_shorewall6-lite is not set
 
 #
@@ -1844,10 +1843,11 @@ CONFIG_PACKAGE_kmod-ifb=y
 # CONFIG_PACKAGE_kmod-bridge is not set
 # CONFIG_PACKAGE_kmod-capi is not set
 CONFIG_PACKAGE_kmod-gre=y
+# CONFIG_PACKAGE_kmod-gre6 is not set
 # CONFIG_PACKAGE_kmod-ip6-tunnel is not set
 # CONFIG_PACKAGE_kmod-ipip is not set
 # CONFIG_PACKAGE_kmod-ipsec is not set
-# CONFIG_PACKAGE_kmod-iptunnel4 is not set
+CONFIG_PACKAGE_kmod-iptunnel=y
 # CONFIG_PACKAGE_kmod-iptunnel6 is not set
 CONFIG_PACKAGE_kmod-ipv6=y
 # CONFIG_PACKAGE_kmod-isdn4linux is not set
@@ -1857,11 +1857,11 @@ CONFIG_PACKAGE_kmod-l2tp=y
 # CONFIG_PACKAGE_kmod-llc is not set
 # CONFIG_PACKAGE_kmod-misdn is not set
 # CONFIG_PACKAGE_kmod-mp-alg is not set
-CONFIG_PACKAGE_kmod-ppp=y
-CONFIG_PACKAGE_kmod-mppe=y
 # CONFIG_PACKAGE_kmod-netem is not set
 # CONFIG_PACKAGE_kmod-openswan is not set
 # CONFIG_PACKAGE_kmod-pktgen is not set
+CONFIG_PACKAGE_kmod-ppp=y
+CONFIG_PACKAGE_kmod-mppe=y
 # CONFIG_PACKAGE_kmod-ppp-synctty is not set
 # CONFIG_PACKAGE_kmod-pppoa is not set
 CONFIG_PACKAGE_kmod-pppoe=y
@@ -1874,10 +1874,12 @@ CONFIG_PACKAGE_kmod-sched-core=y
 # CONFIG_PACKAGE_kmod-sched-esfq is not set
 # CONFIG_PACKAGE_kmod-sctp is not set
 # CONFIG_PACKAGE_kmod-sit is not set
+CONFIG_PACKAGE_kmod-slhc=y
 # CONFIG_PACKAGE_kmod-slip is not set
 # CONFIG_PACKAGE_kmod-stp is not set
 # CONFIG_PACKAGE_kmod-trelay is not set
 CONFIG_PACKAGE_kmod-tun=y
+# CONFIG_PACKAGE_kmod-veth is not set
 # CONFIG_PACKAGE_kmod-wprobe is not set
 
 #
@@ -2192,7 +2194,6 @@ CONFIG_PACKAGE_libext2fs=y
 # CONFIG_PACKAGE_libfko is not set
 CONFIG_PACKAGE_libip4tc=y
 CONFIG_PACKAGE_libip6tc=y
-# CONFIG_PACKAGE_libipq is not set
 CONFIG_PACKAGE_libiptc=y
 CONFIG_PACKAGE_libxtables=y
 
@@ -2605,6 +2606,7 @@ CONFIG_PACKAGE_curl=y
 # CONFIG_PACKAGE_ebtables is not set
 # CONFIG_PACKAGE_fwknop is not set
 # CONFIG_PACKAGE_fwknopd is not set
+# CONFIG_PACKAGE_ip6tables is not set
 # CONFIG_PACKAGE_ipkungfu is not set
 CONFIG_PACKAGE_iptables=y
 # CONFIG_PACKAGE_iptables-mod-account is not set
@@ -2625,7 +2627,6 @@ CONFIG_PACKAGE_iptables-mod-ipopt=y
 # CONFIG_PACKAGE_iptables-mod-ipp2p is not set
 # CONFIG_PACKAGE_iptables-mod-iprange is not set
 # CONFIG_PACKAGE_iptables-mod-ipsec is not set
-# CONFIG_PACKAGE_iptables-mod-ipset is not set
 # CONFIG_PACKAGE_iptables-mod-ipv4options is not set
 # CONFIG_PACKAGE_iptables-mod-led is not set
 # CONFIG_PACKAGE_iptables-mod-length2 is not set
@@ -2753,6 +2754,36 @@ CONFIG_PACKAGE_miniupnpd=y
 # CONFIG_PACKAGE_umurmur-polarssl is not set
 # CONFIG_PACKAGE_weechat is not set
 # CONFIG_PACKAGE_znc is not set
+
+#
+# Linux ATM tools
+#
+# CONFIG_PACKAGE_atm-aread is not set
+# CONFIG_PACKAGE_atm-atmaddr is not set
+# CONFIG_PACKAGE_atm-atmdiag is not set
+# CONFIG_PACKAGE_atm-atmdump is not set
+# CONFIG_PACKAGE_atm-atmloop is not set
+# CONFIG_PACKAGE_atm-atmsigd is not set
+# CONFIG_PACKAGE_atm-atmswitch is not set
+# CONFIG_PACKAGE_atm-atmtcp is not set
+# CONFIG_PACKAGE_atm-awrite is not set
+# CONFIG_PACKAGE_atm-bus is not set
+# CONFIG_PACKAGE_atm-debug-tools is not set
+# CONFIG_PACKAGE_atm-diagnostics is not set
+# CONFIG_PACKAGE_atm-esi is not set
+# CONFIG_PACKAGE_atm-ilmid is not set
+# CONFIG_PACKAGE_atm-ilmidiag is not set
+# CONFIG_PACKAGE_atm-lecs is not set
+# CONFIG_PACKAGE_atm-les is not set
+# CONFIG_PACKAGE_atm-mpcd is not set
+# CONFIG_PACKAGE_atm-saaldump is not set
+# CONFIG_PACKAGE_atm-sonetdiag is not set
+# CONFIG_PACKAGE_atm-svc_recv is not set
+# CONFIG_PACKAGE_atm-svc_send is not set
+# CONFIG_PACKAGE_atm-tools is not set
+# CONFIG_PACKAGE_atm-ttcp_atm is not set
+# CONFIG_PACKAGE_atm-zeppelin is not set
+# CONFIG_PACKAGE_br2684ctl is not set
 
 #
 # NMAP Suite
@@ -3226,7 +3257,6 @@ CONFIG_PACKAGE_tcpdump=m
 # CONFIG_PACKAGE_udpxy is not set
 # CONFIG_PACKAGE_ulogd is not set
 # CONFIG_PACKAGE_uob-nomad is not set
-# CONFIG_PACKAGE_usbip is not set
 # CONFIG_PACKAGE_vblade is not set
 # CONFIG_PACKAGE_veth is not set
 # CONFIG_PACKAGE_vgp is not set

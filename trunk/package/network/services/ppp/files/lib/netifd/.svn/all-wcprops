@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/lib/netifd
+END
+ppp-up
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/lib/netifd/ppp-up
+END
+ppp-down
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/lib/netifd/ppp-down
+END

@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp
+END
+srvtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/srvtest.c
+END
+bn_mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_mul.c
+END
+t_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_misc.c
+END
+bn_sqr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_sqr.c
+END
+bn_word.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_word.c
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/stamp-h.in
+END
+t_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_read.c
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/mkinstalldirs
+END
+bn_prime.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_prime.h
+END
+t_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_client.c
+END
+t_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_read.h
+END
+bn.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn.h
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/configure.in
+END
+t_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_client.h
+END
+tphrase.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/tphrase.c
+END
+clitest.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/clitest.c
+END
+t_truerand.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_truerand.c
+END
+t_conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_conf.c
+END
+t_getconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_getconf.c
+END
+tinysrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/tinysrp.c
+END
+bn_exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_exp.c
+END
+t_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_math.c
+END
+bn_ctx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_ctx.c
+END
+tinysrp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/tinysrp.h
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/acconfig.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/config.h.in
+END
+t_pwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_pwd.h
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/acinclude.m4
+END
+bn_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_lib.c
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/Makefile.am
+END
+t_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_conv.c
+END
+t_getpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_getpass.c
+END
+t_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_server.c
+END
+bn_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_shift.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/install-sh
+END
+bn_lcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_lcl.h
+END
+t_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_server.h
+END
+t_sha.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_sha.c
+END
+bn_asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_asm.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/Makefile.in
+END
+bn_div.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_div.c
+END
+t_sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_sha.h
+END
+tpasswd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/tpasswd
+END
+t_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_defines.h
+END
+Notes
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/Notes
+END
+bn_add.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/bn_add.c
+END
+t_pw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/t_pw.c
+END
+tconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/ead/src/tinysrp/tconf.c
+END

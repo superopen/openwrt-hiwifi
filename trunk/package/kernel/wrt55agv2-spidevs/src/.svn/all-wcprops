@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/package/wrt55agv2-spidevs/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/wrt55agv2-spidevs/src/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/wrt55agv2-spidevs/src/Kconfig
+END
+wrt55agv2_spidevs.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/wrt55agv2-spidevs/src/wrt55agv2_spidevs.c
+END

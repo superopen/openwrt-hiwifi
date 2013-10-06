@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/drivers/net
+END
+ifx_etop.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/drivers/net/ifx_etop.c
+END
+ifx_etop.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/drivers/net/ifx_etop.h
+END

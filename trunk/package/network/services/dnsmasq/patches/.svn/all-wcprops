@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/package/dnsmasq/patches
+END
+110-fix-incorrect-length-memset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/package/dnsmasq/patches/110-fix-incorrect-length-memset.patch
+END
+100-fix-dhcp-no-address-warning.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/package/dnsmasq/patches/100-fix-dhcp-no-address-warning.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/include/asm-mips
+END
+ar9.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/include/asm-mips/ar9.h
+END
+danube.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-lantiq/files/include/asm-mips/danube.h
+END

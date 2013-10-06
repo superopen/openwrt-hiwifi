@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/package/netifd/files/sbin
+END
+ifdown
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/netifd/files/sbin/ifdown
+END
+devstatus
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/netifd/files/sbin/devstatus
+END
+ifstatus
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/netifd/files/sbin/ifstatus
+END
+ifup
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/package/netifd/files/sbin/ifup
+END

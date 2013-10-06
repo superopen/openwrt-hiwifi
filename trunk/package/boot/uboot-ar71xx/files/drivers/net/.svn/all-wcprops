@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/net
+END
+ag71xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/net/ag71xx.h
+END
+ag71xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/net/ag71xx.c
+END

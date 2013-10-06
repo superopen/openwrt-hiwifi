@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/package/crda/patches
+END
+101-make_crypto_use_optional.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/crda/patches/101-make_crypto_use_optional.patch
+END

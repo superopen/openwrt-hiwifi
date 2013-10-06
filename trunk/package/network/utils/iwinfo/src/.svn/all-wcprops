@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src
+END
+hardware.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/hardware.txt
+END
+iwinfo_madwifi.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_madwifi.c
+END
+iwinfo_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_utils.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/Makefile
+END
+iwinfo_lua.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_lua.c
+END
+iwinfo_wl.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_wl.c
+END
+iwinfo_nl80211.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_nl80211.c
+END
+iwinfo_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_lib.c
+END
+iwinfo_cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_cli.c
+END
+iwinfo_wext.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_wext.c
+END
+iwinfo_wext_scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/iwinfo_wext_scan.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/package/iwinfo/src/COPYING
+END

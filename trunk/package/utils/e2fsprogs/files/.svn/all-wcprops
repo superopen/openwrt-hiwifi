@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/package/e2fsprogs/files
+END
+e2fsck.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/e2fsprogs/files/e2fsck.conf
+END
+e2fsck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/e2fsprogs/files/e2fsck.sh
+END

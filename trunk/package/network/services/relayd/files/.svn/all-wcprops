@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hiwifi/!svn/ver/3/trunk/package/relayd/files
+END
+relay.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/relayd/files/relay.hotplug
+END
+relay.init
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/relayd/files/relay.init
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/net/phy
+END
+rtl8366_mii.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/net/phy/rtl8366_mii.c
+END
+rtl8366.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-ar71xx/files/drivers/net/phy/rtl8366.h
+END

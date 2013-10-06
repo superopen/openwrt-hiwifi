@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/package/6relayd/files
+END
+6relayd-update
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/6relayd/files/6relayd-update
+END
+6relayd.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/6relayd/files/6relayd.hotplug
+END
+6relayd.init
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/6relayd/files/6relayd.init
+END
+6relayd.config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/6relayd/files/6relayd.config
+END

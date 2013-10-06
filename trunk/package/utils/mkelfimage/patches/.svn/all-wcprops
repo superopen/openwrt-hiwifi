@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hiwifi/!svn/ver/3/trunk/package/mkelfimage/patches
+END
+no-stack-protector.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/mkelfimage/patches/no-stack-protector.patch
+END

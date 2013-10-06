@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/package/yamonenv/patches
+END
+001-yamonenv_mtd_partition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/yamonenv/patches/001-yamonenv_mtd_partition.patch
+END

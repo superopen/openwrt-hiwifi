@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches
+END
+008-no_netem.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/008-no_netem.patch
+END
+110-extra-ccopts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/110-extra-ccopts.patch
+END
+100-allow_pfifo_fast.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/100-allow_pfifo_fast.patch
+END
+900-drop_FAILED_POLICY.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/900-drop_FAILED_POLICY.patch
+END
+006-iproute2-tc_esfq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/006-iproute2-tc_esfq.patch
+END
+200-act_connmark.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/200-act_connmark.patch
+END
+210-add_codel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/210-add_codel.patch
+END
+001-iproute2-2.6.11_Config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/001-iproute2-2.6.11_Config.patch
+END
+002-iproute2-ipxfrm_no_sctp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/002-iproute2-ipxfrm_no_sctp.patch
+END
+004-darwin_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/004-darwin_fixes.patch
+END
+000-sync_pkt_sched_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/000-sync_pkt_sched_h.patch
+END
+120-libnetlink-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/120-libnetlink-pic.patch
+END
+007-no_arpd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/iproute2/patches/007-no_arpd.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/package/grub2/patches
+END
+100-grub_setup_root.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/grub2/patches/100-grub_setup_root.patch
+END
+200-fix-gets-removal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/grub2/patches/200-fix-gets-removal.patch
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/sbin
+END
+mount_root
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/sbin/mount_root
+END
+sysupgrade
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/sbin/sysupgrade
+END
+firstboot
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/sbin/firstboot
+END
+hotplug-call
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/sbin/hotplug-call
+END
+led.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/sbin/led.sh
+END
+wifi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/sbin/wifi
+END

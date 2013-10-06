@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches
+END
+604-wpa_s-support-htmode-param.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/604-wpa_s-support-htmode-param.patch
+END
+610-max_num_sta_probe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/610-max_num_sta_probe.patch
+END
+630-bool_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/630-bool_fix.patch
+END
+310-multicall_bridge_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/310-multicall_bridge_fix.patch
+END
+300-nl80211_multicall_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/300-nl80211_multicall_fixes.patch
+END
+520-fix_wps_pin_crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/520-fix_wps_pin_crash.patch
+END
+601-wpa_supplicant-add-new-config-params-to-be-used-with.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/601-wpa_supplicant-add-new-config-params-to-be-used-with.patch
+END
+470-wpa_ie_cap_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/470-wpa_ie_cap_workaround.patch
+END
+510-bring_down_interface.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/510-bring_down_interface.patch
+END
+460-disable_ctrl_iface_mib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/460-disable_ctrl_iface_mib.patch
+END
+453-ap_sta_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/453-ap_sta_support.patch
+END
+540-dynamic_20_40_mhz.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/540-dynamic_20_40_mhz.patch
+END
+570-genl_connect_debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/570-genl_connect_debug.patch
+END
+620-scan_wait.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/620-scan_wait.patch
+END
+451-nl80211_del_beacon_bss.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/451-nl80211_del_beacon_bss.patch
+END
+400-noscan.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/400-noscan.patch
+END
+550-limit_debug_messages.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/550-limit_debug_messages.patch
+END
+500-random_pool_add_kernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/500-random_pool_add_kernel.patch
+END
+480-terminate_on_setup_failure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/480-terminate_on_setup_failure.patch
+END
+530-wps_single_auth_enc_type.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/530-wps_single_auth_enc_type.patch
+END
+410-multicall.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/410-multicall.patch
+END
+320-madwifi_key_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/320-madwifi_key_fixes.patch
+END
+602-driver_nl80211-use-new-parameters-during-ibss-join.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/602-driver_nl80211-use-new-parameters-during-ibss-join.patch
+END
+452-ctrl_iface_reload.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/452-ctrl_iface_reload.patch
+END
+440-optional_rfkill.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/440-optional_rfkill.patch
+END
+450-reload_freq_change.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/450-reload_freq_change.patch
+END
+590-hostapd_cli_ifdef.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/590-hostapd_cli_ifdef.patch
+END
+430-rescan_immediately.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/430-rescan_immediately.patch
+END
+420-timestamp_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/420-timestamp_check.patch
+END
+560-indicate-features.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/patches/560-indicate-features.patch
+END

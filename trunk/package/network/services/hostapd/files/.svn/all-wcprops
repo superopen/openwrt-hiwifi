@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files
+END
+hostapd-full.config
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/hostapd-full.config
+END
+multicall.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/multicall.c
+END
+wpa_supplicant-mini.config
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/wpa_supplicant-mini.config
+END
+hostapd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/hostapd.sh
+END
+wpa_supplicant-full.config
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/wpa_supplicant-full.config
+END
+hostapd-mini.config
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/hostapd-mini.config
+END
+wpa_supplicant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/wpa_supplicant.sh
+END
+wps-hotplug.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/hostapd/files/wps-hotplug.sh
+END

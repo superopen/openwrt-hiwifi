@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/package/soloscli/patches
+END
+001-newline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hiwifi/!svn/ver/3/trunk/package/soloscli/patches/001-newline.patch
+END
+000-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/soloscli/patches/000-Makefile.patch
+END

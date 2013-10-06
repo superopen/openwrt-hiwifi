@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches
+END
+610-ntpd_delayed_resolve.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/610-ntpd_delayed_resolve.patch
+END
+440-httpd_chdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/440-httpd_chdir.patch
+END
+410-httpd_cgi_headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/410-httpd_cgi_headers.patch
+END
+005-resource_h_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/005-resource_h_include.patch
+END
+902-telnetd_intr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/902-telnetd_intr.patch
+END
+242-udhcpc_msgs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/242-udhcpc_msgs.patch
+END
+200-etc_crontabs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/200-etc_crontabs.patch
+END
+950-partial-checksum.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/950-partial-checksum.patch
+END
+002-passwd_use_md5_hash_by_default_like_it_used_to_be.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/002-passwd_use_md5_hash_by_default_like_it_used_to_be.patch
+END
+920-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/920-portability.patch
+END
+250-ash_export-n.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/250-ash_export-n.patch
+END
+350-httpd_redir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/350-httpd_redir.patch
+END
+700-hexdump_segfault_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/700-hexdump_segfault_fix.patch
+END
+480-mount_union.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/480-mount_union.patch
+END
+310-passwd_access.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/310-passwd_access.patch
+END
+007-upstream_mkfs_ext2_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/007-upstream_mkfs_ext2_fixes.patch
+END
+911-date-k-flag.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/911-date-k-flag.patch
+END
+510-awk_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/510-awk_include.patch
+END
+150-no_static_libgcc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/150-no_static_libgcc.patch
+END
+001-init_avoid_loop_opening_tty.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/001-init_avoid_loop_opening_tty.patch
+END
+490-mount_disable_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/490-mount_disable_check.patch
+END
+004-upstream-percent_decode_in_place.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/004-upstream-percent_decode_in_place.patch
+END
+241-udhcpc-oversized_packets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/241-udhcpc-oversized_packets.patch
+END
+300-netmsg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/300-netmsg.patch
+END
+110-wget_getopt_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/110-wget_getopt_fix.patch
+END
+802-brctl_linux24.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/802-brctl_linux24.patch
+END
+251-ash_fix-redir-substitution.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/251-ash_fix-redir-substitution.patch
+END
+611-upstream_ntpd_version_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/611-upstream_ntpd_version_fix.patch
+END
+910-insmod-q-flag.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/910-insmod-q-flag.patch
+END
+240-udhcpc_retries.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/240-udhcpc_retries.patch
+END
+141-gen_build_files_bash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/141-gen_build_files_bash.patch
+END
+003-brctl_show_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/003-brctl_show_fix.patch
+END
+006-upstream_CVE-2011-2716_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/006-upstream_CVE-2011-2716_fixes.patch
+END
+803-id_getgrouplist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/803-id_getgrouplist.patch
+END
+524-udhcpc_renew.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/524-udhcpc_renew.patch
+END
+470-insmod_search.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/470-insmod_search.patch
+END
+244-udhcpc_add_6rd_option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/244-udhcpc_add_6rd_option.patch
+END
+340-lock_util.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/340-lock_util.patch
+END
+243-udhcpc_changed_ifindex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/243-udhcpc_changed_ifindex.patch
+END
+140-trylink_bash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/busybox/patches/140-trylink_bash.patch
+END

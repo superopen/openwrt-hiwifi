@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/hiwifi/!svn/ver/3/trunk/package/spi-ks8995/src
+END
+spi_ks8995.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hiwifi/!svn/ver/3/trunk/package/spi-ks8995/src/spi_ks8995.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hiwifi/!svn/ver/3/trunk/package/spi-ks8995/src/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hiwifi/!svn/ver/3/trunk/package/spi-ks8995/src/Kconfig
+END

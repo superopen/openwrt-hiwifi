@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files
+END
+fstab.init
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/fstab.init
+END
+60_pivot_usb_root
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/60_pivot_usb_root
+END
+40-mount
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/40-mount
+END
+block.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/block.sh
+END
+fstab.config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/fstab.config
+END
+20-fsck
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/20-fsck
+END
+10-swap
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/10-swap
+END
+mount.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/mount.sh
+END
+50_determine_usb_root
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/50_determine_usb_root
+END
+extmount.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/extmount.sh
+END
+55_determine_extroot_sysupgrade
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/55_determine_extroot_sysupgrade
+END
+fsck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hiwifi/!svn/ver/3/trunk/package/block-mount/files/fsck.sh
+END

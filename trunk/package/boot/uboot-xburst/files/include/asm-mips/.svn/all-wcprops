@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/include/asm-mips
+END
+jz4740.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/uboot-xburst/files/include/asm-mips/jz4740.h
+END

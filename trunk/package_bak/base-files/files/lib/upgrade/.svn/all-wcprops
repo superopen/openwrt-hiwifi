@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/upgrade
+END
+common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/upgrade/common.sh
+END

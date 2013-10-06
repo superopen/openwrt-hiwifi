@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hiwifi/!svn/ver/3/trunk/package/lua/patches-host
+END
+010-lua-5.1.3-lnum-full-260308.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hiwifi/!svn/ver/3/trunk/package/lua/patches-host/010-lua-5.1.3-lnum-full-260308.patch
+END
+011-lnum-use-double.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/lua/patches-host/011-lnum-use-double.patch
+END
+100-no_readline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hiwifi/!svn/ver/3/trunk/package/lua/patches-host/100-no_readline.patch
+END
+015-lnum-ppc-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/lua/patches-host/015-lnum-ppc-compat.patch
+END
+030-archindependent-bytecode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/lua/patches-host/030-archindependent-bytecode.patch
+END

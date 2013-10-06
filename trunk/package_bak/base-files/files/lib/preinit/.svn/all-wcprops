@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit
+END
+10_essential_fs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/10_essential_fs
+END
+90_restore_config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/90_restore_config
+END
+40_run_failsafe_hook
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/40_run_failsafe_hook
+END
+99_10_failsafe_login
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/99_10_failsafe_login
+END
+99_10_mount_no_mtd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/99_10_mount_no_mtd
+END
+10_check_for_mtd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/10_check_for_mtd
+END
+40_mount_devpts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/40_mount_devpts
+END
+20_check_jffs2_ready
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/20_check_jffs2_ready
+END
+05_mount_skip
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/05_mount_skip
+END
+90_init_console
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/90_init_console
+END
+40_mount_jffs2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/40_mount_jffs2
+END
+30_device_fs_daemons
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/30_device_fs_daemons
+END
+50_indicate_regular_preinit
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/50_indicate_regular_preinit
+END
+30_failsafe_wait
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/30_failsafe_wait
+END
+02_default_set_state
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/02_default_set_state
+END
+90_mount_no_jffs2
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/90_mount_no_jffs2
+END
+70_initramfs_test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/70_initramfs_test
+END
+70_pivot_jffs2_root
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/70_pivot_jffs2_root
+END
+50_choose_console
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/50_choose_console
+END
+41_merge_overlay_hooks
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/41_merge_overlay_hooks
+END
+99_10_run_init
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/99_10_run_init
+END
+20_device_fs_mount
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/20_device_fs_mount
+END
+10_indicate_preinit
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/10_indicate_preinit
+END
+10_indicate_failsafe
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/10_indicate_failsafe
+END
+60_init_hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/60_init_hotplug
+END
+80_mount_root
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/80_mount_root
+END
+40_init_shm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hiwifi/!svn/ver/3/trunk/package/base-files/files/lib/preinit/40_init_shm
+END

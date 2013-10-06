@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/etc/ppp/radius
+END
+dictionary.microsoft
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/etc/ppp/radius/dictionary.microsoft
+END
+servers
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/etc/ppp/radius/servers
+END
+dictionary.asnet
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/etc/ppp/radius/dictionary.asnet
+END
+dictionary
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hiwifi/!svn/ver/3/trunk/package/ppp/files/etc/ppp/radius/dictionary
+END
