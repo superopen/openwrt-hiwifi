@@ -521,6 +521,7 @@ define KernelPackage/slhc
   DEPENDS:=+kmod-lib-crc-ccitt
   KCONFIG:=CONFIG_SLHC
   FILES:=$(LINUX_DIR)/drivers/net/slip/slhc.ko
+  AUTOLOAD:=$(call AutoLoad,29,slhc)
 endef
 
 $(eval $(call KernelPackage,slhc))
@@ -536,7 +537,7 @@ define KernelPackage/ppp
   FILES:= \
 	$(LINUX_DIR)/drivers/net/ppp/ppp_async.ko \
 	$(LINUX_DIR)/drivers/net/ppp/ppp_generic.ko
-  AUTOLOAD:=$(call AutoLoad,30,ppp_async)
+  AUTOLOAD:=$(call AutoLoad,30,ppp_generic ppp_async)
 endef
 
 define KernelPackage/ppp/description
