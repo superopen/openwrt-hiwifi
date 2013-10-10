@@ -1,0 +1,85 @@
+10
+
+dir
+38351
+svn://svn.openwrt.org/openwrt/branches/packages_12.09/net/freeswitch/files/etc.packages
+svn://svn.openwrt.org/openwrt
+
+
+
+2011-10-10T17:12:26.294731Z
+28407
+mazilo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+pocketsphinx
+dir
+
+tts_commandline
+dir
+
+syslog
+dir
+
+say-ru
+dir
+
+logfile
+dir
+
+rtmp
+dir
+
+say-de
+dir
+
+cdr_csv
+dir
+
+say-he
+dir
+
+say-en
+dir
+
+say-fr
+dir
+
+sms
+dir
+
+http_cache
+dir
+
+event_multicast
+dir
+
+xml-cdr
+dir
+
+voicemail
+dir
+
+blacklist
+dir
+
+cdr_pg_csv
+dir
+
+unimrcp
+dir
+

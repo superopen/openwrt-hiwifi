@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/9349/luci/branches/luci-0.11/contrib/package/freifunk-watchdog/src
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/9349/luci/branches/luci-0.11/contrib/package/freifunk-watchdog/src/watchdog.c
+END
+wireless.22.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/9349/luci/branches/luci-0.11/contrib/package/freifunk-watchdog/src/wireless.22.h
+END
+watchdog.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/9349/luci/branches/luci-0.11/contrib/package/freifunk-watchdog/src/watchdog.h
+END
+ucix.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/9349/luci/branches/luci-0.11/contrib/package/freifunk-watchdog/src/ucix.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/9349/luci/branches/luci-0.11/contrib/package/freifunk-watchdog/src/Makefile
+END
+ucix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/9349/luci/branches/luci-0.11/contrib/package/freifunk-watchdog/src/ucix.h
+END

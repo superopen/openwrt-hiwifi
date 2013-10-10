@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 168
+/luci/branches/luci-0.8/contrib/package/freifunk-watchdog:4529
+/luci/trunk/contrib/package/freifunk-watchdog:9351,9353-9354,9365-9385,9559-9569,9571-9573,9648-9649,9654
+END

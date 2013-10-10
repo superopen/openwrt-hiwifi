@@ -1,0 +1,82 @@
+10
+
+dir
+38351
+svn://svn.openwrt.org/openwrt/branches/packages_12.09/sound
+svn://svn.openwrt.org/openwrt
+
+
+
+2012-09-12T16:54:27.098590Z
+33380
+hcg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+mpc
+dir
+
+mpd
+dir
+
+ices
+dir
+
+listener
+dir
+
+mt-daapd
+dir
+
+madplay
+dir
+
+empcd
+dir
+
+pianobar
+dir
+
+mocp
+dir
+
+flite
+dir
+
+mpdas
+dir
+
+scmpc
+dir
+
+cmus
+dir
+
+shell-fm
+dir
+
+sox
+dir
+
+pulseaudio
+dir
+
+streamripper
+dir
+
+lame
+dir
+
