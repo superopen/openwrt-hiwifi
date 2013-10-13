@@ -110,10 +110,8 @@ static void __init tw150v1_setup(void)
 					ARRAY_SIZE(tw150v1_gpio_keys),
 					tw150v1_gpio_keys);
 
-#if 0
 	ath79_set_usb_power_gpio(TW150V1_GPIO_USBPOWER, GPIOF_OUT_INIT_HIGH,
-				"USB power");
-#endif	
+				"USB power");	
 	ath79_register_usb();
 
 	macstr_to_hex(mac, bdinfo_get_fac_mac());
