@@ -96,8 +96,8 @@ define KernelPackage/usb-ohci
 	CONFIG_USB_OHCI_HCD \
 	CONFIG_USB_OHCI_ATH79=y \
 	CONFIG_USB_OHCI_BCM63XX=y \
-	CONFIG_USB_OHCI_RT3883=y \
-	CONFIG_USB_OCTEON_OHCI=y
+	CONFIG_USB_OCTEON_OHCI=y \
+	CONFIG_USB_OHCI_HCD_PLATFORM=y
   FILES:=$(LINUX_DIR)/drivers/usb/host/ohci-hcd.ko
   AUTOLOAD:=$(call AutoLoad,50,ohci-hcd,1)
   $(call AddDepends/usb)
@@ -110,17 +110,47 @@ endef
 $(eval $(call KernelPackage,usb-ohci,1))
 
 
+define KernelPackage/usb2-fsl
+  TITLE:=Support for Freescale USB2 controllers
+  DEPENDS:=@TARGET_mpc85xx
+  KCONFIG:=\
+	CONFIG_USB_FSL_MPH_DR_OF \
+  	CONFIG_USB_EHCI_FSL=y
+  FILES:=$(LINUX_DIR)/drivers/usb/host/fsl-mph-dr-of.ko
+  AUTOLOAD:=$(call AutoLoad,39,fsl-mph-dr-of,1)
+  $(call AddDepends/usb)
+endef
+
+define KernelPackage/usb2-fsl/description
+ Kernel support for Freescale USB2 (EHCI) controllers
+endef
+
+$(eval $(call KernelPackage,usb2-fsl))
+
+
 define KernelPackage/usb2
   TITLE:=Support for USB2 controllers
-  DEPENDS:=+TARGET_brcm47xx:kmod-usb-brcm47xx
-  KCONFIG:=CONFIG_USB_EHCI_HCD \
-    CONFIG_USB_EHCI_ATH79=y \
-    CONFIG_USB_EHCI_BCM63XX=y \
-    CONFIG_USB_EHCI_RT3883=y \
-    CONFIG_USB_OCTEON_EHCI=y \
-    CONFIG_USB_EHCI_FSL=n
+  DEPENDS:=\
+	+TARGET_brcm47xx:kmod-usb-brcm47xx \
+	+TARGET_mpc85xx:kmod-usb2-fsl
+  KCONFIG:=\
+	CONFIG_USB_EHCI_HCD \
+	CONFIG_USB_EHCI_ATH79=y \
+	CONFIG_USB_EHCI_BCM63XX=y \
+	CONFIG_USB_IMX21_HCD=y \
+	CONFIG_USB_EHCI_MXC=y \
+	CONFIG_USB_OCTEON_EHCI=y \
+	CONFIG_USB_EHCI_HCD_ORION=y \
+	CONFIG_USB_EHCI_HCD_PLATFORM=y
+ifeq ($(strip $(call CompareKernelPatchVer,$(KERNEL_PATCHVER),ge,3.8.0)),1)
+  FILES:= \
+	$(LINUX_DIR)/drivers/usb/host/ehci-hcd.ko \
+	$(LINUX_DIR)/drivers/usb/host/ehci-platform.ko
+  AUTOLOAD:=$(call AutoLoad,40,ehci-hcd ehci-platform,1)
+else
   FILES:=$(LINUX_DIR)/drivers/usb/host/ehci-hcd.ko
   AUTOLOAD:=$(call AutoLoad,40,ehci-hcd,1)
+endif
   $(call AddDepends/usb)
 endef
 
@@ -129,6 +159,45 @@ define KernelPackage/usb2/description
 endef
 
 $(eval $(call KernelPackage,usb2))
+
+
+define KernelPackage/usb2-pci
+  TITLE:=Support for PCI USB2 controllers
+  DEPENDS:=@PCI_SUPPORT @(LINUX_3_8||LINUX_3_9||LINUX_3_10) +kmod-usb2
+  KCONFIG:=CONFIG_USB_EHCI_PCI
+  FILES:=$(LINUX_DIR)/drivers/usb/host/ehci-pci.ko
+  AUTOLOAD:=$(call AutoLoad,42,ehci-pci,1)
+  $(call AddDepends/usb)
+endef
+
+define KernelPackage/usb2-pci/description
+ Kernel support for PCI USB2 (EHCI) controllers
+endef
+
+$(eval $(call KernelPackage,usb2-pci))
+
+
+define KernelPackage/usb-dwc2
+  TITLE:=DWC2 USB controller driver
+  DEPENDS:=@LINUX_3_10
+  KCONFIG:= \
+	CONFIG_USB_DWC2 \
+	CONFIG_USB_DWC2_DEBUG=n \
+	CONFIG_USB_DWC2_VERBOSE=n \
+	CONFIG_USB_DWC2_TRACK_MISSED_SOFS=n
+  FILES:= \
+	$(LINUX_DIR)/drivers/staging/dwc2/dwc2.ko \
+	$(LINUX_DIR)/drivers/staging/dwc2/dwc2_platform.ko
+  AUTOLOAD:=$(call AutoLoad,54,dwc2 dwc2_platform,1)
+  $(call AddDepends/usb)
+endef
+
+define KernelPackage/usb-dwc2/description
+ This driver provides USB Device Controller support for the
+ Synopsys DesignWare USB OTG Core
+endef
+
+$(eval $(call KernelPackage,usb-dwc2))
 
 
 define KernelPackage/usb-acm
@@ -144,6 +213,22 @@ define KernelPackage/usb-acm/description
 endef
 
 $(eval $(call KernelPackage,usb-acm))
+
+
+define KernelPackage/usb-wdm
+  TITLE:=USB Wireless Device Management
+  KCONFIG:=CONFIG_USB_WDM
+  FILES:=$(LINUX_DIR)/drivers/usb/class/cdc-wdm.ko
+  AUTOLOAD:=$(call AutoLoad,60,cdc-wdm)
+$(call AddDepends/usb)
+$(call AddDepends/usb-net)
+endef
+
+define KernelPackage/usb-wdm/description
+ USB Wireless Device Management support
+endef
+
+$(eval $(call KernelPackage,usb-wdm))
 
 
 define KernelPackage/usb-audio
@@ -450,7 +535,9 @@ define KernelPackage/usb-serial-keyspan
 	CONFIG_USB_SERIAL_KEYSPAN_MPR \
 	CONFIG_USB_SERIAL_KEYSPAN_USA49W \
 	CONFIG_USB_SERIAL_KEYSPAN_USA49WLC
-  FILES:=$(LINUX_DIR)/drivers/usb/serial/keyspan.ko
+  FILES:= \
+	$(LINUX_DIR)/drivers/usb/serial/keyspan.ko \
+	$(wildcard $(LINUX_DIR)/drivers/usb/misc/ezusb.ko)
   AUTOLOAD:=$(call AutoLoad,65,keyspan)
   $(call AddDepends/usb-serial)
 endef
@@ -498,7 +585,7 @@ define KernelPackage/usb-serial-qualcomm
   KCONFIG:=CONFIG_USB_SERIAL_QUALCOMM
   FILES:=$(LINUX_DIR)/drivers/usb/serial/qcserial.ko
   AUTOLOAD:=$(call AutoLoad,65,qcserial)
-  $(call AddDepends/usb-serial)
+  $(call AddDepends/usb-serial,+kmod-usb-serial-wwan)
 endef
 
 define KernelPackage/usb-serial-qualcomm/description
@@ -757,6 +844,21 @@ endef
 $(eval $(call KernelPackage,usb-net-cdc-ether))
 
 
+define KernelPackage/usb-net-qmi-wwan
+  TITLE:=QMI WWAN driver
+  KCONFIG:=CONFIG_USB_NET_QMI_WWAN
+  FILES:= $(LINUX_DIR)/drivers/$(USBNET_DIR)/qmi_wwan.ko
+  AUTOLOAD:=$(call AutoLoad,62,qmi_wwan)
+  $(call AddDepends/usb-net,+kmod-usb-wdm)
+endef
+
+define KernelPackage/usb-net-qmi-wwan/description
+ QMI WWAN driver for Qualcomm MSM based 3G and LTE modems
+endef
+
+$(eval $(call KernelPackage,usb-net-qmi-wwan))
+
+
 define KernelPackage/usb-net-rndis
   TITLE:=Support for RNDIS connections
   KCONFIG:=CONFIG_USB_NET_RNDIS_HOST
@@ -770,6 +872,39 @@ define KernelPackage/usb-net-rndis/description
 endef
 
 $(eval $(call KernelPackage,usb-net-rndis))
+
+
+define KernelPackage/usb-net-cdc-mbim
+  SUBMENU:=$(USB_MENU)
+  TITLE:=Kernel module for MBIM Devices
+  KCONFIG:=CONFIG_USB_NET_CDC_MBIM
+  FILES:= \
+   $(LINUX_DIR)/drivers/$(USBNET_DIR)/cdc_mbim.ko
+  AUTOLOAD:=$(call AutoLoad,62,cdc_mbim)
+  $(call AddDepends/usb-net,+kmod-usb-wdm +kmod-usb-net-cdc-ncm)
+endef
+
+define KernelPackage/usb-net-cdc-mbim/description
+ Kernel module for Option USB High Speed Mobile Devices
+endef
+
+$(eval $(call KernelPackage,usb-net-cdc-mbim))
+
+
+define KernelPackage/usb-net-cdc-ncm
+  TITLE:=Support for CDC NCM connections
+  KCONFIG:=CONFIG_USB_NET_CDC_NCM
+  FILES:= $(LINUX_DIR)/drivers/$(USBNET_DIR)/cdc_ncm.ko
+  AUTOLOAD:=$(call AutoLoad,62,cdc_ncm)
+  $(call AddDepends/usb-net)
+endef
+
+define KernelPackage/usb-net-cdc-ncm/description
+ Kernel support for CDC NCM connections
+endef
+
+$(eval $(call KernelPackage,usb-net-cdc-ncm))
+
 
 define KernelPackage/usb-net-sierrawireless
   TITLE:=Support for Sierra Wireless devices
