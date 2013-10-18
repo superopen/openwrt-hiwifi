@@ -1,0 +1,47 @@
+#!/bin/sh
+# Copyright (C) 2012-2013 hiwifi.com
+# This is free software, licensed under the GNU General Public License v2.
+# See /LICENSE for more information.
+#
+
+STORAGE=/tmp/data
+SWAP="$STORAGE/.swap"
+device=`basename $DEVPATH`
+
+case "$device" in
+"sd"*)
+	case "$ACTION" in
+	add)
+		[ -e "/.forceformat" ] && {
+			echo y | mkfs.ext4 /dev/sda
+			rm -rf /.forceformat
+		}
+		mkdir -p /tmp/$device
+		mount -o noatime,nodiratime,data=writeback -t ext4 /dev/$device /tmp/$device
+
+		if [ $? -ne "0" ]; then
+			echo y | mkfs.ext4 /dev/$device
+			mount -o noatime,nodiratime,data=writeback -t ext4 /dev/$device /tmp/$device
+		fi
+
+		ln -ns /tmp/$device $STORAGE
+
+		[ ! -e $STORAGE/var/lib ] && mkdir -p $STORAGE/var/lib
+
+		# create swap
+		[ ! -e "$SWAP" ] && dd if=/dev/zero of="$SWAP" bs=1M count=64 > /dev/null 2>&1
+		swapon $SWAP > /dev/null 2>&1
+		if [ $? -ne "0" ]; then
+			mkswap $SWAP > /dev/null
+			swapon $SWAP
+		fi	
+		;;
+	remove)
+		swapoff $SWAP
+		rm $STORAGE
+		umount -l /tmp/$device
+		;;
+	esac
+	;;
+esac
+

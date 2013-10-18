@@ -1,580 +1,0 @@
-10
-
-dir
-38351
-svn://svn.openwrt.org/openwrt/branches/packages_12.09/utils
-svn://svn.openwrt.org/openwrt
-
-
-
-2013-01-31T12:48:55.456113Z
-35416
-jow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3c298f89-4303-0410-b956-a3cf2f4a3e73
-
-loop-aes
-dir
-
-lcd4linux-tew673gru
-dir
-
-mtd-utils
-dir
-
-pcsc-lite
-dir
-
-daemontools
-dir
-
-wx200d
-dir
-
-bc
-dir
-
-pciutils
-dir
-
-ipmitool
-dir
-
-time
-dir
-
-watchcat
-dir
-
-empty
-dir
-
-cdparanoia
-dir
-
-valgrind
-dir
-
-heyu
-dir
-
-usbutils
-dir
-
-flashrom
-dir
-
-dmidecode
-dir
-
-boxbackup
-dir
-
-remind
-dir
-
-lvm2
-dir
-
-gnupg
-dir
-
-pwgen
-dir
-
-calvaria
-dir
-
-cryptsetup
-dir
-
-dtach
-dir
-
-rng-tools
-dir
-
-ntfsprogs
-dir
-
-lcdproc
-dir
-
-avrusbboot
-dir
-
-rcs
-dir
-
-bluelog
-dir
-
-tmux
-dir
-
-tesseract
-dir
-
-logrotate
-dir
-
-zile
-dir
-
-lcd4linux
-dir
-
-open2300
-dir
-
-freecwmp
-dir
-
-taskwarrior
-dir
-
-petitboot
-dir
-
-restorefactory
-dir
-
-hplip
-dir
-
-cksfv
-dir
-
-powertop
-dir
-
-bluez-utils
-dir
-
-ink
-dir
-
-ntfs-3g
-dir
-
-bash-completion
-dir
-
-bemused
-dir
-
-zoneinfo
-dir
-
-picocom
-dir
-
-minicom
-dir
-
-dir300-flash
-dir
-
-usb-modeswitch
-dir
-
-dbus
-dir
-
-fortune-mod
-dir
-
-tcsh
-dir
-
-xdelta3
-dir
-
-setpwc
-dir
-
-dt
-dir
-
-coreutils
-dir
-
-i2c-tools
-dir
-
-alsa-utils
-dir
-
-dstat
-dir
-
-sierra-pcmcia
-dir
-
-gnokii
-dir
-
-tar
-dir
-
-cmdpad
-dir
-
-gnuplot
-dir
-
-gawk
-dir
-
-maemo-kexec
-dir
-
-mc
-dir
-
-calcurse
-dir
-
-gadgetfs-test
-dir
-
-lm-sensors
-dir
-
-mg
-dir
-
-hd-idle
-dir
-
-btrfs-progs
-dir
-
-crypto-tools
-dir
-
-screen
-dir
-
-byobu
-dir
-
-unrar
-dir
-
-ssldump
-dir
-
-reiserfsprogs
-dir
-
-psmisc
-dir
-
-cwiid
-dir
-
-devmem2
-dir
-
-bonnie++
-dir
-
-ccid
-dir
-
-usb-modeswitch-data
-dir
-
-unzip
-dir
-
-devio
-dir
-
-microcom
-dir
-
-mgetty
-dir
-
-sed
-dir
-
-upx
-dir
-
-joe
-dir
-
-fxload
-dir
-
-fancontroled
-dir
-
-haserl
-dir
-
-firmwarehotplug
-dir
-
-pipacs
-dir
-
-kmemtrace-user
-dir
-
-shadow
-dir
-
-macchanger
-dir
-
-lirc
-dir
-
-boblight
-dir
-
-avrdude
-dir
-
-sg3-utils
-dir
-
-setserial
-dir
-
-rrdcollect
-dir
-
-bsdiff
-dir
-
-dosfstools
-dir
-
-dialog
-dir
-
-clish
-dir
-
-mksh
-dir
-
-anyremote
-dir
-
-haveged
-dir
-
-memtester
-dir
-
-triggerhappy
-dir
-
-schedtools
-dir
-
-bluez-hcidump
-dir
-
-lmbench
-dir
-
-klish
-dir
-
-deco
-dir
-
-sysstat
-dir
-
-pcmciautils
-dir
-
-dash
-dir
-
-acpid
-dir
-
-smartmontools
-dir
-
-strace
-dir
-
-mdadm
-dir
-
-md5deep
-dir
-
-scponly
-dir
-
-usbmuxd
-dir
-
-testusb
-dir
-
-dfu-util
-dir
-
-collectd
-dir
-
-rsyncrypto
-dir
-
-disktype
-dir
-
-rdiff-backup
-dir
-
-input-utils
-dir
-
-sane-backends
-dir
-
-sispmctl
-dir
-
-msr-tools
-dir
-
-wview
-dir
-
-digitemp
-dir
-
-lsof
-dir
-
-huaweiaktbbo
-dir
-
-less
-dir
-
-wattsup
-dir
-
-owfs
-dir
-
-event_test
-dir
-
-nvramtool
-dir
-
-stress
-dir
-
-lrzsz
-dir
-
-pv
-dir
-
-rrdtool
-dir
-
-sdparm
-dir
-
-bzip2
-dir
-
-cpusage
-dir
-
-gpiotoggling
-dir
-
-nano
-dir
-
-vim
-dir
-
-lilo
-dir
-
-wifitoggle
-dir
-
-tcpser
-dir
-
-pps-tools
-dir
-
-fowsr
-dir
-
-ap51-flash
-dir
-
-foxboard-utils
-dir
-
-zip
-dir
-
-ccrypt
-dir
-
-at
-dir
-
-procps
-dir
-
-io
-dir
-
-pwcrypt
-dir
-
-bandwidthd
-dir
-
-gzip
-dir
-
-psplash
-dir
-
-hdparm
-dir
-
-oww
-dir
-
-bash
-dir
-

@@ -1,61 +1,0 @@
-10
-
-dir
-4
-https://code.hiwifi.com/svn/hiwifi/trunk/target/linux/brcm63xx/base-files/etc/defconfig
-https://code.hiwifi.com/svn/hiwifi
-
-
-
-2013-08-31T16:52:02.175858Z
-3
-sudo_router
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-92febfcd-a4b0-4a44-9a7f-5341b7505815
-
-96348A-122
-dir
-
-SPW500V
-dir
-
-CPVA642
-dir
-
-96358-502V
-dir
-
-AW4139
-dir
-
-CT536_CT5621
-dir
-
-D-4P-W
-dir
-
-V2110
-dir
-
-96358GW
-dir
-
-generic
-dir
-
-DVAG3810BN
-dir
-
