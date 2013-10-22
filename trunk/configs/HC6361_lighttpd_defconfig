@@ -1558,7 +1558,7 @@ CONFIG_PACKAGE_luci-proto-ppp=y
 # 7. Server Interfaces
 #
 CONFIG_PACKAGE_luci-sgi-cgi=y
-# CONFIG_PACKAGE_luci-sgi-uhttpd is not set
+CONFIG_PACKAGE_luci-sgi-uhttpd=y
 
 #
 # 8. Libraries
@@ -3082,7 +3082,7 @@ CONFIG_PACKAGE_lighttpd-mod-webdav=y
 # CONFIG_PACKAGE_tsocks is not set
 CONFIG_PACKAGE_uhttpd=y
 # CONFIG_PACKAGE_uhttpd_debug is not set
-# CONFIG_PACKAGE_uhttpd-mod-lua is not set
+CONFIG_PACKAGE_uhttpd-mod-lua=y
 # CONFIG_PACKAGE_uhttpd-mod-tls is not set
 # CONFIG_PACKAGE_uhttpd-mod-ubus is not set
 # CONFIG_PACKAGE_wccpd is not set
