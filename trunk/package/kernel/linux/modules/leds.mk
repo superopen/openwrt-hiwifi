@@ -110,7 +110,7 @@ define KernelPackage/ledtrig-usbdev
   TITLE:=LED USB device Trigger
   DEPENDS:=@USB_SUPPORT +kmod-usb-core
   KCONFIG:=CONFIG_LEDS_TRIGGER_USBDEV
-  FILES:=$(LINUX_DIR)/drivers/leds/$(if $(call kernel_patchver_ge,3,10),trigger/)ledtrig-usbdev.ko
+  FILES:=$(LINUX_DIR)/drivers/leds/ledtrig-usbdev.ko
   AUTOLOAD:=$(call AutoLoad,50,ledtrig-usbdev)
 endef
 
