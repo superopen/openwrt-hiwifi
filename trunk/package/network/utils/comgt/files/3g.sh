@@ -33,6 +33,9 @@ proto_3g_setup() {
 		cdma|evdo)
 			chat="/etc/chatscripts/evdo.chat"
 		;;
+		tdscdma)
+			chat="/etc/chatscripts/tdscdma.chat"
+		;;
 		*)
 			chat="/etc/chatscripts/3g.chat"
 			cardinfo=$(gcom -d "$device" -s /etc/gcom/getcardinfo.gcom)
